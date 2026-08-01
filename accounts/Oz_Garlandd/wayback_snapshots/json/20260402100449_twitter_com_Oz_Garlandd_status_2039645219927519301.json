@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039616420347302376",
+    "created_at": "2026-04-02T10:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039645219927519301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039645219927519301",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039616420347302376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 我去了看成注射液"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2067,
+        "media_key": "3_2039616408620027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4sUTna0AAyARY.jpg",
+        "width": 1327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039616420347302376",
+        "created_at": "2026-04-02T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039645219927519301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039645219927519301",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039616420347302376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 我去了看成注射液"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039616408620027904"
+          ]
+        },
+        "author_id": "1886385501130866688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039616420347302376",
+        "created_at": "2026-04-02T08:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039616420347302376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVUsnPlk4d",
+              "end": 25,
+              "expanded_url": "https://x.com/Lomyral/status/2039616420347302376/photo/1",
+              "media_key": "3_2039616408620027904",
+              "start": 2,
+              "url": "https://t.co/kVUsnPlk4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039616420347302376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤣 https://t.co/kVUsnPlk4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 61,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 355
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 478,
+          "like_count": 37425,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 4375
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

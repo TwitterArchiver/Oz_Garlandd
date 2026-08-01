@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036082762244145238",
+    "created_at": "2026-03-23T14:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036082762244145238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823160336691982336",
+          "start": 3,
+          "username": "Hozheganma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/vF",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/vF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036082762244145238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035872830731280500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hozheganma: 100fo了！谢谢你们🥰～抽奖来了\n一等奖1名：2盒pr 折现34r\n二等奖2名：1盒pr 折现17r\n三等奖5名：1盒愈丑 折现8r\n欢迎 评论+转发 这条帖子参与～\n奖励如果发不完会随机发给中奖人\n一天后开奖😽 https://t.co/vF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "100fo",
+        "height": 1476,
+        "media_key": "3_2035872821776412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDfi33a8AACzwz.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036082762244145238",
+        "created_at": "2026-03-23T14:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036082762244145238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823160336691982336",
+              "start": 3,
+              "username": "Hozheganma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/vF",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/vF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036082762244145238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035872830731280500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hozheganma: 100fo了！谢谢你们🥰～抽奖来了\n一等奖1名：2盒pr 折现34r\n二等奖2名：1盒pr 折现17r\n三等奖5名：1盒愈丑 折现8r\n欢迎 评论+转发 这条帖子参与～\n奖励如果发不完会随机发给中奖人\n一天后开奖😽 https://t.co/vF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035872821776412672"
+          ]
+        },
+        "author_id": "1823160336691982336",
+        "conversation_id": "2035872830731280500",
+        "created_at": "2026-03-23T00:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035872830731280500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFBqYD2gGy",
+              "end": 131,
+              "expanded_url": "https://x.com/Hozheganma/status/2035872830731280500/photo/1",
+              "media_key": "3_2035872821776412672",
+              "start": 108,
+              "url": "https://t.co/vFBqYD2gGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035872830731280500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4675,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了！谢谢你们🥰～抽奖来了\n一等奖1名：2盒pr 折现34r\n二等奖2名：1盒pr 折现17r\n三等奖5名：1盒愈丑 折现8r\n欢迎 评论+转发 这条帖子参与～\n奖励如果发不完会随机发给中奖人\n一天后开奖😽 https://t.co/vFBqYD2gGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "",
+        "id": "1997644719908884480",
+        "name": "Oz.Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 93
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "09高中在读/已经滚出精卫。。/oder💊/自伤🤕/友跨/喜欢所有人/durg&set/想和你们互fo🙂/现实与网络的反差人/主页背景图临时的，在想换什么好/匿名聊天↓（话说真的有人么）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 0,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "天空",
+        "name": "沫依#Ng♓️（求互fo）",
+        "pinned_tweet_id": "2035872830731280500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 261,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/cNzWslTT8R",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

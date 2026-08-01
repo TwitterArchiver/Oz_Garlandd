@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040725846034731301",
+    "created_at": "2026-04-05T16:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040836407669707165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040836407669707165",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040725846034731301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 我们死法一样诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2040725842662408192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIdV3faQAA8OVi.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040725846034731301",
+        "created_at": "2026-04-05T16:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040836407669707165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040836407669707165",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040725846034731301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 我们死法一样诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040725842662408192"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040725846034731301",
+        "created_at": "2026-04-05T09:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040725846034731301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2039017006339645440/756lqKoF?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039017006339645440/756lqKoF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/aQBaPWJWhM"
+            },
+            {
+              "display_url": "pic.x.com/IouAA2AcMz",
+              "end": 63,
+              "expanded_url": "https://x.com/MianXue525/status/2040725846034731301/photo/1",
+              "media_key": "3_2040725842662408192",
+              "start": 40,
+              "url": "https://t.co/IouAA2AcMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040725846034731301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/aQBaPWJWhM https://t.co/IouAA2AcMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 77,
+          "like_count": 7515,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 501
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040814466431164416/0RECaVIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 330,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2045552984306700463",
+    "created_at": "2026-04-18T19:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T20:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045582199101993019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034331851633135616",
+          "start": 0,
+          "username": "StevenWhit25645"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045582199101993019",
+    "in_reply_to_user_id": "2034331851633135616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045581565980262560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StevenWhit25645 你这畜生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2045552984306700463",
+        "created_at": "2026-04-18T19:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045582199101993019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034331851633135616",
+              "start": 0,
+              "username": "StevenWhit25645"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045582199101993019",
+        "in_reply_to_user_id": "2034331851633135616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045581565980262560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StevenWhit25645 你这畜生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034331851633135616",
+        "conversation_id": "2045552984306700463",
+        "created_at": "2026-04-18T19:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045581565980262560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045581565980262560",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045552984306700463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd ⁠💞\n🤭\n🌺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 145,
+          "like_count": 12551,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 805
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T18:11:29.000Z",
+        "description": "已入驻约p平台:👉https://t.co/dmWSCLCvPA只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/dmWSCLCvPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozi8811",
+                "end": 23,
+                "expanded_url": "https://t.me/taozi8811",
+                "start": 0,
+                "url": "https://t.co/BHf8uWi3U2"
+              }
+            ]
+          }
+        },
+        "id": "2034331851633135616",
+        "location": "距离您3.58km              👉全国外围上门✈",
+        "name": "语晨🌸同城约炮🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045581668153757696/G0r3bjcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/BHf8uWi3U2",
+        "username": "StevenWhit25645",
+        "verified": false
+      }
+    ]
+  }
+}

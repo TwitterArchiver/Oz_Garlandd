@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052981399045525510"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052958682728837341",
+    "created_at": "2026-05-09T05:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052981402656784717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        },
+        {
+          "end": 24,
+          "id": "1682793693630304260",
+          "start": 15,
+          "username": "gpSillyB"
+        },
+        {
+          "end": 35,
+          "id": "1949348575378644992",
+          "start": 25,
+          "username": "Ace_Purin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qlnRSNtHef",
+          "end": 59,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052981402656784717/photo/1",
+          "media_key": "3_2052981399045525510",
+          "start": 36,
+          "url": "https://t.co/qlnRSNtHef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052981402656784717",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052972292783865994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 @gpSillyB @Ace_Purin https://t.co/qlnRSNtHef"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2052981399045525510",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2ntIyX0AYoKXU.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052981399045525510"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052958682728837341",
+        "created_at": "2026-05-09T05:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052981402656784717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            },
+            {
+              "end": 24,
+              "id": "1682793693630304260",
+              "start": 15,
+              "username": "gpSillyB"
+            },
+            {
+              "end": 35,
+              "id": "1949348575378644992",
+              "start": 25,
+              "username": "Ace_Purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlnRSNtHef",
+              "end": 59,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052981402656784717/photo/1",
+              "media_key": "3_2052981399045525510",
+              "start": 36,
+              "url": "https://t.co/qlnRSNtHef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052981402656784717",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052972292783865994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 @gpSillyB @Ace_Purin https://t.co/qlnRSNtHef"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2052958682728837341",
+        "created_at": "2026-05-09T04:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052972292783865994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            },
+            {
+              "end": 20,
+              "id": "1949348575378644992",
+              "start": 10,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 33,
+              "id": "1997644719908884480",
+              "start": 21,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052972292783865994",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052971507064979469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB @Ace_Purin @Oz_Garlandd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 222,
+          "like_count": 17170,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1140
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 372,
+          "like_count": 1712,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 146,
+          "like_count": 3691,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 793
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 2412,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

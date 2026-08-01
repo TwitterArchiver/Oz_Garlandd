@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062032860610183168"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2062032870424953116",
+    "created_at": "2026-06-03T04:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062032870424953116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0AjeKGIfOY",
+          "end": 56,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2062032870424953116/photo/1",
+          "media_key": "3_2062032860610183168",
+          "start": 33,
+          "url": "https://t.co/0AjeKGIfOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062032870424953116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现我都250fo了结果还没有个像样的自介条..现在开始构思！ https://t.co/0AjeKGIfOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2062032860610183168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3P9ivaQAAm8Ze.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062032860610183168"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2062032870424953116",
+        "created_at": "2026-06-03T04:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062032870424953116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AjeKGIfOY",
+              "end": 56,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2062032870424953116/photo/1",
+              "media_key": "3_2062032860610183168",
+              "start": 33,
+              "url": "https://t.co/0AjeKGIfOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062032870424953116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我都250fo了结果还没有个像样的自介条..现在开始构思！ https://t.co/0AjeKGIfOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 293,
+          "like_count": 24525,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1945
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

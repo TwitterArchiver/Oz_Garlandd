@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041174322912407553"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041168841389264993",
+    "created_at": "2026-04-06T15:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041174327471570956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nhLzhP1uXg",
+          "end": 35,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2041174327471570956/photo/1",
+          "media_key": "3_2041174322912407553",
+          "start": 12,
+          "url": "https://t.co/nhLzhP1uXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041174327471570956",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041173391013744931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 好🥺 https://t.co/nhLzhP1uXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2041174322912407553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFO1O2nXsAE7NpD.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041174322912407553"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041168841389264993",
+        "created_at": "2026-04-06T15:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041174327471570956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhLzhP1uXg",
+              "end": 35,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041174327471570956/photo/1",
+              "media_key": "3_2041174322912407553",
+              "start": 12,
+              "url": "https://t.co/nhLzhP1uXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041174327471570956",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041173391013744931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 好🥺 https://t.co/nhLzhP1uXg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2041168841389264993",
+        "created_at": "2026-04-06T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041173391013744931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041173391013744931",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041169376930377913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 那我们应该能在路上见面🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 88,
+          "like_count": 8521,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 543
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "大停药时代👁️👁️",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 504,
+          "like_count": 39730,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 4827
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

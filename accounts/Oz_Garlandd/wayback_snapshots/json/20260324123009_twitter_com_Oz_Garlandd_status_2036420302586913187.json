@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036420302586913187",
+    "created_at": "2026-03-24T12:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036420302586913187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1807044386104238080",
+          "start": 3,
+          "username": "cishenfeiwoyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036420302586913187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036146343660626147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cishenfeiwoyou: 今天疼得睡不着，跳楼好疼啊，过了这么多年还是时不时疼得不能动，晚上失眠\n特别是腰腿关节真是钻心的疼…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036420302586913187",
+        "created_at": "2026-03-24T12:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036420302586913187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1807044386104238080",
+              "start": 3,
+              "username": "cishenfeiwoyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036420302586913187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036146343660626147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cishenfeiwoyou: 今天疼得睡不着，跳楼好疼啊，过了这么多年还是时不时疼得不能动，晚上失眠\n特别是腰腿关节真是钻心的疼…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "2036146343660626147",
+        "created_at": "2026-03-23T18:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036146343660626147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036146343660626147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天疼得睡不着，跳楼好疼啊，过了这么多年还是时不时疼得不能动，晚上失眠\n特别是腰腿关节真是钻心的疼\n\n但不管怎么疼还是庆幸当时没有头着地吧，不然真是错过了后来好多美好的体验——西湖碧绿的山水，三清山上轻快的风，烟台蓝蓝的海，威海好吃便宜的生蚝，济南可爱的泉水，扬州甜甜的早点，高邮湖香香的鸭蛋，繁华绚丽的上海外滩，楚姐姐在我困难的时候给我买的衣服，泡面，还有馨姐姐温柔的鼓励和可爱的fufu妹妹陪我聊天…\n这些体验让我觉得，活着真好，我想好好活着\n\n回头看我并不是真的想死，只是想快点结束痛苦，逃离糟糕的，窒息的环境，这不怪我\n\n累的时候，不知道怎么办的时候好好休息吧，多给自己一点时间…\n活下去，总有一天我们会有属于自己的幸福的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1131,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天疼得睡不着，跳楼好疼啊，过了这么多年还是时不时疼得不能动，晚上失眠\n特别是腰腿关节真是钻心的疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ✘直男勿扰Ⅰ☯东方厨Ⅰ矿物爱好者Ⅰ爱听摇滚\n最好的妹妹@fuafuamiaoQxQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "fuafuamiaoQxQ"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 626,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 227
+        },
+        "username": "cishenfeiwoyou",
+        "verified": true
+      }
+    ]
+  }
+}

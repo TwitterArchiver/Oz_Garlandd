@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2050135337264091334",
+    "created_at": "2026-05-01T08:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050135337264091334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682395404976156672",
+          "start": 3,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050135337264091334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049743569574072436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanghs84: 五一限定版抽奖帖\n给大家抽一个510\n在5月1号的下午5:10开奖（当然前提是参与的人数至少要过30，真诚的讲，猫猫我啊确实是为了提升流量来的）\n我会在点赞，转帖以及评论的人里面随机选择，其中转帖会优先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2050135337264091334",
+        "created_at": "2026-05-01T08:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050135337264091334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682395404976156672",
+              "start": 3,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050135337264091334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049743569574072436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanghs84: 五一限定版抽奖帖\n给大家抽一个510\n在5月1号的下午5:10开奖（当然前提是参与的人数至少要过30，真诚的讲，猫猫我啊确实是为了提升流量来的）\n我会在点赞，转帖以及评论的人里面随机选择，其中转帖会优先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2049743569574072436",
+        "created_at": "2026-04-30T06:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049743569574072436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049743569574072436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1169,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "五一限定版抽奖帖\n给大家抽一个510\n在5月1号的下午5:10开奖（当然前提是参与的人数至少要过30，真诚的讲，猫猫我啊确实是为了提升流量来的）\n我会在点赞，转帖以及评论的人里面随机选择，其中转帖会优先"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 169,
+          "like_count": 14624,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 891
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "非正常人类研究者｜不加墙内联系方式\n欢迎门哥门姐咨询\n分身@SugarWithGlaass",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "SugarWithGlaass"
+              }
+            ]
+          }
+        },
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫（复活版）",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 239
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

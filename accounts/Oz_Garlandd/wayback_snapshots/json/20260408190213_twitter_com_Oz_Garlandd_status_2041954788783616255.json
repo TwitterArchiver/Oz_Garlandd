@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041954788783616255",
+    "created_at": "2026-04-08T19:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041954788783616255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041954788783616255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041802674862223827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 大家喜欢叫我十七老师，那不如我就开设一个班级吧！！\n名字是：17班の致幻晚自习\n是禁止营销等一切违规行为的纯娱乐纯讨论tg群组哦，暂时先分布职位，后面再邀请同学们加入\n现在开始招聘课代表们或者其他职位啦\n私我申请哦，什么职位都可以，自由根…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2041802670454009858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXwtfna8AI95R6.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041954788783616255",
+        "created_at": "2026-04-08T19:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041954788783616255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041954788783616255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041802674862223827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 大家喜欢叫我十七老师，那不如我就开设一个班级吧！！\n名字是：17班の致幻晚自习\n是禁止营销等一切违规行为的纯娱乐纯讨论tg群组哦，暂时先分布职位，后面再邀请同学们加入\n现在开始招聘课代表们或者其他职位啦\n私我申请哦，什么职位都可以，自由根…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041802670454009858"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2041802674862223827",
+        "created_at": "2026-04-08T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041802674862223827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMFypBnmBP",
+              "end": 155,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041802674862223827/photo/1",
+              "media_key": "3_2041802670454009858",
+              "start": 132,
+              "url": "https://t.co/PMFypBnmBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041802674862223827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3248,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家喜欢叫我十七老师，那不如我就开设一个班级吧！！\n名字是：17班の致幻晚自习\n是禁止营销等一切违规行为的纯娱乐纯讨论tg群组哦，暂时先分布职位，后面再邀请同学们加入\n现在开始招聘课代表们或者其他职位啦\n私我申请哦，什么职位都可以，自由根据能力考虑\n当下职位有： https://t.co/PMFypBnmBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 114,
+          "like_count": 9944,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 620
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 944,
+          "like_count": 2304,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

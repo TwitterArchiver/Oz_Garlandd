@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2044661270205673812",
+    "created_at": "2026-04-16T10:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044732121055465636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044732121055465636",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044661270205673812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 我买的两瓶白兔，用的我自己的身份证，没有被晶，但卡出库卡了10多天，现在都没出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2044659788626464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAXPqObEAAOhZm.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2044659790262259712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAXPwUbUAArfRw.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2044659798055190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAXQNWaAAA5MnR.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2044660058345324544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAXfXAaQAADQcp.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044661270205673812",
+        "created_at": "2026-04-16T10:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044732121055465636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044732121055465636",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044661270205673812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 我买的两瓶白兔，用的我自己的身份证，没有被晶，但卡出库卡了10多天，现在都没出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044659788626464768",
+            "3_2044659790262259712",
+            "3_2044659798055190528",
+            "3_2044660058345324544"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044661270205673812",
+        "created_at": "2026-04-16T06:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044661270205673812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qH8ayyDUeo",
+              "end": 130,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044661270205673812/photo/1",
+              "media_key": "3_2044659788626464768",
+              "start": 107,
+              "url": "https://t.co/qH8ayyDUeo"
+            },
+            {
+              "display_url": "pic.x.com/qH8ayyDUeo",
+              "end": 130,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044661270205673812/photo/1",
+              "media_key": "3_2044659790262259712",
+              "start": 107,
+              "url": "https://t.co/qH8ayyDUeo"
+            },
+            {
+              "display_url": "pic.x.com/qH8ayyDUeo",
+              "end": 130,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044661270205673812/photo/1",
+              "media_key": "3_2044659798055190528",
+              "start": 107,
+              "url": "https://t.co/qH8ayyDUeo"
+            },
+            {
+              "display_url": "pic.x.com/qH8ayyDUeo",
+              "end": 130,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044661270205673812/photo/1",
+              "media_key": "3_2044660058345324544",
+              "start": 107,
+              "url": "https://t.co/qH8ayyDUeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044661270205673812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 emm我更喜欢一个人但原则上第一次最好有人陪\np2 最近特殊时期，这两个问题都无法确定\np3 我不知道怎么劝你，休学就是会变懒惰，该回学校就回学校。大型考试无所谓，怕什么没必要逃避，赶紧回学校\np4 pea https://t.co/qH8ayyDUeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 144,
+          "like_count": 12215,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1167,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

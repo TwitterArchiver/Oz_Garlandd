@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039298835827367954",
+    "created_at": "2026-04-02T04:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039566030809518213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035406618981281792",
+          "start": 0,
+          "username": "NaOHwithHCl"
+        },
+        {
+          "end": 21,
+          "id": "1886385501130866688",
+          "start": 13,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039566030809518213",
+    "in_reply_to_user_id": "2035406618981281792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039481895688589623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaOHwithHCl @Lomyral 来呀来呀🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039298835827367954",
+        "created_at": "2026-04-02T04:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039566030809518213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035406618981281792",
+              "start": 0,
+              "username": "NaOHwithHCl"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039566030809518213",
+        "in_reply_to_user_id": "2035406618981281792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039481895688589623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaOHwithHCl @Lomyral 来呀来呀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035406618981281792",
+        "conversation_id": "2039298835827367954",
+        "created_at": "2026-04-01T23:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039481895688589623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 21,
+              "id": "1886385501130866688",
+              "start": 13,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039481895688589623",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039372694739714137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd @Lomyral bro我是穷人，无偿，但你愿意教，bro肯定乐意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 60,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 349
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T17:22:32.000Z",
+        "description": "生产地点 江苏 无锡\n生产日期2009/10/11 \n无建模 不抽烟喝酒od\n讨厌一切抽烟喝酒\n喜欢化学 梦想从事化学 愿我能死于一场化学事故\n非男同 女装纯爱好\n不吃糖（未来可能）想当一个完美的精神病\n这里当qq空间用\n我很可愛 我很可愛喵喵喵~（堅定維護中國共產黨 祖國統一 把臺獨份子的狗頭砍下來喂高市早苗嘴裡）",
+        "id": "2035406618981281792",
+        "location": "中国",
+        "name": "張海豔-氢氧化钠🍥🏳️‍⚧️（本體周周）互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035663299472392192/dg3zrUxg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 132,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "NaOHwithHCl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 476,
+          "like_count": 37240,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 4334
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

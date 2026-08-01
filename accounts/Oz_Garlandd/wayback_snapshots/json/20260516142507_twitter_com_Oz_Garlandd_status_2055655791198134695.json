@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055655778866864128"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055645990590583207",
+    "created_at": "2026-05-16T14:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055655791198134695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        },
+        {
+          "end": 23,
+          "id": "1760380003341279232",
+          "start": 16,
+          "username": "why728"
+        },
+        {
+          "end": 37,
+          "id": "1686016663781535744",
+          "start": 24,
+          "username": "xiaolin57817"
+        },
+        {
+          "end": 51,
+          "id": "1942179909079875584",
+          "start": 38,
+          "username": "mendong_tian"
+        },
+        {
+          "end": 65,
+          "id": "1522862031795372032",
+          "start": 52,
+          "username": "Alouette_zzz"
+        },
+        {
+          "end": 73,
+          "id": "2052101329250873344",
+          "start": 66,
+          "username": "8964_R"
+        },
+        {
+          "end": 84,
+          "id": "2031092286160076800",
+          "start": 74,
+          "username": "gufuta886"
+        },
+        {
+          "end": 96,
+          "id": "1801354933796741120",
+          "start": 85,
+          "username": "ZaiBu14192"
+        },
+        {
+          "end": 106,
+          "id": "1952199689769742336",
+          "start": 97,
+          "username": "derolla_"
+        },
+        {
+          "end": 116,
+          "id": "1780570823063171072",
+          "start": 107,
+          "username": "pulinnaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2GHWn4961e",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2055655791198134695/photo/1",
+          "media_key": "3_2055655778866864128",
+          "start": 126,
+          "url": "https://t.co/2GHWn4961e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055655791198134695",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055645990590583207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping @why728 @xiaolin57817 @mendong_tian @Alouette_zzz @8964_R @gufuta886 @ZaiBu14192 @derolla_ @pulinnaa 我去！❤️❤️🥹 https://t.co/2GHWn4961e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2055655778866864128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcoCh_WoAAy8ea.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055655778866864128"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055645990590583207",
+        "created_at": "2026-05-16T14:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055655791198134695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            },
+            {
+              "end": 23,
+              "id": "1760380003341279232",
+              "start": 16,
+              "username": "why728"
+            },
+            {
+              "end": 37,
+              "id": "1686016663781535744",
+              "start": 24,
+              "username": "xiaolin57817"
+            },
+            {
+              "end": 51,
+              "id": "1942179909079875584",
+              "start": 38,
+              "username": "mendong_tian"
+            },
+            {
+              "end": 65,
+              "id": "1522862031795372032",
+              "start": 52,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 73,
+              "id": "2052101329250873344",
+              "start": 66,
+              "username": "8964_R"
+            },
+            {
+              "end": 84,
+              "id": "2031092286160076800",
+              "start": 74,
+              "username": "gufuta886"
+            },
+            {
+              "end": 96,
+              "id": "1801354933796741120",
+              "start": 85,
+              "username": "ZaiBu14192"
+            },
+            {
+              "end": 106,
+              "id": "1952199689769742336",
+              "start": 97,
+              "username": "derolla_"
+            },
+            {
+              "end": 116,
+              "id": "1780570823063171072",
+              "start": 107,
+              "username": "pulinnaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GHWn4961e",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2055655791198134695/photo/1",
+              "media_key": "3_2055655778866864128",
+              "start": 126,
+              "url": "https://t.co/2GHWn4961e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055655791198134695",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055645990590583207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping @why728 @xiaolin57817 @mendong_tian @Alouette_zzz @8964_R @gufuta886 @ZaiBu14192 @derolla_ @pulinnaa 我去！❤️❤️🥹 https://t.co/2GHWn4961e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385919167971282946",
+        "conversation_id": "2055645990590583207",
+        "created_at": "2026-05-16T13:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:45:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055645881538691443",
+          "2055645990590583207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1760380003341279232",
+              "start": 74,
+              "username": "why728"
+            },
+            {
+              "end": 95,
+              "id": "1686016663781535744",
+              "start": 82,
+              "username": "xiaolin57817"
+            },
+            {
+              "end": 109,
+              "id": "1942179909079875584",
+              "start": 96,
+              "username": "mendong_tian"
+            },
+            {
+              "end": 122,
+              "id": "1997644719908884480",
+              "start": 110,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 136,
+              "id": "1522862031795372032",
+              "start": 123,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 144,
+              "id": "2052101329250873344",
+              "start": 137,
+              "username": "8964_R"
+            },
+            {
+              "end": 155,
+              "id": "2031092286160076800",
+              "start": 145,
+              "username": "gufuta886"
+            },
+            {
+              "end": 167,
+              "id": "1801354933796741120",
+              "start": 156,
+              "username": "ZaiBu14192"
+            },
+            {
+              "end": 177,
+              "id": "1952199689769742336",
+              "start": 168,
+              "username": "derolla_"
+            },
+            {
+              "end": 187,
+              "id": "1780570823063171072",
+              "start": 178,
+              "username": "pulinnaa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "✅ 已调整完毕！ 为了绝对公平，我已： 彻底排除你本人（@whyyoutangping） 从剩余 39 个账号 中用 Python random.sample 随机补抽 1 个（无种子、无干预） 🎉 最终 10 个中奖账号（已去重、无你本人，按随机顺序排列）： @why728 @xiaolin57817 @mendong_tian @Oz_Garlandd @Alouette_zzz @8964_R @gufuta886 @ZaiBu14192 @derolla_ @pulinnaa 恭喜以上 10 位小伙伴～🍥 需要我导出纯文本、重新再抽一次、或者直接@通知原主吗？随时说！",
+              "display_url": "x.com/i/grok/share/6…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/68ebd1a3375b433eaf9db62d60ec4c34",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2055645889692323841/4cbkGISD?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055645889692323841/4cbkGISD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "不要抽到我了，再补一个，不要和中奖的重复了就行",
+              "unwound_url": "https://x.com/i/grok/share/68ebd1a3375b433eaf9db62d60ec4c34",
+              "url": "https://t.co/vtt5dj2zzf"
+            },
+            {
+              "display_url": "x.com/whyyoutangping…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/whyyoutangping/status/2055644471262634000",
+              "start": 203,
+              "url": "https://t.co/txCEqSi4as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055645990590583207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055644471262634000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vtt5dj2zzf\n不小心把我自己抽到了。新的名单在这里\n最终 10 个中奖账号（已去重、无你本人，按随机顺序排列）：\n@why728\n@xiaolin57817\n@mendong_tian\n@Oz_Garlandd\n@Alouette_zzz\n@8964_R\n@gufuta886\n@ZaiBu14192\n@derolla_\n@pulinnaa\n恭喜以上 10 位小伙伴～🍥 https://t.co/txCEqSi4as"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 237,
+          "like_count": 19730,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1303
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜I人（友跨喵！）｜服用大豆异黄酮｜禁止涩涩｜也许是MTX？？？｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 109,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 86,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 124,
+          "like_count": 1975,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 760
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T19:04:41.000Z",
+        "description": "",
+        "id": "1760380003341279232",
+        "location": "九幽",
+        "name": "Aibre",
+        "pinned_tweet_id": "2045518553596805196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033694894628438016/_KYBWaYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 22,
+          "like_count": 2914,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1675
+        },
+        "username": "why728",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T14:11:24.000Z",
+        "description": "175cm/05年生/学食品的小男娘/社恐一个✌/坐标福建/偶尔回of",
+        "id": "1686016663781535744",
+        "name": "小林酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686016888118059008/mrluTkWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 1219,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 151
+        },
+        "username": "xiaolin57817",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T11:12:56.000Z",
+        "description": "这里是天门冬，对象@RogerDisboard\ninfp-t/高中生（住校，周末随机刷新）/福瑞控\n究极社恐，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "RogerDisboard"
+              }
+            ]
+          }
+        },
+        "id": "1942179909079875584",
+        "name": "天门冬",
+        "pinned_tweet_id": "2051571891643863201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053116966005837824/wYSZISXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 386,
+          "like_count": 2071,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "mendong_tian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T08:53:09.000Z",
+        "description": "｜你总问别人好不好 那你好不好₍˄·͈༝·͈˄*₎◞ ̑̑｜｜°.✩┈⋆⁺幸福请降临在𝓛𝓮𝓿𝓲/左然/顾时夜手中₊⋆┈✩.°\n｜宝宝@wslcdg20｜💚🤍🩵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "wslcdg20"
+              }
+            ]
+          }
+        },
+        "id": "1522862031795372032",
+        "location": "🤍 SMTR25 🩵｜ 💚 𝓛𝓮𝓿𝓲  🤍",
+        "name": "小叙大王",
+        "pinned_tweet_id": "1874419696596074498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007425087050248192/vZN1cwT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 391,
+          "like_count": 54431,
+          "listed_count": 5,
+          "media_count": 1246,
+          "tweet_count": 10844
+        },
+        "username": "Alouette_zzz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052735154242851176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 41,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 209
+        },
+        "username": "8964_R",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T19:39:53.000Z",
+        "description": "喵喵喵 我爱着所有人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gufuta",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gufuta",
+                "start": 0,
+                "url": "https://t.co/yxwSPqi4th"
+              }
+            ]
+          }
+        },
+        "id": "2031092286160076800",
+        "name": "辜负牠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031093227030208512/nem3SUM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/yxwSPqi4th",
+        "username": "gufuta886",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T20:44:28.000Z",
+        "description": "",
+        "id": "1801354933796741120",
+        "name": "被喝茶的可怜人",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 156
+        },
+        "username": "ZaiBu14192",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T02:47:46.000Z",
+        "description": "你的电脑遇到问题，需要重启。\n我们只收集某些错误信息，然后你可以重新启动。\n˙\n99% 完成",
+        "id": "1952199689769742336",
+        "location": "垃圾桶",
+        "name": "德萝拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054530568126332928/X3CRxjXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "derolla_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "2054868011987951703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049321734793531392/O80bhC0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 172,
+          "like_count": 4015,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2218
+        },
+        "username": "pulinnaa",
+        "verified": false
+      }
+    ]
+  }
+}

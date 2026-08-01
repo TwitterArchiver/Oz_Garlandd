@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056027565949591553"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056027584974959073",
+    "created_at": "2026-05-17T15:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056027584974959073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LCKjIdnraf",
+          "end": 74,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056027584974959073/photo/1",
+          "media_key": "3_2056027565949591553",
+          "start": 51,
+          "url": "https://t.co/LCKjIdnraf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056027584974959073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "18t dxm+20mg雪尘+20mg 4ho\n预计12:00使用\n不知内外幻相混相生会是如何之景致 https://t.co/LCKjIdnraf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2056027565949591553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh6LYzWIAELY6B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056027565949591553"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056027584974959073",
+        "created_at": "2026-05-17T15:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056027584974959073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCKjIdnraf",
+              "end": 74,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056027584974959073/photo/1",
+              "media_key": "3_2056027565949591553",
+              "start": 51,
+              "url": "https://t.co/LCKjIdnraf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056027584974959073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18t dxm+20mg雪尘+20mg 4ho\n预计12:00使用\n不知内外幻相混相生会是如何之景致 https://t.co/LCKjIdnraf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 236,
+          "like_count": 19955,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1319
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

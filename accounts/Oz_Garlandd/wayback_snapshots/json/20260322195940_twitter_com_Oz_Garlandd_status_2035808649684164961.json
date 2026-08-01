@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2035709406432969171",
+    "created_at": "2026-03-22T19:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T20:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035808649684164961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035808649684164961",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035709406432969171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 别去上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2035709406432969171",
+        "created_at": "2026-03-22T19:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035808649684164961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035808649684164961",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035709406432969171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 别去上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2035709406432969171",
+        "created_at": "2026-03-22T13:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035709406432969171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wu_si42846/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/wu_si42846/status/2035691165404864841",
+              "start": 16,
+              "url": "https://t.co/do2zD4Bnry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035709406432969171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035691165404864841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几把不吃了，一堆傻逼作业我想吐 https://t.co/do2zD4Bnry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "",
+        "id": "1997644719908884480",
+        "name": "Oz.Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "白兔你个臭傻逼，我操死你🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀里账号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 950,
+          "like_count": 36743,
+          "listed_count": 1,
+          "media_count": 661,
+          "tweet_count": 14334
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

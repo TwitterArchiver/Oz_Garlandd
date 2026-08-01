@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2051739238497169524",
+    "created_at": "2026-05-05T19:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051739963260014709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 27,
+          "id": "1782303137136852992",
+          "start": 16,
+          "username": "h1zh816060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051739963260014709",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051739401173303585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @h1zh816060 这个程度会直接晕过去的吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2051739238497169524",
+        "created_at": "2026-05-05T19:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051739963260014709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 27,
+              "id": "1782303137136852992",
+              "start": 16,
+              "username": "h1zh816060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051739963260014709",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051739401173303585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @h1zh816060 这个程度会直接晕过去的吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2051739238497169524",
+        "created_at": "2026-05-05T19:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051739401173303585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "h1zh816060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051739401173303585",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051739238497169524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1zh816060 24:20 吞下48t dxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 211,
+          "like_count": 16392,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1024
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/内心探索/药理帮助/碎碎念/哲思/我都回fo(没回私我)",
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1427,
+          "like_count": 4121,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2059
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个牛逼超级双双双向INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h1zh8160",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h1zh8160",
+                "start": 0,
+                "url": "https://t.co/EfFuKlfeku"
+              }
+            ]
+          }
+        },
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 113,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/EfFuKlfeku",
+        "username": "h1zh816060",
+        "verified": false
+      }
+    ]
+  }
+}

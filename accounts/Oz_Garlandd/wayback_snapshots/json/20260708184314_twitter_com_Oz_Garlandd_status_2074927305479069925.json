@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074927144124272640"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2074927305479069925",
+    "created_at": "2026-07-08T18:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074927305479069925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pll5U0hQN",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2074927305479069925/video/1",
+          "media_key": "7_2074927144124272640",
+          "start": 126,
+          "url": "https://t.co/0pll5U0hQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074927305479069925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜宵:无！\n窗外雷声很大 轰隆轰隆 像我的肚子..\n貌似被雷暴袭击了😱😱闪个不停\n\n原定今晚是要爽吃野猫上坟的🤤🤤\n但同学约我明天去打羽毛球\n那我怎么能输呢？！我要一挑二😈😈\n但因此也没准备夜宵所以啥也没有💤💤\n\n雨夜爽吃dxm会不会别有一番情趣呢🧐 https://t.co/0pll5U0hQN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29977,
+        "height": 1280,
+        "media_key": "7_2074927144124272640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074927144124272640/pu/img/WUq4fVkM-yhr5YXA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074927144124272640/pu/vid/avc1/320x568/ZR5tRNZMGoqQ80wD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074927144124272640/pu/vid/avc1/480x852/hazNBBFS-Qd45q_e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074927144124272640/pu/vid/avc1/720x1280/OrvEp2PoxnjJz2iv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074927144124272640/pu/pl/iTR_bc4WaXpwr-6p.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074927144124272640"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2074927305479069925",
+        "created_at": "2026-07-08T18:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074927305479069925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pll5U0hQN",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2074927305479069925/video/1",
+              "media_key": "7_2074927144124272640",
+              "start": 126,
+              "url": "https://t.co/0pll5U0hQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074927305479069925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜宵:无！\n窗外雷声很大 轰隆轰隆 像我的肚子..\n貌似被雷暴袭击了😱😱闪个不停\n\n原定今晚是要爽吃野猫上坟的🤤🤤\n但同学约我明天去打羽毛球\n那我怎么能输呢？！我要一挑二😈😈\n但因此也没准备夜宵所以啥也没有💤💤\n\n雨夜爽吃dxm会不会别有一番情趣呢🧐 https://t.co/0pll5U0hQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 441,
+          "like_count": 30566,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2529
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

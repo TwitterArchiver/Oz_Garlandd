@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048722858256510976",
+        "3_2048722859967832064",
+        "3_2048722860009754625"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2048722895661047961",
+    "created_at": "2026-04-27T11:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048722895661047961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vrbK0eDTg1",
+          "end": 39,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+          "media_key": "3_2048722858256510976",
+          "start": 16,
+          "url": "https://t.co/vrbK0eDTg1"
+        },
+        {
+          "display_url": "pic.x.com/vrbK0eDTg1",
+          "end": 39,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+          "media_key": "3_2048722859967832064",
+          "start": 16,
+          "url": "https://t.co/vrbK0eDTg1"
+        },
+        {
+          "display_url": "pic.x.com/vrbK0eDTg1",
+          "end": 39,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+          "media_key": "3_2048722860009754625",
+          "start": 16,
+          "url": "https://t.co/vrbK0eDTg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048722895661047961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猩红诅咒+破碎尸块=番茄肉汤面 https://t.co/vrbK0eDTg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048722858256510976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6GlcGaMAAZjw8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048722859967832064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6Gliea4AA0PTf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048722860009754625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6GlioakAEv6jO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048722858256510976",
+            "3_2048722859967832064",
+            "3_2048722860009754625"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048722895661047961",
+        "created_at": "2026-04-27T11:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048722895661047961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrbK0eDTg1",
+              "end": 39,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+              "media_key": "3_2048722858256510976",
+              "start": 16,
+              "url": "https://t.co/vrbK0eDTg1"
+            },
+            {
+              "display_url": "pic.x.com/vrbK0eDTg1",
+              "end": 39,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+              "media_key": "3_2048722859967832064",
+              "start": 16,
+              "url": "https://t.co/vrbK0eDTg1"
+            },
+            {
+              "display_url": "pic.x.com/vrbK0eDTg1",
+              "end": 39,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2048722895661047961/photo/1",
+              "media_key": "3_2048722860009754625",
+              "start": 16,
+              "url": "https://t.co/vrbK0eDTg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048722895661047961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猩红诅咒+破碎尸块=番茄肉汤面 https://t.co/vrbK0eDTg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 158,
+          "like_count": 13842,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 847
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

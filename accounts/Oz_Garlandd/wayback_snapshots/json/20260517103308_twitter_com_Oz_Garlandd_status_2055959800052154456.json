@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055929912184459663",
+    "created_at": "2026-05-17T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055959800052154456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902046879166468096",
+          "start": 0,
+          "username": "awaTsuki1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055959800052154456",
+    "in_reply_to_user_id": "1902046879166468096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055929912184459663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaTsuki1111 可爱喵❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2055929909684600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIghXC3aAAA9eTD.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055929912184459663",
+        "created_at": "2026-05-17T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959800052154456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902046879166468096",
+              "start": 0,
+              "username": "awaTsuki1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959800052154456",
+        "in_reply_to_user_id": "1902046879166468096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055929912184459663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaTsuki1111 可爱喵❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055929909684600832"
+          ]
+        },
+        "author_id": "1902046879166468096",
+        "conversation_id": "2055929912184459663",
+        "created_at": "2026-05-17T08:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055929912184459663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FJ6jeYgKL",
+              "end": 36,
+              "expanded_url": "https://x.com/awaTsuki1111/status/2055929912184459663/photo/1",
+              "media_key": "3_2055929909684600832",
+              "start": 13,
+              "url": "https://t.co/1FJ6jeYgKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055929912184459663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像\n换一只祈祷猫猫 https://t.co/1FJ6jeYgKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 236,
+          "like_count": 19782,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1309
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，重抑重焦\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 57,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 34,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "location": "石家庄",
+        "name": "awaTsuki",
+        "pinned_tweet_id": "2036433369165340797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055909459688603648/OCNIfSz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 71,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false
+      }
+    ]
+  }
+}

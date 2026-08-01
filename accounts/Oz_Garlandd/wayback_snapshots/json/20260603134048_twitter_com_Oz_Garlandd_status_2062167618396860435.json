@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061828868630262012",
+    "created_at": "2026-06-03T13:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062167618396860435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 26,
+          "id": "94999172",
+          "start": 16,
+          "username": "toukorina"
+        },
+        {
+          "end": 42,
+          "id": "1493482825546297349",
+          "start": 27,
+          "username": "maimaiPinkPlus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062167618396860435",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062157212760617133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @toukorina @maimaiPinkPlus 心中的一切终于放松下来真的很舒服🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061828868630262012",
+        "created_at": "2026-06-03T13:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062167618396860435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 26,
+              "id": "94999172",
+              "start": 16,
+              "username": "toukorina"
+            },
+            {
+              "end": 42,
+              "id": "1493482825546297349",
+              "start": 27,
+              "username": "maimaiPinkPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062167618396860435",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062157212760617133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @toukorina @maimaiPinkPlus 心中的一切终于放松下来真的很舒服🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2061828868630262012",
+        "created_at": "2026-06-03T12:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062157212760617133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            },
+            {
+              "end": 26,
+              "id": "1493482825546297349",
+              "start": 11,
+              "username": "maimaiPinkPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062157212760617133",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062153513145348390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina @maimaiPinkPlus 强烈焦虑被突然完全抑制真的是会强烈欣快的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 310,
+          "like_count": 24692,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1962
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 1514,
+          "like_count": 5312,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 2563
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7361,
+          "following_count": 955,
+          "like_count": 173825,
+          "listed_count": 17,
+          "media_count": 1510,
+          "tweet_count": 44106
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T07:10:51.000Z",
+        "description": "maimai苦练中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/uof72WwZtK"
+              }
+            ]
+          }
+        },
+        "id": "1493482825546297349",
+        "location": "乌蒙地插",
+        "name": "N9ko",
+        "pinned_tweet_id": "1755030644256915715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1243,
+          "like_count": 11158,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/uof72WwZtK",
+        "username": "maimaiPinkPlus",
+        "verified": false
+      }
+    ]
+  }
+}

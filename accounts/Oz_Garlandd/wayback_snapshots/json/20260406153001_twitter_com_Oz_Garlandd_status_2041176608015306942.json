@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041171709982810506",
+    "created_at": "2026-04-06T15:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041176608015306942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "Sept4CandH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041176608015306942",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041176355027722729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sept4CandH 抱😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041171709982810506",
+        "created_at": "2026-04-06T15:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041176608015306942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "Sept4CandH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041176608015306942",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041176355027722729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sept4CandH 抱😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920704053031694336",
+        "conversation_id": "2041171709982810506",
+        "created_at": "2026-04-06T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041176355027722729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041176355027722729",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041176228338565133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 别哭 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 88,
+          "like_count": 8533,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 547
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041147082829148162/bEYjy4ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 201,
+          "like_count": 4112,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2279
+        },
+        "username": "Sept4CandH",
+        "verified": false
+      }
+    ]
+  }
+}

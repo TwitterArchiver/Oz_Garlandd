@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061666021132652544"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061666024676811142",
+    "created_at": "2026-06-02T04:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061666024676811142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDlmA021Hf",
+          "end": 58,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061666024676811142/photo/1",
+          "media_key": "3_2061666021132652544",
+          "start": 35,
+          "url": "https://t.co/hDlmA021Hf"
+        },
+        {
+          "display_url": "x.com/Oz_Garlandd/st…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Oz_Garlandd/status/2061479553957335048",
+          "start": 59,
+          "url": "https://t.co/nHaj3MOCvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061666024676811142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061479553957335048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好哦白白🥺👌🏻给你提前留了一份❤️\n只有邪恶msk才吃不到我的吐司😈 https://t.co/hDlmA021Hf https://t.co/nHaj3MOCvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061666021132652544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyCUrMa0AAxH1k.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061479538304172032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvYt8hbQAAMeNq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061666021132652544"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061666024676811142",
+        "created_at": "2026-06-02T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061666024676811142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDlmA021Hf",
+              "end": 58,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061666024676811142/photo/1",
+              "media_key": "3_2061666021132652544",
+              "start": 35,
+              "url": "https://t.co/hDlmA021Hf"
+            },
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2061479553957335048",
+              "start": 59,
+              "url": "https://t.co/nHaj3MOCvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061666024676811142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061479553957335048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好哦白白🥺👌🏻给你提前留了一份❤️\n只有邪恶msk才吃不到我的吐司😈 https://t.co/hDlmA021Hf https://t.co/nHaj3MOCvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061479538304172032"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061479553957335048",
+        "created_at": "2026-06-01T16:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061479553957335048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DVCnHUqTp",
+              "end": 47,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061479553957335048/photo/1",
+              "media_key": "3_2061479538304172032",
+              "start": 24,
+              "url": "https://t.co/0DVCnHUqTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061479553957335048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这片吐司看起来好诱人！..待会有空剧烈品尝😋你 https://t.co/0DVCnHUqTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 287,
+          "like_count": 24122,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1903
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

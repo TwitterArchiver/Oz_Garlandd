@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039704916873371841",
+    "created_at": "2026-04-03T14:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040077198808306104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986291014370545665",
+          "start": 0,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040077198808306104",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039704916873371841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasehelp070 你是否在寻找:斯德哥尔摩综合征？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039704916873371841",
+        "created_at": "2026-04-03T14:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040077198808306104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040077198808306104",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039704916873371841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 你是否在寻找:斯德哥尔摩综合征？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039704916873371841",
+        "created_at": "2026-04-02T14:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039704916873371841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039704916873371841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1059,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么只有生理性喜欢 没有病理性喜欢毒理性喜欢药理性喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 63,
+          "like_count": 5288,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 416
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 197,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 277
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

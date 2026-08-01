@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040823557899579876",
+    "created_at": "2026-04-06T14:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041155201294348300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "Sept4CandH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041155201294348300",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040823557899579876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sept4CandH 换头像了！好美😭😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040823557899579876",
+        "created_at": "2026-04-06T14:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041155201294348300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "Sept4CandH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041155201294348300",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040823557899579876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sept4CandH 换头像了！好美😭😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920704053031694336",
+        "conversation_id": "2040823557899579876",
+        "created_at": "2026-04-05T16:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040823557899579876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040823557899579876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3883,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有没有不睡觉就能睡觉的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 85,
+          "like_count": 8302,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 535
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041147082829148162/bEYjy4ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 201,
+          "like_count": 4085,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2263
+        },
+        "username": "Sept4CandH",
+        "verified": false
+      }
+    ]
+  }
+}

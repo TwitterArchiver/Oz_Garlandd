@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050882168285704192",
+        "3_2050882165601370112",
+        "3_2050882168264806400",
+        "3_2050882168243748865"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2050882202162917772",
+    "created_at": "2026-05-03T10:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050882202162917772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpNEBkXvG3",
+          "end": 135,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+          "media_key": "3_2050882168285704192",
+          "start": 112,
+          "url": "https://t.co/UpNEBkXvG3"
+        },
+        {
+          "display_url": "pic.x.com/UpNEBkXvG3",
+          "end": 135,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+          "media_key": "3_2050882165601370112",
+          "start": 112,
+          "url": "https://t.co/UpNEBkXvG3"
+        },
+        {
+          "display_url": "pic.x.com/UpNEBkXvG3",
+          "end": 135,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+          "media_key": "3_2050882168264806400",
+          "start": 112,
+          "url": "https://t.co/UpNEBkXvG3"
+        },
+        {
+          "display_url": "pic.x.com/UpNEBkXvG3",
+          "end": 135,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+          "media_key": "3_2050882168243748865",
+          "start": 112,
+          "url": "https://t.co/UpNEBkXvG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050882202162917772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1 不是很懂\np2 我喜欢很多流派 包括古典 爵士 kpop 电子乐...硬要挑一首就\n暗く黒く (昏暗而漆黑) - ずっと真夜中でいいのに。 (永远是深夜有多好｡)\np3 不懂\np4 是meiii吗？如果是那我就没忘！ https://t.co/UpNEBkXvG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050882168285704192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYyd0zaMAA8CoF.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050882165601370112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYydqzagAAnoiy.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050882168264806400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYyd0ubUAAdHkg.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050882168243748865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYyd0paAAE6BMm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050882168285704192",
+            "3_2050882165601370112",
+            "3_2050882168264806400",
+            "3_2050882168243748865"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2050882202162917772",
+        "created_at": "2026-05-03T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050882202162917772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpNEBkXvG3",
+              "end": 135,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+              "media_key": "3_2050882168285704192",
+              "start": 112,
+              "url": "https://t.co/UpNEBkXvG3"
+            },
+            {
+              "display_url": "pic.x.com/UpNEBkXvG3",
+              "end": 135,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+              "media_key": "3_2050882165601370112",
+              "start": 112,
+              "url": "https://t.co/UpNEBkXvG3"
+            },
+            {
+              "display_url": "pic.x.com/UpNEBkXvG3",
+              "end": 135,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+              "media_key": "3_2050882168264806400",
+              "start": 112,
+              "url": "https://t.co/UpNEBkXvG3"
+            },
+            {
+              "display_url": "pic.x.com/UpNEBkXvG3",
+              "end": 135,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050882202162917772/photo/1",
+              "media_key": "3_2050882168243748865",
+              "start": 112,
+              "url": "https://t.co/UpNEBkXvG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050882202162917772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 不是很懂\np2 我喜欢很多流派 包括古典 爵士 kpop 电子乐...硬要挑一首就\n暗く黒く (昏暗而漆黑) - ずっと真夜中でいいのに。 (永远是深夜有多好｡)\np3 不懂\np4 是meiii吗？如果是那我就没忘！ https://t.co/UpNEBkXvG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 179,
+          "like_count": 15098,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 920
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

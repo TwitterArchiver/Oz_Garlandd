@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061087625868624215",
+    "created_at": "2026-06-03T11:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062127964222062793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059149411007991808",
+          "start": 0,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062127964222062793",
+    "in_reply_to_user_id": "2059149411007991808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061087625868624215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wndsfefoumxlw6 🥺❤️👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061087625868624215",
+        "created_at": "2026-06-03T11:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062127964222062793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062127964222062793",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061087625868624215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 🥺❤️👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2061087625868624215",
+        "created_at": "2026-05-31T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061087625868624215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061087625868624215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3800,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝新生，开个抽奖吧\n6.2开奖\n\n5.2r红包3个\n\n关注评论转发即可\n现在粉丝少中奖率高哦🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 308,
+          "like_count": 24653,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1959
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/重生归来，三代目，前世@RfbxaUauj41685 @rednightmare962欢迎互fo🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 47,
+                "start": 31,
+                "username": "rednightmare962"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛3.0",
+        "pinned_tweet_id": "2061009751287463964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061008596381704192/DvtOhDvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 38,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 126
+        },
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

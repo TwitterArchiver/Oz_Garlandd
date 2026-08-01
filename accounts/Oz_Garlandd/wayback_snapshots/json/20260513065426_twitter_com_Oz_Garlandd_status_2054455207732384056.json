@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2054435262948614310",
+    "created_at": "2026-05-13T06:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054455207732384056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605806041186304",
+          "start": 0,
+          "username": "halationwires"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054455207732384056",
+    "in_reply_to_user_id": "1534605806041186304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054449777367265480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halationwires 🐱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2054435262948614310",
+        "created_at": "2026-05-13T06:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054455207732384056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534605806041186304",
+              "start": 0,
+              "username": "halationwires"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054455207732384056",
+        "in_reply_to_user_id": "1534605806041186304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054449777367265480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halationwires 🐱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534605806041186304",
+        "conversation_id": "2054435262948614310",
+        "created_at": "2026-05-13T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054449777367265480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054449777367265480",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054435262948614310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 231,
+          "like_count": 18866,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1216
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:38:48.000Z",
+        "description": "白加灰的颜色",
+        "id": "1534605806041186304",
+        "name": "ˈ尸爱",
+        "pinned_tweet_id": "2044000741640024166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053766202841792512/8MCmbHyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 9998,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 456
+        },
+        "username": "halationwires",
+        "verified": false
+      }
+    ]
+  }
+}

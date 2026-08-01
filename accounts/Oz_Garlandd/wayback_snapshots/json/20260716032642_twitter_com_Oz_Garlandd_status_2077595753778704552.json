@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2077438023424217307",
+    "created_at": "2026-07-16T03:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077595753778704552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949220315336470529",
+          "start": 0,
+          "username": "wimzylens0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077595753778704552",
+    "in_reply_to_user_id": "1949220315336470529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077575226511212702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wimzylens0 🤤🤤🥹🥰必竭尽全力康复！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2077575224200175617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUHqLCaoAEt-s3.jpg",
+        "width": 274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2077438023424217307",
+        "created_at": "2026-07-16T03:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077595753778704552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949220315336470529",
+              "start": 0,
+              "username": "wimzylens0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077595753778704552",
+        "in_reply_to_user_id": "1949220315336470529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077575226511212702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wimzylens0 🤤🤤🥹🥰必竭尽全力康复！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077575224200175617"
+          ]
+        },
+        "author_id": "1949220315336470529",
+        "conversation_id": "2077438023424217307",
+        "created_at": "2026-07-16T02:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077575226511212702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yelAUk9pMC",
+              "end": 64,
+              "expanded_url": "https://x.com/wimzylens0/status/2077575226511212702/photo/1",
+              "media_key": "3_2077575224200175617",
+              "start": 41,
+              "url": "https://t.co/yelAUk9pMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077575226511212702",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077438023424217307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 美味的肉和绿豆汤\n居然得了肺炎嘛\n希望你能够早日康复🙏 https://t.co/yelAUk9pMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 443,
+          "like_count": 31667,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@NanoCatfish | 饲养员：@allthistime42 (仅限猫猫本喵使用)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "allthistime42"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFNezx"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039483243272298496/Gsg8QZFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 267,
+          "like_count": 13352,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/KTkSJFNezx",
+        "username": "wimzylens0",
+        "verified": false
+      }
+    ]
+  }
+}

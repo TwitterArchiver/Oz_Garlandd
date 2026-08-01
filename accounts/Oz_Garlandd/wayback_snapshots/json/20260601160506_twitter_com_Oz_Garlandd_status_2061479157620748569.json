@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061479143435599872"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061479157620748569",
+    "created_at": "2026-06-01T16:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061479157620748569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qIN5GSD7We",
+          "end": 65,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061479157620748569/photo/1",
+          "media_key": "3_2061479143435599872",
+          "start": 42,
+          "url": "https://t.co/qIN5GSD7We"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061479157620748569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想当解离👻 但手边没物质了..所以只能试着剧烈使用佐匹克隆..试试2t会发生什么( https://t.co/qIN5GSD7We"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061479143435599872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvYW9hbAAAry0A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061479143435599872"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061479157620748569",
+        "created_at": "2026-06-01T16:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061479157620748569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIN5GSD7We",
+              "end": 65,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061479157620748569/photo/1",
+              "media_key": "3_2061479143435599872",
+              "start": 42,
+              "url": "https://t.co/qIN5GSD7We"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061479157620748569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想当解离👻 但手边没物质了..所以只能试着剧烈使用佐匹克隆..试试2t会发生什么( https://t.co/qIN5GSD7We"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 285,
+          "like_count": 23865,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1844
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

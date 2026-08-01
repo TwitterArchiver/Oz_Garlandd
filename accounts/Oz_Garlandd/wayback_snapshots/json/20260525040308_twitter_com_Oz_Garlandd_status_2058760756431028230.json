@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2058760280159437089",
+    "created_at": "2026-05-25T04:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058760756431028230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058760756431028230",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058760280159437089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有多离奇呢？感觉就像谵忘了一样！完全没有通顺逻辑可言！比如说我上了一趟列车，可是这趟列车去的方向与我目的地是反方向，但我居然觉得很正常还不换车！，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058760244763758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIviOrXEAAf9Vt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2058760280159437089",
+        "created_at": "2026-05-25T04:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058760756431028230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058760756431028230",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058760280159437089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有多离奇呢？感觉就像谵忘了一样！完全没有通顺逻辑可言！比如说我上了一趟列车，可是这趟列车去的方向与我目的地是反方向，但我居然觉得很正常还不换车！，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058760244763758592"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058760280159437089",
+        "created_at": "2026-05-25T04:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058760280159437089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viTG56ZDte",
+              "end": 72,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2058760280159437089/photo/1",
+              "media_key": "3_2058760244763758592",
+              "start": 49,
+              "url": "https://t.co/viTG56ZDte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058760280159437089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又忘记吃阿普了，，睡眠中醒了三四次还做很离奇的梦，质量评价为拉完了！，，现在巨困又睡不着，，😴😭 https://t.co/viTG56ZDte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 258,
+          "like_count": 21753,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1571
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

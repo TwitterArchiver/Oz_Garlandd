@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039827400922718594",
+    "created_at": "2026-04-03T00:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039867270848213104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797970383477645312",
+          "start": 0,
+          "username": "lilizln350765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039867270848213104",
+    "in_reply_to_user_id": "1797970383477645312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039867165759656138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilizln350765 好的好的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039827400922718594",
+        "created_at": "2026-04-03T00:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039867270848213104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797970383477645312",
+              "start": 0,
+              "username": "lilizln350765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039867270848213104",
+        "in_reply_to_user_id": "1797970383477645312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039867165759656138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilizln350765 好的好的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797970383477645312",
+        "conversation_id": "2039827400922718594",
+        "created_at": "2026-04-03T00:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039867165759656138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039867165759656138",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039866923949908366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 一周一次哦～否则身体恢复不过来体验也不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 4768,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 402
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:35:30.000Z",
+        "description": "bpd重度抑郁焦虑intp/乱发疯 /我没有记性，我什么都记不住",
+        "id": "1797970383477645312",
+        "name": "悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038749547648720896/ATxdcmID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 72,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 889
+        },
+        "username": "lilizln350765",
+        "verified": false
+      }
+    ]
+  }
+}

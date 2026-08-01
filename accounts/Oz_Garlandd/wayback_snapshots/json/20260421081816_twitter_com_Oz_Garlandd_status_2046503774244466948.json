@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2046188444905595350",
+    "created_at": "2026-04-21T08:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046503774244466948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775522951749591040",
+          "start": 0,
+          "username": "binbin77930833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046503774244466948",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046188444905595350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binbin77930833 oder会自己找到出路，也许是大麻，也许是晚安，也许是更多不知道从哪开发出来的布洛芬还是感康？总之前途一片沧海桑田"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_2046188431580295168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWFiY_bcAApkcB.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2046188444905595350",
+        "created_at": "2026-04-21T08:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046503774244466948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046503774244466948",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046188444905595350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 oder会自己找到出路，也许是大麻，也许是晚安，也许是更多不知道从哪开发出来的布洛芬还是感康？总之前途一片沧海桑田"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046188431580295168"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2046188444905595350",
+        "created_at": "2026-04-20T11:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046188444905595350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JVhxprwZiF",
+              "end": 39,
+              "expanded_url": "https://x.com/binbin77930833/status/2046188444905595350/photo/1",
+              "media_key": "3_2046188431580295168",
+              "start": 16,
+              "url": "https://t.co/JVhxprwZiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046188444905595350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 29260,
+          "like_count": 163,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "今天是oder史上最黑暗的日子 https://t.co/JVhxprwZiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 150,
+          "like_count": 12760,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 816
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 287,
+          "like_count": 1013,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

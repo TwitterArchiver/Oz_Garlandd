@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052429628246241537",
+    "created_at": "2026-05-07T19:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T20:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052473012171989011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986291014370545665",
+          "start": 0,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052473012171989011",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052429628246241537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasehelp070 通过比喻慢慢压缩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052429628246241537",
+        "created_at": "2026-05-07T19:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052473012171989011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052473012171989011",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052429628246241537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 通过比喻慢慢压缩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052429628246241537",
+        "created_at": "2026-05-07T16:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052429628246241537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052429628246241537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我根本不知道怎么把真正的想法写下来，我真的特别难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 219,
+          "like_count": 16947,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1107
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 143,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 561
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

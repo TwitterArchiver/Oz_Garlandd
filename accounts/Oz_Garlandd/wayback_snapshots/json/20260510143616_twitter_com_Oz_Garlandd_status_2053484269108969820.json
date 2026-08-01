@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2053483664298643844",
+    "created_at": "2026-05-10T14:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053484269108969820"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053484269108969820",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053483664298643844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对了这次的详细报告大约会在明天发出 可以再观望一下🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053483640814776320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9wfdLXMAAz1PG.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053483640856682497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9wfdVWoAExYkq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2053483664298643844",
+        "created_at": "2026-05-10T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053484269108969820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053484269108969820",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053483664298643844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了这次的详细报告大约会在明天发出 可以再观望一下🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053483640814776320",
+            "3_2053483640856682497"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2053483664298643844",
+        "created_at": "2026-05-10T14:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053483664298643844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tn3aatPDeI",
+              "end": 178,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2053483664298643844/photo/1",
+              "media_key": "3_2053483640814776320",
+              "start": 155,
+              "url": "https://t.co/Tn3aatPDeI"
+            },
+            {
+              "display_url": "pic.x.com/Tn3aatPDeI",
+              "end": 178,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2053483664298643844/photo/1",
+              "media_key": "3_2053483640856682497",
+              "start": 155,
+              "url": "https://t.co/Tn3aatPDeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053483664298643844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话4ho的副作用很难受...\n一个是超绝思考困难 还有血清素呕吐 高剂量时很容易bad trip 会见到很多恐怖的幻觉 以及最要命的妄想和认知兴奋毒性...用方便理解的说法就是失去理智的疯狂 对着影子人和蛛网狂喜痴笑 而且药效退去时必定会头痛😣总之使用它是项很大的挑战\n如果以上都能接受...那就私我吧！ https://t.co/Tn3aatPDeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 230,
+          "like_count": 17952,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1174
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

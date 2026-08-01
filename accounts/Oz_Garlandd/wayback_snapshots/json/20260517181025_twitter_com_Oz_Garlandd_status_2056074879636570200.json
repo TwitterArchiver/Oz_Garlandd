@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056074853841612801",
+        "3_2056074849177505792"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056074879636570200",
+    "created_at": "2026-05-17T18:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056074879636570200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kc0H94CHl9",
+          "end": 56,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056074879636570200/photo/1",
+          "media_key": "3_2056074853841612801",
+          "start": 33,
+          "url": "https://t.co/kc0H94CHl9"
+        },
+        {
+          "display_url": "pic.x.com/kc0H94CHl9",
+          "end": 56,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056074879636570200/photo/1",
+          "media_key": "3_2056074849177505792",
+          "start": 33,
+          "url": "https://t.co/kc0H94CHl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056074879636570200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈服了，，非逼着我把桌子舔一遍是吧？ ，真的很咸很苦啊！！🤮 https://t.co/kc0H94CHl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056074853841612801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIilL57XsAEatte.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2056074849177505792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIilLojXEAALZ3-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056074853841612801",
+            "3_2056074849177505792"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056074879636570200",
+        "created_at": "2026-05-17T18:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056074879636570200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kc0H94CHl9",
+              "end": 56,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056074879636570200/photo/1",
+              "media_key": "3_2056074853841612801",
+              "start": 33,
+              "url": "https://t.co/kc0H94CHl9"
+            },
+            {
+              "display_url": "pic.x.com/kc0H94CHl9",
+              "end": 56,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056074879636570200/photo/1",
+              "media_key": "3_2056074849177505792",
+              "start": 33,
+              "url": "https://t.co/kc0H94CHl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056074879636570200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈服了，，非逼着我把桌子舔一遍是吧？ ，真的很咸很苦啊！！🤮 https://t.co/kc0H94CHl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 236,
+          "like_count": 20056,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1331
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

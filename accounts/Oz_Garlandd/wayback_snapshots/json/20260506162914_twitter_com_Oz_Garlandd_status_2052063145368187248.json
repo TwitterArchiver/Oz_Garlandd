@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052011244266414140",
+    "created_at": "2026-05-06T16:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052063145368187248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682558288247021568",
+          "start": 0,
+          "username": "miumiu_14_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052063145368187248",
+    "in_reply_to_user_id": "1682558288247021568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052011244266414140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumiu_14_dd 摸抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052011244266414140",
+        "created_at": "2026-05-06T16:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052063145368187248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682558288247021568",
+              "start": 0,
+              "username": "miumiu_14_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052063145368187248",
+        "in_reply_to_user_id": "1682558288247021568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052011244266414140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumiu_14_dd 摸抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "conversation_id": "2052011244266414140",
+        "created_at": "2026-05-06T13:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052011244266414140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052011244266414140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在精神一定是还有很大的问题，只是已经习惯了\n比如小时候能流畅的说长文长句子，阅读抽象文字，现在我可能前额叶受损了还是怎么着只能阅读和书写比较口语化的句子\n然后很多领域以前是我的乐园，现在是我看一眼就感觉脑子扭起来的禁区\n创伤什么时候可以恢复，什么时候我才能成为完全体的我啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 217,
+          "like_count": 16838,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1075
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "比较人机请见谅 ⟡ 20+ ⟡ afab ⟡ BPD／CPTSD／OSDD-1a ⟡ 友跨 ⟡ feminist ⟡ matriarchy ⟡ 有爱人 ⟡ 不登校家里蹲 ⟡ 百合爱好者 ⟡ \n——⟡⋆˙欢迎互fo⟡⋆˙——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "因特奈特",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050294151942692864/nxeLZIOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 456,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      }
+    ]
+  }
+}

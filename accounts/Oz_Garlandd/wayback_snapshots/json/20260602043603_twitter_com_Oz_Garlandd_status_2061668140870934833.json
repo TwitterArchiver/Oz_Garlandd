@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061668133979787264",
+        "3_2061668104330199040"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061668140870934833",
+    "created_at": "2026-06-02T04:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061668140870934833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Px1eMjTXX0",
+          "end": 172,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061668140870934833/photo/1",
+          "media_key": "3_2061668133979787264",
+          "start": 149,
+          "url": "https://t.co/Px1eMjTXX0"
+        },
+        {
+          "display_url": "pic.x.com/Px1eMjTXX0",
+          "end": 172,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061668140870934833/photo/1",
+          "media_key": "3_2061668104330199040",
+          "start": 149,
+          "url": "https://t.co/Px1eMjTXX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061668140870934833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一般推荐是dxm 不过近来随着盐野义的监管也愈发收紧 那只能退而求其次去吃晚安或者其他神秘新物质了..\n关于CD 一般最短不长耐受的时长是两周一次 如果不在乎耐受的增长 一周一次乃至于一天一次基本上也没什么问题 不过这可能导致严重的副作用 比如脑雾等身体+精神损害 所以只有解离👻会这么做哦😸😸😸 https://t.co/Px1eMjTXX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061668133979787264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyEPqKbkAAhghz.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061668104330199040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyEN7tawAA1JnL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061668133979787264",
+            "3_2061668104330199040"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061668140870934833",
+        "created_at": "2026-06-02T04:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061668140870934833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Px1eMjTXX0",
+              "end": 172,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061668140870934833/photo/1",
+              "media_key": "3_2061668133979787264",
+              "start": 149,
+              "url": "https://t.co/Px1eMjTXX0"
+            },
+            {
+              "display_url": "pic.x.com/Px1eMjTXX0",
+              "end": 172,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061668140870934833/photo/1",
+              "media_key": "3_2061668104330199040",
+              "start": 149,
+              "url": "https://t.co/Px1eMjTXX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061668140870934833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般推荐是dxm 不过近来随着盐野义的监管也愈发收紧 那只能退而求其次去吃晚安或者其他神秘新物质了..\n关于CD 一般最短不长耐受的时长是两周一次 如果不在乎耐受的增长 一周一次乃至于一天一次基本上也没什么问题 不过这可能导致严重的副作用 比如脑雾等身体+精神损害 所以只有解离👻会这么做哦😸😸😸 https://t.co/Px1eMjTXX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 287,
+          "like_count": 24122,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1904
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

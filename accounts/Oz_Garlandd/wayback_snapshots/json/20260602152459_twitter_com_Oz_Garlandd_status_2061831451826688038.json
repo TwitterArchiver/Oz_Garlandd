@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061831448601227264"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061831451826688038",
+    "created_at": "2026-06-02T15:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061831451826688038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxybQDKKtr",
+          "end": 125,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061831451826688038/photo/1",
+          "media_key": "3_2061831448601227264",
+          "start": 102,
+          "url": "https://t.co/PxybQDKKtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061831451826688038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果让我从跟人干一炮与两板dxm间选一个 我一定选择后者 毕竟dxm已经(接近)绝版了啊喂🤤🤤跟人发生关系若是没感情就味如嚼蜡哦🥺\n\n什么时候能再登一次高原！唉\n2t佐匹克隆已下肚 今晚不躺床上试着坚持 https://t.co/PxybQDKKtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2061831448601227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Yx0ia8AA4kSU.jpg",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061831448601227264"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061831451826688038",
+        "created_at": "2026-06-02T15:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061831451826688038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxybQDKKtr",
+              "end": 125,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061831451826688038/photo/1",
+              "media_key": "3_2061831448601227264",
+              "start": 102,
+              "url": "https://t.co/PxybQDKKtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061831451826688038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果让我从跟人干一炮与两板dxm间选一个 我一定选择后者 毕竟dxm已经(接近)绝版了啊喂🤤🤤跟人发生关系若是没感情就味如嚼蜡哦🥺\n\n什么时候能再登一次高原！唉\n2t佐匹克隆已下肚 今晚不躺床上试着坚持 https://t.co/PxybQDKKtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 293,
+          "like_count": 24336,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1924
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

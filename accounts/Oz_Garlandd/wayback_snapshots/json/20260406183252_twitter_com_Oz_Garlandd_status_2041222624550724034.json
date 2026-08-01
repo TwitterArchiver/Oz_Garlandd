@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041222512013693338",
+    "created_at": "2026-04-06T18:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041222624550724034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041222624550724034",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041222512013693338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 起飞！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041222495555276800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPhC3sb0AAua3c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 216,
+        "media_key": "16_2041222495555182593",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFPhC3saYAEVZ10.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFPhC3saYAEVZ10.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041222512013693338",
+        "created_at": "2026-04-06T18:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041222624550724034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041222624550724034",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041222512013693338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 起飞！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041222495555276800",
+            "16_2041222495555182593"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2041222512013693338",
+        "created_at": "2026-04-06T18:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041222512013693338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQnNdaaYoi",
+              "end": 38,
+              "expanded_url": "https://x.com/Olebe179131/status/2041222512013693338/photo/1",
+              "media_key": "3_2041222495555276800",
+              "start": 15,
+              "url": "https://t.co/oQnNdaaYoi"
+            },
+            {
+              "display_url": "pic.x.com/oQnNdaaYoi",
+              "end": 38,
+              "expanded_url": "https://x.com/Olebe179131/status/2041222512013693338/photo/1",
+              "media_key": "16_2041222495555182593",
+              "start": 15,
+              "url": "https://t.co/oQnNdaaYoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041222512013693338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊难受，我要继续磕pr！ https://t.co/oQnNdaaYoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 93,
+          "like_count": 8629,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 569
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/清水推/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040796432937193472/o7B7VSgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 491,
+          "like_count": 22384,
+          "listed_count": 0,
+          "media_count": 843,
+          "tweet_count": 2825
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

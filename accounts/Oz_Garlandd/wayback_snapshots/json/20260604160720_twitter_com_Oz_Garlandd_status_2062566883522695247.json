@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2060757560853237971",
+    "created_at": "2026-06-04T16:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062566883522695247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801888513853689862",
+          "start": 0,
+          "username": "tomnn1500041"
+        },
+        {
+          "end": 25,
+          "id": "1554387909587136512",
+          "start": 14,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062566883522695247",
+    "in_reply_to_user_id": "1801888513853689862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060811122224308304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomnn1500041 @Gag_Order_ 是真的！，，我吃只有抗焦虑和解离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-06-04T16:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062566883522695247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801888513853689862",
+              "start": 0,
+              "username": "tomnn1500041"
+            },
+            {
+              "end": 25,
+              "id": "1554387909587136512",
+              "start": 14,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062566883522695247",
+        "in_reply_to_user_id": "1801888513853689862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060811122224308304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomnn1500041 @Gag_Order_ 是真的！，，我吃只有抗焦虑和解离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801888513853689862",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-05-30T19:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060811122224308304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060811122224308304",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060757560853237971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 有效果吗？感觉pr80类太分人了，我吃1200mg只是头晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 366,
+          "like_count": 25197,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2008
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T08:04:52.000Z",
+        "description": "谁对我好我就喜欢谁",
+        "id": "1801888513853689862",
+        "location": "地靈殿",
+        "name": "🌟小氦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999916065091178497/L-nCNgpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 262,
+          "like_count": 2354,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 133
+        },
+        "username": "tomnn1500041",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 144,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 209
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

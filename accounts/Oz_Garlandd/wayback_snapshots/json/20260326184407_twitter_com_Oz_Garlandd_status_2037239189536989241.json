@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037205462094106829",
+    "created_at": "2026-03-26T18:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037239189536989241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037239189536989241",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037205462094106829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 这会爽死的吧🥰😇🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2037205454825414656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWbkU1bYAATzxV.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037205462094106829",
+        "created_at": "2026-03-26T18:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037239189536989241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037239189536989241",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037205462094106829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 这会爽死的吧🥰😇🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037205454825414656"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2037205462094106829",
+        "created_at": "2026-03-26T16:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037205462094106829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry8eUYhBLr",
+              "end": 142,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2037205462094106829/photo/1",
+              "media_key": "3_2037205454825414656",
+              "start": 119,
+              "url": "https://t.co/ry8eUYhBLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037205462094106829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下期预告:\n主播将使用新买的bathys耳机(四千多、雅致黑、顶级HiFi音质)\n边欣赏音乐边进行药物联用\n(右美沙芬+普瑞巴林+羟考酮+大麻)\n至于为什么是下次？因为我的耳机还没到货(笑)\n不敢想那时我的音乐欣赏能力可以上升到什么境界 https://t.co/ry8eUYhBLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 162
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/全部友好/回fo(白天上学，晚上在线)/哲学/od报告\n/粉红绕道/intp/重ocd·重抑·中重焦虑·aspd倾向/免费提供药物滥用帮助与心理咨询.私信评论匿问我答都会看哦/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2036719144004166068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 617,
+          "like_count": 1479,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

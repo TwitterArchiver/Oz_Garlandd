@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2043661915327455580",
+    "created_at": "2026-04-13T12:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043664490403614922"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043664490403614922",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043661915327455580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好恨啊，自始至终错的都是他们，我怀揣着这份恨意对待世界，对待所有妨碍我正常生活的东西，于是我获得了狂躁，在学校不停的破坏公物却不自残，但很快我就被束缚住了，我也认为我什么都做不到，哪怕破坏周围所有的东西也不能让情况好转一点，于是我狂躁转抑郁了？可能没有，也可能都有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043661882528083968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyLp4UXsAAZxLS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2043661915327455580",
+        "created_at": "2026-04-13T12:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043664490403614922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043664490403614922",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043661915327455580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好恨啊，自始至终错的都是他们，我怀揣着这份恨意对待世界，对待所有妨碍我正常生活的东西，于是我获得了狂躁，在学校不停的破坏公物却不自残，但很快我就被束缚住了，我也认为我什么都做不到，哪怕破坏周围所有的东西也不能让情况好转一点，于是我狂躁转抑郁了？可能没有，也可能都有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043661882528083968"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2043661915327455580",
+        "created_at": "2026-04-13T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043661915327455580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HooMkgJAjH",
+              "end": 164,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2043661915327455580/photo/1",
+              "media_key": "3_2043661882528083968",
+              "start": 141,
+              "url": "https://t.co/HooMkgJAjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043661915327455580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许，大概，我可能是一个地雷男？\n我不确定，但我真的受不了对我生活的控制与指责\n简单来说，我的父亲强迫我去干家务，很简单，但我今天实在太累了干不动，于是他就絮絮叨叨了两个小时，把所有的错误与失败全部归结为我没有干家务，总结为白眼狼\n要真是这样就好了，但我实在受不了，于是离开了这里 https://t.co/HooMkgJAjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 136,
+          "like_count": 11619,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 697
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

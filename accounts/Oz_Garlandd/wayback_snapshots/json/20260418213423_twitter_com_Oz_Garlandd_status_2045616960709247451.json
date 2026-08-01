@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2045552984306700463",
+    "created_at": "2026-04-18T21:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T22:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045616960709247451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034332267045363713",
+          "start": 0,
+          "username": "KarenM11698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045616960709247451",
+    "in_reply_to_user_id": "2034332267045363713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045603104972759438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarenM11698 出生人机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2045552984306700463",
+        "created_at": "2026-04-18T21:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T22:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045616960709247451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034332267045363713",
+              "start": 0,
+              "username": "KarenM11698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045616960709247451",
+        "in_reply_to_user_id": "2034332267045363713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045603104972759438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarenM11698 出生人机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034332267045363713",
+        "conversation_id": "2045552984306700463",
+        "created_at": "2026-04-18T20:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045603104972759438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045603104972759438",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045552984306700463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd dd‌个​线下的哥哥💋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 145,
+          "like_count": 12555,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 806
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T18:13:08.000Z",
+        "description": "已入驻约p平台:👉https://t.co/xnlCrjyDiT只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/xnlCrjyDiT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozi8811",
+                "end": 23,
+                "expanded_url": "https://t.me/taozi8811",
+                "start": 0,
+                "url": "https://t.co/yJ0A0l9xbM"
+              }
+            ]
+          }
+        },
+        "id": "2034332267045363713",
+        "location": "距离您3.58km              👉全国外围上门✈",
+        "name": "从彤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045603131460100096/L3dAQUnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/yJ0A0l9xbM",
+        "username": "KarenM11698",
+        "verified": false
+      }
+    ]
+  }
+}

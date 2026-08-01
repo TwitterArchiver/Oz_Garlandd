@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039610352175042668",
+    "created_at": "2026-04-02T16:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039747446990078402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028417388321107969",
+          "start": 0,
+          "username": "Fragrooooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039747446990078402",
+    "in_reply_to_user_id": "2028417388321107969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039610352175042668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fragrooooooo 我操，🧊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039610352175042668",
+        "created_at": "2026-04-02T16:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039747446990078402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028417388321107969",
+              "start": 0,
+              "username": "Fragrooooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039747446990078402",
+        "in_reply_to_user_id": "2028417388321107969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039610352175042668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fragrooooooo 我操，🧊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028417388321107969",
+        "conversation_id": "2039610352175042668",
+        "created_at": "2026-04-02T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039610352175042668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039610352175042668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多巴胺让人快乐，但多巴胺是水溶性的，你口服也好注射也罢，都突破不了血脑屏障，很难生效。那怎么办呢？给多巴胺去掉羟基，加一个甲基，就会让它从水溶性变脂溶性，血脑屏障就拦不住它了。但新产物容易被分解，效果不持久。再加一个甲基，代谢就非常慢了。这主意是不是很棒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 4543,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 381
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:29:39.000Z",
+        "description": "前前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Muddledist"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2028417388321107969",
+        "location": "第五高原",
+        "name": "乙女椿",
+        "pinned_tweet_id": "2028425139323613641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033543866352361472/gIIZqjJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 134,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "Fragrooooooo",
+        "verified": false
+      }
+    ]
+  }
+}

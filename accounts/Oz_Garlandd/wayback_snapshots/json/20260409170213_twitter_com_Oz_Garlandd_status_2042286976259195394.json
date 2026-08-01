@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2042070188708000243",
+    "created_at": "2026-04-09T17:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042286976259195394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008943608695840768",
+          "start": 0,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042286976259195394",
+    "in_reply_to_user_id": "2008943608695840768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042070188708000243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@electronic_dirt 总而言之传播od这一块给我看力竭了，，官号下场传插这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2042070188708000243",
+        "created_at": "2026-04-09T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042286976259195394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042286976259195394",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042070188708000243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt 总而言之传播od这一块给我看力竭了，，官号下场传插这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008943608695840768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042070188708000243",
+        "created_at": "2026-04-09T02:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042070188708000243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042070188708000243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3187,
+          "like_count": 176,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "把这些od的药品名称、来源、传播和讨论等暴露在大众视野里让更多人知道，这他妈绝对不是什么好事，这只会让更多人去效仿，给这些群体被贴上更多的标签吧？难道oder看到就不o了吗，好笑。说啥关注青少年心理健康，想想问题的根本是什么啊，没见过有人做啥实事，我他妈心累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 118,
+          "like_count": 10364,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 641
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 =无垢 可以找我互fo捏( ^ω^ ) 09休学中 顺女 泛性恋 精无 内含【 割 、o 、 烟 、 酒 】",
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2026491738811150817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040675587917066240/Egsby-wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 204,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 939
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

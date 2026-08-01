@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2059522545179611206",
+    "created_at": "2026-05-27T06:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059522545179611206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oz_Garlandd/st…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Oz_Garlandd/status/2059522203419320719",
+          "start": 52,
+          "url": "https://t.co/oKDHsapcey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059522545179611206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059522203419320719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最要命的是什么？当然是我下午还要给我妹送演讲稿🥲中途要骑自行车 坐地铁 希望我不会死于交通事故吧😭😭😭 https://t.co/oKDHsapcey"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2059522545179611206",
+        "created_at": "2026-05-27T06:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059522545179611206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2059522203419320719",
+              "start": 52,
+              "url": "https://t.co/oKDHsapcey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059522545179611206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059522203419320719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最要命的是什么？当然是我下午还要给我妹送演讲稿🥲中途要骑自行车 坐地铁 希望我不会死于交通事故吧😭😭😭 https://t.co/oKDHsapcey"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2059522203419320719",
+        "created_at": "2026-05-27T06:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059522203419320719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059522203419320719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12t pr+2t阿普 昏睡到下午一点 中途没做梦 睡眠质量非常好😴 醒来时超级舒服 仿佛找回了之前没有失眠的感觉 不是欣快感 而是无与伦比的放松 但当我下床时 才发现共济失调与解离是多么的严重😵‍💫走路一瘸一拐 腿在前面走 身体却跟不上 好几次差点摔倒😭我妈问我为什么差点睡在餐桌上 我只能说是感冒头晕🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 264,
+          "like_count": 22119,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1607
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

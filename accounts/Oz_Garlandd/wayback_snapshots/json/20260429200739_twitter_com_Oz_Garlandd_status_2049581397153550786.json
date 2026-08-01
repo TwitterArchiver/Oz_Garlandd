@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2049576147818582047",
+    "created_at": "2026-04-29T20:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049581397153550786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049581397153550786",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049576147818582047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管了各位就当我在写诗就好🐱有时候也感谢药物，我早已忘记了我在焦虑我在害怕什么，只是这种感觉一直如梦魇般萦绕，让我想说却说不出口\n未来估计还会吃药，只是不会那么频繁罢了，出于生活需要，解离剂的使用也会被限制，不过应该会多试试新药😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049576143792336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGOpMbbcAAi39z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2049576147818582047",
+        "created_at": "2026-04-29T20:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049581397153550786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049581397153550786",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049576147818582047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管了各位就当我在写诗就好🐱有时候也感谢药物，我早已忘记了我在焦虑我在害怕什么，只是这种感觉一直如梦魇般萦绕，让我想说却说不出口\n未来估计还会吃药，只是不会那么频繁罢了，出于生活需要，解离剂的使用也会被限制，不过应该会多试试新药😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049576143792336896"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2049576147818582047",
+        "created_at": "2026-04-29T19:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049576147818582047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFBUhW04Jt",
+              "end": 153,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2049576147818582047/photo/1",
+              "media_key": "3_2049576143792336896",
+              "start": 130,
+              "url": "https://t.co/OFBUhW04Jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049576147818582047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经十多天没吃药了，然而我好像并没有因此变得健全，话说我就是为了变健全而吃药的，但终究像是饮鸩止渴，这个过程中有变好也有变坏，兜兜转转又回到了原点，但又有些不同\n不同在于我休学了，我的压力没有了，但焦虑症和抑郁还在，父母也自认为我痊愈，这下连舍曲林都没得吃了 https://t.co/OFBUhW04Jt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 166,
+          "like_count": 14435,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 873
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

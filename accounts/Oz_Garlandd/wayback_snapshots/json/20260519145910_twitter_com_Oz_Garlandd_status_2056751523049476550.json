@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056643809820410277",
+    "created_at": "2026-05-19T14:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056751523049476550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777730090924978176",
+          "start": 0,
+          "username": "Hiiragi_qin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056751523049476550",
+    "in_reply_to_user_id": "1777730090924978176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056749518872547649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiiragi_qin8964 欣快加抗焦虑🤤...不过联合抑制确实吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056643809820410277",
+        "created_at": "2026-05-19T14:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056751523049476550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056751523049476550",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749518872547649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin8964 欣快加抗焦虑🤤...不过联合抑制确实吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777730090924978176",
+        "conversation_id": "2056643809820410277",
+        "created_at": "2026-05-19T14:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056749518872547649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749518872547649",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056748311252705715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 不是喵，因为阿（普唑仑）片\n其实配着真阿片吃着也很剧烈美味🤤（也容易出事）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 248,
+          "like_count": 20681,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1413
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo，成分不明的勿fo）\n阿普唑仑重度依赖\n稍微懂一点点药理（学习中）、可提供建议、乐子\n欢迎咨询\nCN\\JP\n累了，反正我本来就很无聊\n我自己本来就是乐子，也喜欢给带伙们提供乐子，我自己也喜欢笑我自己\n以防自己被ban先加个防ban数字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiiragi_qin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hiiragi_qin",
+                "start": 0,
+                "url": "https://t.co/uj2xkcmm73"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 278,
+          "like_count": 18442,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/uj2xkcmm73",
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

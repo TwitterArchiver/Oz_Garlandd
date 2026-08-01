@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2059335027226251629",
+    "created_at": "2026-05-27T11:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059600796807807085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036523006412070912",
+          "start": 0,
+          "username": "Ob0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059600796807807085",
+    "in_reply_to_user_id": "2036523006412070912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059576131943358615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ob0gu 🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2059335027226251629",
+        "created_at": "2026-05-27T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059600796807807085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036523006412070912",
+              "start": 0,
+              "username": "Ob0gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059600796807807085",
+        "in_reply_to_user_id": "2036523006412070912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059576131943358615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ob0gu 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036523006412070912",
+        "conversation_id": "2059335027226251629",
+        "created_at": "2026-05-27T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059576131943358615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059576131943358615",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505822032347605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd ohno...但应该会有药效的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 265,
+          "like_count": 22180,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1616
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T19:20:23.000Z",
+        "description": "一个药曲，一个小画师，一个小女孩，一个鼠王，一个被制裁之人。",
+        "id": "2036523006412070912",
+        "name": "O",
+        "pinned_tweet_id": "2057628304497418584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057416642356027392/shgd3UXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 44,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "username": "Ob0gu",
+        "verified": false
+      }
+    ]
+  }
+}

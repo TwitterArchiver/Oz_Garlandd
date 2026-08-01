@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050883324865019904",
+        "3_2050883324810539008",
+        "3_2050883326190514176"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2050883363825729654",
+    "created_at": "2026-05-03T10:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050883363825729654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLJQTGZ3CR",
+          "end": 81,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+          "media_key": "3_2050883324865019904",
+          "start": 58,
+          "url": "https://t.co/WLJQTGZ3CR"
+        },
+        {
+          "display_url": "pic.x.com/WLJQTGZ3CR",
+          "end": 81,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+          "media_key": "3_2050883324810539008",
+          "start": 58,
+          "url": "https://t.co/WLJQTGZ3CR"
+        },
+        {
+          "display_url": "pic.x.com/WLJQTGZ3CR",
+          "end": 81,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+          "media_key": "3_2050883326190514176",
+          "start": 58,
+          "url": "https://t.co/WLJQTGZ3CR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050883363825729654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1 只要你想 我可以是任何东西🥰\np2 来呀👋🏻\np3 想起来初高中同学也这么认为\n 可能这就是我的社交风格吧🥺 https://t.co/WLJQTGZ3CR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050883324865019904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYzhJZaAAABorS.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050883324810539008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYzhJMasAAJaj9.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050883326190514176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYzhOVbcAAkBsu.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050883324865019904",
+            "3_2050883324810539008",
+            "3_2050883326190514176"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2050883363825729654",
+        "created_at": "2026-05-03T10:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050883363825729654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLJQTGZ3CR",
+              "end": 81,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+              "media_key": "3_2050883324865019904",
+              "start": 58,
+              "url": "https://t.co/WLJQTGZ3CR"
+            },
+            {
+              "display_url": "pic.x.com/WLJQTGZ3CR",
+              "end": 81,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+              "media_key": "3_2050883324810539008",
+              "start": 58,
+              "url": "https://t.co/WLJQTGZ3CR"
+            },
+            {
+              "display_url": "pic.x.com/WLJQTGZ3CR",
+              "end": 81,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2050883363825729654/photo/1",
+              "media_key": "3_2050883326190514176",
+              "start": 58,
+              "url": "https://t.co/WLJQTGZ3CR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050883363825729654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 只要你想 我可以是任何东西🥰\np2 来呀👋🏻\np3 想起来初高中同学也这么认为\n 可能这就是我的社交风格吧🥺 https://t.co/WLJQTGZ3CR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 179,
+          "like_count": 15098,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 921
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055714078040236173",
+    "created_at": "2026-05-17T10:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055962599003431311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "kuroki___tomoko"
+        },
+        {
+          "end": 25,
+          "id": "1914611702747779072",
+          "start": 17,
+          "username": "nox8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055962599003431311",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055741701155869166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroki___tomoko @nox8964 吃1吨布洛芬 包解离到没知觉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055741701155869166].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055741701155869166",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055741701155869166"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055714078040236173",
+        "created_at": "2026-05-17T10:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055962599003431311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            },
+            {
+              "end": 25,
+              "id": "1914611702747779072",
+              "start": 17,
+              "username": "nox8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055962599003431311",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055741701155869166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko @nox8964 吃1吨布洛芬 包解离到没知觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 237,
+          "like_count": 19837,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1315
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2054492675559342536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 2464,
+          "like_count": 41591,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "Ost von Berlin｜enby｜Social liberalism｜德语🇩🇪学习中｜Liberté, égalité, fraternité🇫🇷｜你喜欢我＝我喜欢你｜逃避现实通道：@saki8964\n叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "saki8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚNachtɞ✟₊🌹🏳️‍⚧️🇩🇪🇪🇺#bot",
+        "pinned_tweet_id": "2039820910442471655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051671133934505989/nMv3aHBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 658,
+          "like_count": 9397,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

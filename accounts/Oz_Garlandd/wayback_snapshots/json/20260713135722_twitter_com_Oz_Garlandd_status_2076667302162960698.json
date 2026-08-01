@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076667096943996928",
+        "3_2076667097891971072",
+        "3_2076667097896075265",
+        "3_2076667099527659520"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2076667302162960698",
+    "created_at": "2026-07-13T13:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076667302162960698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7L8WXmrfRm",
+          "end": 30,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+          "media_key": "3_2076667096943996928",
+          "start": 7,
+          "url": "https://t.co/7L8WXmrfRm"
+        },
+        {
+          "display_url": "pic.x.com/7L8WXmrfRm",
+          "end": 30,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+          "media_key": "3_2076667097891971072",
+          "start": 7,
+          "url": "https://t.co/7L8WXmrfRm"
+        },
+        {
+          "display_url": "pic.x.com/7L8WXmrfRm",
+          "end": 30,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+          "media_key": "3_2076667097896075265",
+          "start": 7,
+          "url": "https://t.co/7L8WXmrfRm"
+        },
+        {
+          "display_url": "pic.x.com/7L8WXmrfRm",
+          "end": 30,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+          "media_key": "3_2076667099527659520",
+          "start": 7,
+          "url": "https://t.co/7L8WXmrfRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076667302162960698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鱼能看清么🧐 https://t.co/7L8WXmrfRm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076667096943996928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHNuNYWsAAoOZT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076667097891971072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHNuQ6XoAATRDA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076667097896075265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHNuQ7WQAECVZC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076667099527659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHNuXAWQAAImr-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076667096943996928",
+            "3_2076667097891971072",
+            "3_2076667097896075265",
+            "3_2076667099527659520"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2076667302162960698",
+        "created_at": "2026-07-13T13:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076667302162960698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7L8WXmrfRm",
+              "end": 30,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+              "media_key": "3_2076667096943996928",
+              "start": 7,
+              "url": "https://t.co/7L8WXmrfRm"
+            },
+            {
+              "display_url": "pic.x.com/7L8WXmrfRm",
+              "end": 30,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+              "media_key": "3_2076667097891971072",
+              "start": 7,
+              "url": "https://t.co/7L8WXmrfRm"
+            },
+            {
+              "display_url": "pic.x.com/7L8WXmrfRm",
+              "end": 30,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+              "media_key": "3_2076667097896075265",
+              "start": 7,
+              "url": "https://t.co/7L8WXmrfRm"
+            },
+            {
+              "display_url": "pic.x.com/7L8WXmrfRm",
+              "end": 30,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2076667302162960698/photo/1",
+              "media_key": "3_2076667099527659520",
+              "start": 7,
+              "url": "https://t.co/7L8WXmrfRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076667302162960698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼能看清么🧐 https://t.co/7L8WXmrfRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 446,
+          "like_count": 31435,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 2598
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

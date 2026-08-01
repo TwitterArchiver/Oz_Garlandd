@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2049576147818582047",
+    "created_at": "2026-04-30T03:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049692299920109943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902046879166468096",
+          "start": 0,
+          "username": "awaTsuki1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049692299920109943",
+    "in_reply_to_user_id": "1902046879166468096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049644574679982380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaTsuki1111 非常好的比喻🥺就算下决心理清却发现一切都互相粘连😣最后只是徒增痛苦 让人想要逃避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2049576147818582047",
+        "created_at": "2026-04-30T03:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049692299920109943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902046879166468096",
+              "start": 0,
+              "username": "awaTsuki1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049692299920109943",
+        "in_reply_to_user_id": "1902046879166468096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049644574679982380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaTsuki1111 非常好的比喻🥺就算下决心理清却发现一切都互相粘连😣最后只是徒增痛苦 让人想要逃避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902046879166468096",
+        "conversation_id": "2049576147818582047",
+        "created_at": "2026-04-30T00:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049644574679982380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049644574679982380",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049576147818582047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 我也休学啦…你心境感觉和我差不多，但是我连深刻表达自己的内心都做不到，好似长在毛线团的血肉，想要抽丝剥缕就会感到困难和苦痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 166,
+          "like_count": 14439,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 875
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，重抑重焦\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 57,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 34,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "location": "石家庄",
+        "name": "awaTsuki",
+        "pinned_tweet_id": "2036433369165340797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 58,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false
+      }
+    ]
+  }
+}

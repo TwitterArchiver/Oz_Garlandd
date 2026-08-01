@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037087455351103769",
+    "created_at": "2026-03-26T14:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037178948980007176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951222944278978560",
+          "start": 0,
+          "username": "xllmango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037178948980007176",
+    "in_reply_to_user_id": "1951222944278978560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037087455351103769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xllmango 解离时听歌会有非常强烈的欣快感呢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037087455351103769",
+        "created_at": "2026-03-26T14:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037178948980007176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951222944278978560",
+              "start": 0,
+              "username": "xllmango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037178948980007176",
+        "in_reply_to_user_id": "1951222944278978560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037087455351103769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xllmango 解离时听歌会有非常强烈的欣快感呢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951222944278978560",
+        "conversation_id": "2037087455351103769",
+        "created_at": "2026-03-26T08:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037087455351103769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037087455351103769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们我发现一件事 NMDA受体的解离感打游戏会变菜 但是色胺类打游戏会非常强（思路清晰）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 155
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T10:06:23.000Z",
+        "description": "",
+        "id": "1951222944278978560",
+        "name": "ShikkokuHara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027929254097522689/vG7edjW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 145,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 174
+        },
+        "username": "xllmango",
+        "verified": false
+      }
+    ]
+  }
+}

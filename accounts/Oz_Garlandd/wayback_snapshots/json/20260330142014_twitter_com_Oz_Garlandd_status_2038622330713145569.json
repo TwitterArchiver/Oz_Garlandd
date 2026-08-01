@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2038555915386028502",
+    "created_at": "2026-03-30T14:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038622330713145569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038622330713145569",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038555915386028502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 为什么治咳嗽的药要贴精神药品标签🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038555904757653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpny23a4AALPQU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2038555915386028502",
+        "created_at": "2026-03-30T14:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038622330713145569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038622330713145569",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038555915386028502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 为什么治咳嗽的药要贴精神药品标签🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038555904757653504"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2038555915386028502",
+        "created_at": "2026-03-30T09:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038555915386028502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yF6OmujWiH",
+              "end": 39,
+              "expanded_url": "https://x.com/StarNekOvO/status/2038555915386028502/photo/1",
+              "media_key": "3_2038555904757653504",
+              "start": 16,
+              "url": "https://t.co/yF6OmujWiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038555915386028502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7440,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来新版本真的会贴上精品神药标 https://t.co/yF6OmujWiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 51,
+          "like_count": 2950,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 295
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🐰🪼🍥系统 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sT95"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "牛奶喵",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 2429,
+          "like_count": 37263,
+          "listed_count": 19,
+          "media_count": 1457,
+          "tweet_count": 12600
+        },
+        "url": "https://t.co/9NEqS9sT95",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

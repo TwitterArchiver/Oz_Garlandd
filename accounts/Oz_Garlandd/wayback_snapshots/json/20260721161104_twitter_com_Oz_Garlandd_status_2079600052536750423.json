@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2079241512232144948",
+    "created_at": "2026-07-21T16:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079600052536750423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077766358784413697",
+          "start": 0,
+          "username": "swnsld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079600052536750423",
+    "in_reply_to_user_id": "2077766358784413697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079377354913456482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swnsld 嘻嘻🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2079241512232144948",
+        "created_at": "2026-07-21T16:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079600052536750423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077766358784413697",
+              "start": 0,
+              "username": "swnsld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079600052536750423",
+        "in_reply_to_user_id": "2077766358784413697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079377354913456482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swnsld 嘻嘻🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077766358784413697",
+        "conversation_id": "2079241512232144948",
+        "created_at": "2026-07-21T01:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079377354913456482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377354913456482",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079241512232144948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 热量炸弹炸飞你😡👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 444,
+          "like_count": 31988,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2673
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T14:45:59.000Z",
+        "description": "身边有很多长得像女生的人 但靠近却又没有弹出对话框 我怀疑这个世界上根本没有女生",
+        "id": "2077766358784413697",
+        "location": "辽宁",
+        "name": "塞塞是阴暗哥布林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077767596771053568/TmWLRTVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "swnsld",
+        "verified": false
+      }
+    ]
+  }
+}

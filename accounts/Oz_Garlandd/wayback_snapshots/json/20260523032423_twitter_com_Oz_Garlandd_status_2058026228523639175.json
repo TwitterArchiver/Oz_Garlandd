@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2057860892859990343",
+    "created_at": "2026-05-23T03:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058026228523639175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592697440343162880",
+          "start": 0,
+          "username": "akenohotaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058026228523639175",
+    "in_reply_to_user_id": "1592697440343162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057865231452258493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akenohotaru 我操了羡慕🥺只有第一次高剂量才会出外幻，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2057860892859990343",
+        "created_at": "2026-05-23T03:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058026228523639175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058026228523639175",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057865231452258493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru 我操了羡慕🥺只有第一次高剂量才会出外幻，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2057860892859990343",
+        "created_at": "2026-05-22T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057865231452258493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057865231452258493",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057860892859990343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0:43 强烈外幻，睁眼一个圆环在我面前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 253,
+          "like_count": 21147,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1515
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/中抑重焦/od/bzd、pr戒断中/音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 119,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 391
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

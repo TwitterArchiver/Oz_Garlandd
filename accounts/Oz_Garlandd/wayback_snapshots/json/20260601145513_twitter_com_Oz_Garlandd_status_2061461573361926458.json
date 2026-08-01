@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061376555633525098",
+    "created_at": "2026-06-01T14:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061461573361926458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029139367995076608",
+          "start": 0,
+          "username": "vunnjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061461573361926458",
+    "in_reply_to_user_id": "2029139367995076608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061376555633525098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vunnjg 😯*受宠若惊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061376555633525098",
+        "created_at": "2026-06-01T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061461573361926458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029139367995076608",
+              "start": 0,
+              "username": "vunnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061461573361926458",
+        "in_reply_to_user_id": "2029139367995076608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061376555633525098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vunnjg 😯*受宠若惊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029139367995076608",
+        "conversation_id": "2061376555633525098",
+        "created_at": "2026-06-01T09:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061376555633525098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oz_garlandd/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/oz_garlandd/status/2061376220403732672",
+              "start": 7,
+              "url": "https://t.co/0V4swmJ1Mc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061376555633525098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061376220403732672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别喜欢🥰 https://t.co/0V4swmJ1Mc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 286,
+          "like_count": 23648,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1830
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T10:21:48.000Z",
+        "description": "不要太在意我",
+        "id": "2029139367995076608",
+        "location": "日本",
+        "name": "我才是真正的抑郁症",
+        "pinned_tweet_id": "2029345765588648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043969143054184449/twmsQgEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 95,
+          "like_count": 3526,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2875
+        },
+        "username": "vunnjg",
+        "verified": false
+      }
+    ]
+  }
+}

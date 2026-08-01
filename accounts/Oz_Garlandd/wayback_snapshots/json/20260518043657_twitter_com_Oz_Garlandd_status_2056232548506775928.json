@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056080552256528389",
+    "created_at": "2026-05-18T04:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056232548506775928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605806041186304",
+          "start": 0,
+          "username": "halationwires"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056232548506775928",
+    "in_reply_to_user_id": "1534605806041186304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056114168126988732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halationwires 对的对的！！其实角落里还有LCB的帆布袋呢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056080552256528389",
+        "created_at": "2026-05-18T04:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056232548506775928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534605806041186304",
+              "start": 0,
+              "username": "halationwires"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056232548506775928",
+        "in_reply_to_user_id": "1534605806041186304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056114168126988732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halationwires 对的对的！！其实角落里还有LCB的帆布袋呢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534605806041186304",
+        "conversation_id": "2056080552256528389",
+        "created_at": "2026-05-17T20:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056114168126988732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056114168126988732",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056080552256528389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 脑叶公司!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 236,
+          "like_count": 20125,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1342
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:38:48.000Z",
+        "description": "白加灰的颜色",
+        "id": "1534605806041186304",
+        "name": "ˈ尸爱",
+        "pinned_tweet_id": "2054074065606840480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056124403491176448/MJTGqw8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 10702,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 468
+        },
+        "username": "halationwires",
+        "verified": false
+      }
+    ]
+  }
+}

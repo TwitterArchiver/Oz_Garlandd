@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2065434276095541504",
+    "created_at": "2026-06-14T11:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066127963465175268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066127963465175268",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066105027006173358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2065434276095541504",
+        "created_at": "2026-06-14T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066127963465175268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066127963465175268",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066105027006173358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "834974107577925632",
+        "conversation_id": "2065434276095541504",
+        "created_at": "2026-06-14T10:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066105027006173358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066105027006173358",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065434276095541504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 之前废弃的太平洋金融学院就很爽，图书馆里随便玩。可惜后来出了那破事被封起来了😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 394,
+          "like_count": 27613,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 2206
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257556445618372609/UPWEpMrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 1230,
+          "like_count": 44091,
+          "listed_count": 1,
+          "media_count": 1157,
+          "tweet_count": 3228
+        },
+        "username": "yuuki_konno__",
+        "verified": false
+      }
+    ]
+  }
+}

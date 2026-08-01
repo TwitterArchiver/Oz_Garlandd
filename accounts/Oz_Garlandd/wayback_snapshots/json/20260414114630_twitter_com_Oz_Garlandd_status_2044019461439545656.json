@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2044019461439545656",
+    "created_at": "2026-04-14T11:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044019461439545656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nellie_Yuyu/st…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Nellie_Yuyu/status/2043426351839900110",
+          "start": 43,
+          "url": "https://t.co/m7aSkJTGXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044019461439545656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043426351839900110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望你以后获得创伤之后去医院看病，医生会给你慢慢疏导，而不是甩给你一盒舍曲林让你滚蛋 https://t.co/m7aSkJTGXJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044019461439545656",
+        "created_at": "2026-04-14T11:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044019461439545656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nellie_Yuyu/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Nellie_Yuyu/status/2043426351839900110",
+              "start": 43,
+              "url": "https://t.co/m7aSkJTGXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044019461439545656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043426351839900110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望你以后获得创伤之后去医院看病，医生会给你慢慢疏导，而不是甩给你一盒舍曲林让你滚蛋 https://t.co/m7aSkJTGXJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826990923466653696",
+        "conversation_id": "2043196574986318323",
+        "created_at": "2026-04-12T20:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043426351839900110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902046879166468096",
+              "start": 0,
+              "username": "awaTsuki1111"
+            },
+            {
+              "end": 24,
+              "id": "1884546510919979008",
+              "start": 14,
+              "username": "iamThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043426351839900110",
+        "in_reply_to_user_id": "1902046879166468096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043324967090282826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaTsuki1111 @iamThujaS 有病就滚去医院看病 不是依靠药物成瘾🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 137,
+          "like_count": 11776,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 714
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:32:54.000Z",
+        "description": "",
+        "id": "1826990923466653696",
+        "location": "London, England",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906518911933153283/xEvCQLVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "Nellie_Yuyu",
+        "verified": false
+      }
+    ]
+  }
+}

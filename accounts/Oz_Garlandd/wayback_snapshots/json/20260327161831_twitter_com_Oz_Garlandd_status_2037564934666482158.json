@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037528678566138184",
+    "created_at": "2026-03-27T16:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037564934666482158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037564934666482158",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037563884522045658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 还得是反胃大人😭😭😭吃这傻逼药除了恐慌 解离和想吐之外没啥感觉了，但我们还是要一起继续飞升捏🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037528678566138184",
+        "created_at": "2026-03-27T16:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037564934666482158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037564934666482158",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037563884522045658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 还得是反胃大人😭😭😭吃这傻逼药除了恐慌 解离和想吐之外没啥感觉了，但我们还是要一起继续飞升捏🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2037528678566138184",
+        "created_at": "2026-03-27T16:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037563884522045658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037563884522045658",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037528678566138184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "12:10 好爽 羟考酮发力了，浑身瘫软，同时结合dxm的解离晕眩产生混乱颜色的幻觉，现在的体感已经非常爽了 ，因为解离视觉在颤抖偏移，但我的体感真的好舒服，像是每个细胞都被麻醉，血清素上升的感觉出现，好舒服好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 1963,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 193
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/全部友好/回fo(白天上学，晚上在线)/哲学/od报告\n/粉红绕道/intp/重ocd·重抑·中重焦虑·aspd倾向/免费提供药物滥用帮助与心理咨询.私信评论匿问我答都会看哦/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2036719144004166068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 631,
+          "like_count": 1525,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

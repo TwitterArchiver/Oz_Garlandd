@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060344317688819713"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2060344332419305509",
+    "created_at": "2026-05-29T12:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060344332419305509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEXlEaiCwg",
+          "end": 48,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060344332419305509/photo/1",
+          "media_key": "3_2060344317688819713",
+          "start": 25,
+          "url": "https://t.co/yEXlEaiCwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060344332419305509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各种指代可以哦\n不过很多细节已经披露 去发现吧😸 https://t.co/yEXlEaiCwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060344317688819713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfQPaLWMAEvr2F.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060344317688819713"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060344332419305509",
+        "created_at": "2026-05-29T12:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060344332419305509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEXlEaiCwg",
+              "end": 48,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060344332419305509/photo/1",
+              "media_key": "3_2060344317688819713",
+              "start": 25,
+              "url": "https://t.co/yEXlEaiCwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060344332419305509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各种指代可以哦\n不过很多细节已经披露 去发现吧😸 https://t.co/yEXlEaiCwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 280,
+          "like_count": 22964,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1739
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

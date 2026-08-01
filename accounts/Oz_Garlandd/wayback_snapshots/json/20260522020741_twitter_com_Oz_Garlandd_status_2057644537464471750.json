@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2057644537464471750",
+    "created_at": "2026-05-22T02:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057644537464471750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867596733884379136",
+          "start": 3,
+          "username": "VmikufansV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057644537464471750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057329678294405257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VmikufansV: 一个有创伤的人，没有自杀、没有放弃，尝试着自残、尝试着互联网抱团取暖、尝试着看病吃药，这叫生命力、非常旺盛的生命力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2057644537464471750",
+        "created_at": "2026-05-22T02:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057644537464471750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867596733884379136",
+              "start": 3,
+              "username": "VmikufansV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057644537464471750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057329678294405257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VmikufansV: 一个有创伤的人，没有自杀、没有放弃，尝试着自残、尝试着互联网抱团取暖、尝试着看病吃药，这叫生命力、非常旺盛的生命力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2057329678294405257",
+        "created_at": "2026-05-21T05:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057329678294405257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057329678294405257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 637,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个有创伤的人，没有自杀、没有放弃，尝试着自残、尝试着互联网抱团取暖、尝试着看病吃药，这叫生命力、非常旺盛的生命力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 250,
+          "like_count": 20971,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1488
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 233,
+          "like_count": 680,
+          "listed_count": 5,
+          "media_count": 925,
+          "tweet_count": 4589
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

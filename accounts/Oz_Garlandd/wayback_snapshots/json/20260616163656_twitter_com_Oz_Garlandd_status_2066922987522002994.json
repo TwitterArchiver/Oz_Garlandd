@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066583378707820544"
+      ],
+      "media_source_tweet_id": [
+        "2066583393891213553"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2066922987522002994",
+    "created_at": "2026-06-16T16:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066922987522002994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025216486760157184",
+          "start": 3,
+          "username": "Cosmo2267651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6wNxrVYDS",
+          "end": 129,
+          "expanded_url": "https://x.com/Cosmo2267651/status/2066583393891213553/photo/1",
+          "media_key": "3_2066583378707820544",
+          "start": 106,
+          "url": "https://t.co/A6wNxrVYDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066922987522002994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066583393891213553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cosmo2267651: 马上200fo了搞一个🎟️贴吧\n1、77軟妹幣x2\n2、45軟妹幣 \n3、15軟妹幣x2^_^\n轉貼➕關注➕評論 即可\n6.20開 （fo我的老師我基本都會回）\n也歡迎擴列的 https://t.co/A6wNxrVYDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2066583378707820544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK36ojqbMAABegv.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066583378707820544"
+          ],
+          "media_source_tweet_id": [
+            "2066583393891213553"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2066922987522002994",
+        "created_at": "2026-06-16T16:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066922987522002994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025216486760157184",
+              "start": 3,
+              "username": "Cosmo2267651"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6wNxrVYDS",
+              "end": 129,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2066583393891213553/photo/1",
+              "media_key": "3_2066583378707820544",
+              "start": 106,
+              "url": "https://t.co/A6wNxrVYDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066922987522002994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066583393891213553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cosmo2267651: 马上200fo了搞一个🎟️贴吧\n1、77軟妹幣x2\n2、45軟妹幣 \n3、15軟妹幣x2^_^\n轉貼➕關注➕評論 即可\n6.20開 （fo我的老師我基本都會回）\n也歡迎擴列的 https://t.co/A6wNxrVYDS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066583378707820544"
+          ]
+        },
+        "author_id": "2025216486760157184",
+        "conversation_id": "2066583393891213553",
+        "created_at": "2026-06-15T18:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066583393891213553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6wNxrVYDS",
+              "end": 111,
+              "expanded_url": "https://x.com/Cosmo2267651/status/2066583393891213553/photo/1",
+              "media_key": "3_2066583378707820544",
+              "start": 88,
+              "url": "https://t.co/A6wNxrVYDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066583393891213553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1427,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "马上200fo了搞一个🎟️贴吧\n1、77軟妹幣x2\n2、45軟妹幣 \n3、15軟妹幣x2^_^\n轉貼➕關注➕評論 即可\n6.20開 （fo我的老師我基本都會回）\n也歡迎擴列的 https://t.co/A6wNxrVYDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 399,
+          "like_count": 27871,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2243
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder/自殘\n➕lx互关、喜欢的随便、低能量频道不喜欢划走 infp 穷逼党、可以找我画oc呀🥹🥹无偿呀 @Mmomoxzzt https://t.co/f4RFWLyiPR 欢迎找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "Mmomoxzzt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cosmo%E2%80%86…",
+                "end": 97,
+                "expanded_url": "https://ngl.link/cosmo%E2%80%86112266",
+                "start": 74,
+                "url": "https://t.co/f4RFWLyiPR"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "✝️天堂✝️",
+        "name": "なえ",
+        "pinned_tweet_id": "2066583393891213553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065796620063805440/IE4-d18D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 227,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 210
+        },
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

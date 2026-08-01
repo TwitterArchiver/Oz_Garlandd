@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037544765139358130",
+    "created_at": "2026-03-27T17:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037589264695746836"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037589264695746836",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037544765139358130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈太纯粋了😭😭😭😭😭我感觉我像是先驱，我体会到了前辈😭😭😭😭我知道为什么右美沙芬这么爽了😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037544765139358130",
+        "created_at": "2026-03-27T17:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037589264695746836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037589264695746836",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037544765139358130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈太纯粋了😭😭😭😭😭我感觉我像是先驱，我体会到了前辈😭😭😭😭我知道为什么右美沙芬这么爽了😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037544765139358130",
+        "created_at": "2026-03-27T14:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037544765139358130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037544765139358130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁+36t玉米片胶囊\n9点吃，临近11点药效突然上脸\n还没有报告过呢，希望不会断片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 207
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

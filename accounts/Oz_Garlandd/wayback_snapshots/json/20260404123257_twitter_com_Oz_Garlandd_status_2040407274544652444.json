@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039444804946325744",
+    "created_at": "2026-04-04T12:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040407274544652444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625848011221008392",
+          "start": 0,
+          "username": "keaixianggugu"
+        },
+        {
+          "end": 26,
+          "id": "1024846771204370433",
+          "start": 15,
+          "username": "neurocolor"
+        },
+        {
+          "end": 35,
+          "id": "1886385501130866688",
+          "start": 27,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040407274544652444",
+    "in_reply_to_user_id": "1625848011221008392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040404637111779788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaixianggugu @neurocolor @Lomyral 魔法邮票😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039444804946325744",
+        "created_at": "2026-04-04T12:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040407274544652444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625848011221008392",
+              "start": 0,
+              "username": "keaixianggugu"
+            },
+            {
+              "end": 26,
+              "id": "1024846771204370433",
+              "start": 15,
+              "username": "neurocolor"
+            },
+            {
+              "end": 35,
+              "id": "1886385501130866688",
+              "start": 27,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040407274544652444",
+        "in_reply_to_user_id": "1625848011221008392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040404637111779788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaixianggugu @neurocolor @Lomyral 魔法邮票😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625848011221008392",
+        "conversation_id": "2039444804946325744",
+        "created_at": "2026-04-04T12:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040404637111779788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1024846771204370433",
+              "start": 0,
+              "username": "neurocolor"
+            },
+            {
+              "end": 24,
+              "id": "1997644719908884480",
+              "start": 12,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 33,
+              "id": "1886385501130866688",
+              "start": 25,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040404637111779788",
+        "in_reply_to_user_id": "1024846771204370433",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039444804946325744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neurocolor @Oz_Garlandd @Lomyral"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 68,
+          "like_count": 6171,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 453
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  上海地区需要帮助的挂壁同好请私聊我，欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "location": "上海",
+        "name": "一只鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 224,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 381
+        },
+        "username": "keaixianggugu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-02T02:38:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "🧠🌈.ws",
+                "end": 23,
+                "expanded_url": "http://xn--og8hp3i.ws",
+                "start": 0,
+                "url": "https://t.co/M5r30XfNv5"
+              }
+            ]
+          }
+        },
+        "id": "1024846771204370433",
+        "location": "berlin / mexico city",
+        "name": "神経色",
+        "pinned_tweet_id": "2039135154866651647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035176378769801216/ksyjAFFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41835,
+          "following_count": 975,
+          "like_count": 45526,
+          "listed_count": 521,
+          "media_count": 2655,
+          "tweet_count": 18652
+        },
+        "url": "https://t.co/M5r30XfNv5",
+        "username": "neurocolor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 490,
+          "like_count": 38391,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040795738477863245",
+    "created_at": "2026-04-06T08:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041074091432517776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878853225476141056",
+          "start": 0,
+          "username": "cakeovo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041074091432517776",
+    "in_reply_to_user_id": "1878853225476141056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040795738477863245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cakeovo_7 以为要绑卡+1😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040795735676096512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJc6LQbEAAYywC.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040795738477863245",
+        "created_at": "2026-04-06T08:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041074091432517776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878853225476141056",
+              "start": 0,
+              "username": "cakeovo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041074091432517776",
+        "in_reply_to_user_id": "1878853225476141056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040795738477863245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cakeovo_7 以为要绑卡+1😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040795735676096512"
+          ]
+        },
+        "author_id": "1878853225476141056",
+        "conversation_id": "2040795738477863245",
+        "created_at": "2026-04-05T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040795738477863245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIbwTXylgh",
+              "end": 32,
+              "expanded_url": "https://x.com/cakeovo_7/status/2040795738477863245/photo/1",
+              "media_key": "3_2040795735676096512",
+              "start": 9,
+              "url": "https://t.co/ZIbwTXylgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040795738477863245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥一定要绑卡😂 https://t.co/ZIbwTXylgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 8040,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 524
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T17:15:05.000Z",
+        "description": "https://t.co/oeZLhZ6xvt ☘︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo40148",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo40148",
+                "start": 0,
+                "url": "https://t.co/oeZLhZ6xvt"
+              }
+            ]
+          }
+        },
+        "id": "1878853225476141056",
+        "name": "ovo",
+        "pinned_tweet_id": "2039470371494396386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039398352597688320/BegLl5i2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 77,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 125
+        },
+        "username": "cakeovo_7",
+        "verified": false
+      }
+    ]
+  }
+}

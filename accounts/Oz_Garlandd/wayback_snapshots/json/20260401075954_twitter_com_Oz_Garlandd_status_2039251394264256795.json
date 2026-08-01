@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039038722981916672"
+      ],
+      "media_source_tweet_id": [
+        "2039038865818976357"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039251394264256795",
+    "created_at": "2026-04-01T07:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039251394264256795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1971328325542137857",
+          "start": 3,
+          "username": "chakeyeka1699"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V3QyHkozkn",
+          "end": 46,
+          "expanded_url": "https://x.com/chakeyeka1699/status/2039038865818976357/photo/1",
+          "media_key": "3_2039038722981916672",
+          "start": 23,
+          "url": "https://t.co/V3QyHkozkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039251394264256795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039038865818976357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chakeyeka1699: 诶…… https://t.co/V3QyHkozkn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2039038722981916672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwe6k6acAAf4-A.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039038722981916672"
+          ],
+          "media_source_tweet_id": [
+            "2039038865818976357"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039251394264256795",
+        "created_at": "2026-04-01T07:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039251394264256795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1971328325542137857",
+              "start": 3,
+              "username": "chakeyeka1699"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3QyHkozkn",
+              "end": 46,
+              "expanded_url": "https://x.com/chakeyeka1699/status/2039038865818976357/photo/1",
+              "media_key": "3_2039038722981916672",
+              "start": 23,
+              "url": "https://t.co/V3QyHkozkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039251394264256795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039038865818976357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chakeyeka1699: 诶…… https://t.co/V3QyHkozkn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039038722981916672"
+          ]
+        },
+        "author_id": "1971328325542137857",
+        "conversation_id": "2039038865818976357",
+        "created_at": "2026-03-31T17:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039038865818976357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3QyHkozkn",
+              "end": 27,
+              "expanded_url": "https://x.com/chakeyeka1699/status/2039038865818976357/photo/1",
+              "media_key": "3_2039038722981916672",
+              "start": 4,
+              "url": "https://t.co/V3QyHkozkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039038865818976357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 9371,
+          "like_count": 1498,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "诶…… https://t.co/V3QyHkozkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 60,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 332
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T21:38:06.000Z",
+        "description": "20+||中文||主推🪶🔮+🔮右杂食||会有TS||其他语言会用翻译器||废萌+享乐主义",
+        "id": "1971328325542137857",
+        "name": "chakeyeka",
+        "pinned_tweet_id": "1986402658207629525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034884197282979846/4CBWn4IK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 127,
+          "like_count": 3731,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2473
+        },
+        "username": "chakeyeka1699",
+        "verified": false
+      }
+    ]
+  }
+}

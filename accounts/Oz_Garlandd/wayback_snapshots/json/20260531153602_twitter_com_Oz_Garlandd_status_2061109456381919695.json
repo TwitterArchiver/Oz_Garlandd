@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061075789526040600",
+    "created_at": "2026-05-31T15:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061109456381919695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 29,
+          "id": "2041380427873566720",
+          "start": 16,
+          "username": "shigin218150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061109456381919695",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061108756793221316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @shigin218150 ？！雪尘！？...🤤🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061075789526040600",
+        "created_at": "2026-05-31T15:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061109456381919695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 29,
+              "id": "2041380427873566720",
+              "start": 16,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061109456381919695",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061108756793221316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @shigin218150 ？！雪尘！？...🤤🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2061075789526040600",
+        "created_at": "2026-05-31T15:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061108756793221316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041380427873566720",
+              "start": 0,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061108756793221316",
+        "in_reply_to_user_id": "2041380427873566720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061106647469261242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigin218150 鸦葬雪是正主！我只是建议他给pcpy起了个名字，他拿我当老师所以我根本不缺雪尘ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 282,
+          "like_count": 23297,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1790
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 1481,
+          "like_count": 4842,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 2424
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:00:30.000Z",
+        "description": "我🔪💊 🚪13.14我是乖孩子求你们入门\n大号https://t.co/3JIdY7CWS0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/___murasaki99",
+                "end": 46,
+                "expanded_url": "https://x.com/___murasaki99",
+                "start": 23,
+                "url": "https://t.co/3JIdY7CWS0"
+              }
+            ]
+          }
+        },
+        "id": "2041380427873566720",
+        "name": "murasaki（二代机）",
+        "pinned_tweet_id": "2041881289738088785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041426222723612672/s6DEL3HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 140,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 366
+        },
+        "username": "shigin218150",
+        "verified": false
+      }
+    ]
+  }
+}

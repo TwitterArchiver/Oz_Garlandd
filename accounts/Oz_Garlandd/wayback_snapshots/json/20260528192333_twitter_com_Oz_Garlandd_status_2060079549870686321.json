@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2060079260736377020",
+    "created_at": "2026-05-28T19:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060079549870686321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060079549870686321",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060079260736377020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以往都是直接o大d的！，，但实在是没存药了，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060079257284411396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfK3OWgAQ5M2r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060079260736377020",
+        "created_at": "2026-05-28T19:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060079549870686321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060079549870686321",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060079260736377020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以往都是直接o大d的！，，但实在是没存药了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060079257284411396"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060079260736377020",
+        "created_at": "2026-05-28T19:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060079260736377020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bVMu5UX9X",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060079260736377020/photo/1",
+              "media_key": "3_2060079257284411396",
+              "start": 39,
+              "url": "https://t.co/3bVMu5UX9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060079260736377020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有割手教程，，让我在预期落空如坠入地狱的痛苦中喘息，，焦虑得睡不着了，， https://t.co/3bVMu5UX9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 276,
+          "like_count": 22683,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1694
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040351680102047991",
+    "created_at": "2026-04-06T14:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041156878806196576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2036453730456051715",
+          "start": 0,
+          "username": "fayoubaike004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041156878806196576",
+    "in_reply_to_user_id": "2036453730456051715",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040351680102047991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike004 活了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040351680102047991",
+        "created_at": "2026-04-06T14:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041156878806196576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2036453730456051715",
+              "start": 0,
+              "username": "fayoubaike004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041156878806196576",
+        "in_reply_to_user_id": "2036453730456051715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040351680102047991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike004 活了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036453730456051715",
+        "conversation_id": "2040351680102047991",
+        "created_at": "2026-04-04T08:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040351680102047991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "fayou.fyi",
+              "end": 64,
+              "expanded_url": "http://fayou.fyi",
+              "start": 41,
+              "status": 200,
+              "title": "法友百科",
+              "unwound_url": "https://fayou.fyi/",
+              "url": "https://t.co/AJFNuGxUFD"
+            },
+            {
+              "description": "You can view and join @weizhanersheng right away.",
+              "display_url": "t.me/weizhanersheng",
+              "end": 95,
+              "expanded_url": "http://t.me/weizhanersheng",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2040351722904993792/OpjLF5UH?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040351722904993792/OpjLF5UH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "为战而生",
+              "unwound_url": "https://t.me/weizhanersheng",
+              "url": "https://t.co/8IR0d4moTc"
+            },
+            {
+              "description": "来 Discord 法友百科 社区瞧瞧——结交近 1735 名成员，畅享免费语音与文字聊天。",
+              "display_url": "discord.gg/XmNt8AXCEb",
+              "end": 125,
+              "expanded_url": "http://discord.gg/XmNt8AXCEb",
+              "start": 102,
+              "status": 200,
+              "title": "加入 Discord 服务器 法友百科！",
+              "unwound_url": "https://discord.com/invite/XmNt8AXCEb",
+              "url": "https://t.co/pTsTZDZOac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040351680102047991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/AJFNuGxUFD\n\nTG交流群：https://t.co/8IR0d4moTc\nDC交流群：https://t.co/pTsTZDZOac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 86,
+          "like_count": 8360,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 536
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:43:23.000Z",
+        "description": "",
+        "id": "2036453730456051715",
+        "name": "法友百科",
+        "pinned_tweet_id": "2040351680102047991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040351159547023361/-jNtqfor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "fayoubaike004",
+        "verified": false
+      }
+    ]
+  }
+}

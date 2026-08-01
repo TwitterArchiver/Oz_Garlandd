@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055341885212770745",
+    "created_at": "2026-05-15T17:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055343141964701756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035399760765698048",
+          "start": 0,
+          "username": "BiGuan7704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055343141964701756",
+    "in_reply_to_user_id": "2035399760765698048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055342758043553995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiGuan7704 没有了..我真得出门买点吃的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055341885212770745",
+        "created_at": "2026-05-15T17:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055343141964701756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035399760765698048",
+              "start": 0,
+              "username": "BiGuan7704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055343141964701756",
+        "in_reply_to_user_id": "2035399760765698048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055342758043553995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiGuan7704 没有了..我真得出门买点吃的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035399760765698048",
+        "conversation_id": "2055341885212770745",
+        "created_at": "2026-05-15T17:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055342758043553995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055342758043553995",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055342406736679278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 哇呀呀呀怎么这么可怜吃点bzd睡觉吧（（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 236,
+          "like_count": 19472,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1282
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T16:55:01.000Z",
+        "description": "裏垢｜01的 随意称呼｜偶尔吃点小药，自言自语中",
+        "id": "2035399760765698048",
+        "location": "邵氏国道",
+        "name": "閉館_",
+        "pinned_tweet_id": "2042832178556604670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035417691432103936/3n1iH5gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 83,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 804
+        },
+        "username": "BiGuan7704",
+        "verified": false
+      }
+    ]
+  }
+}

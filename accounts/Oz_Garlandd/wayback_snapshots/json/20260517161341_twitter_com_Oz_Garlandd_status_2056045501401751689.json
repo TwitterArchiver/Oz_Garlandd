@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056027584974959073",
+    "created_at": "2026-05-17T16:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056045501401751689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525486795265294337",
+          "start": 0,
+          "username": "fuyo0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056045501401751689",
+    "in_reply_to_user_id": "1525486795265294337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056039726726119526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyo0928 不一定哦🥹一切都是未知的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056027584974959073",
+        "created_at": "2026-05-17T16:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056045501401751689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525486795265294337",
+              "start": 0,
+              "username": "fuyo0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056045501401751689",
+        "in_reply_to_user_id": "1525486795265294337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056039726726119526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyo0928 不一定哦🥹一切都是未知的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525486795265294337",
+        "conversation_id": "2056027584974959073",
+        "created_at": "2026-05-17T15:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056039726726119526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056039726726119526",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056027584974959073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 剧烈舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 236,
+          "like_count": 19965,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1321
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:43:04.000Z",
+        "description": "关关￤雜多垢 ￤♀￤Drugtwt￤🚪52\n🕯互关来吧来吧来吧",
+        "id": "1525486795265294337",
+        "location": "東京、雑踏、せつなの夢。",
+        "name": "关灯喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055291096641781761/tddYQ5CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 209,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 172
+        },
+        "username": "fuyo0928",
+        "verified": false
+      }
+    ]
+  }
+}

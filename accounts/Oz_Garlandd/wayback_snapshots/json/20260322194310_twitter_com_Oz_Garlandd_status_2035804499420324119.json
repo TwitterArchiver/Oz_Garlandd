@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2035643702157496493",
+    "created_at": "2026-03-22T19:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T20:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035804499420324119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035804499420324119",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035643702157496493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 吃药吃到濒死然后再活下来跟大伙唠嗑再说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2035643702157496493",
+        "created_at": "2026-03-22T19:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035804499420324119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035804499420324119",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035643702157496493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 吃药吃到濒死然后再活下来跟大伙唠嗑再说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2035643702157496493",
+        "created_at": "2026-03-22T09:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035643702157496493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035643702157496493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的受不了了，所有的事情都变成了刺向我的利刃，我真的不想再上网了，我也不想呼吸地球的空气了，我不想睁开眼睛了，我连呼吸一秒钟都嫌累，连药物都控制不了我的病情了，我真的真的不想再这样下去了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "",
+        "id": "1997644719908884480",
+        "name": "Oz.Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "♡pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/soislove",
+                "end": 23,
+                "expanded_url": "https://ngl.link/soislove",
+                "start": 0,
+                "url": "https://t.co/ul5u3lLf1I"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 283,
+          "like_count": 8205,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 4229
+        },
+        "url": "https://t.co/ul5u3lLf1I",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

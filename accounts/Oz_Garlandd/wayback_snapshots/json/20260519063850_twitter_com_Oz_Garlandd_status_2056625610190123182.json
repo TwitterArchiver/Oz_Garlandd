@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056617842058133506",
+    "created_at": "2026-05-19T06:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056625610190123182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056625610190123182",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056617842058133506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 已付款🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056617742778953730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqS8M0a8AIZwEV.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056617842058133506",
+        "created_at": "2026-05-19T06:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056625610190123182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056625610190123182",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056617842058133506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 已付款🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056617742778953730"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2056617842058133506",
+        "created_at": "2026-05-19T06:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056617842058133506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c1LOrAZzw",
+              "end": 105,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2056617842058133506/photo/1",
+              "media_key": "3_2056617742778953730",
+              "start": 82,
+              "url": "https://t.co/5c1LOrAZzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056617842058133506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n由于供货商断货、药商攻击等一系列原因，雪尘暂时断货\n\n……雪尘RIP\n\n雪尘这个名字是我起的，我也很喜欢这个rc，所以真的很舍不得……\n但以后也许还有悬念 https://t.co/5c1LOrAZzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 245,
+          "like_count": 20508,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1394
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 53,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

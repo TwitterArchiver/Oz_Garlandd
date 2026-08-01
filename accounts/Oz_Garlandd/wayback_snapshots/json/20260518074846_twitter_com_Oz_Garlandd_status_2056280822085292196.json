@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056280783115923456"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056280822085292196",
+    "created_at": "2026-05-18T07:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056280822085292196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxAnEU5zmM",
+          "end": 119,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056280822085292196/photo/1",
+          "media_key": "3_2056280783115923456",
+          "start": 96,
+          "url": "https://t.co/wxAnEU5zmM"
+        },
+        {
+          "display_url": "x.com/Oz_Garlandd/st…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/Oz_Garlandd/status/2056027584974959073",
+          "start": 120,
+          "url": "https://t.co/SEYS7d05dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056280822085292196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056027584974959073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚虽然4ho没找到😢但雪尘+dxm可谓是超级成功的组合🤤强有力的解离配上超绝抗抑郁 再来2t pr作点缀的抗焦虑 不仅动一动就有欣快感 还能下机睡个好觉 起床心情还巨好🥰爽飞了简直❤️❤️ https://t.co/wxAnEU5zmM https://t.co/SEYS7d05dx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056280783115923456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlgekQWMAA2THk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 922,
+        "media_key": "3_2056027565949591553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh6LYzWIAELY6B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056280783115923456"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056280822085292196",
+        "created_at": "2026-05-18T07:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056280822085292196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxAnEU5zmM",
+              "end": 119,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056280822085292196/photo/1",
+              "media_key": "3_2056280783115923456",
+              "start": 96,
+              "url": "https://t.co/wxAnEU5zmM"
+            },
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2056027584974959073",
+              "start": 120,
+              "url": "https://t.co/SEYS7d05dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056280822085292196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056027584974959073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚虽然4ho没找到😢但雪尘+dxm可谓是超级成功的组合🤤强有力的解离配上超绝抗抑郁 再来2t pr作点缀的抗焦虑 不仅动一动就有欣快感 还能下机睡个好觉 起床心情还巨好🥰爽飞了简直❤️❤️ https://t.co/wxAnEU5zmM https://t.co/SEYS7d05dx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056027565949591553"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056027584974959073",
+        "created_at": "2026-05-17T15:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056027584974959073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCKjIdnraf",
+              "end": 74,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056027584974959073/photo/1",
+              "media_key": "3_2056027565949591553",
+              "start": 51,
+              "url": "https://t.co/LCKjIdnraf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056027584974959073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18t dxm+20mg雪尘+20mg 4ho\n预计12:00使用\n不知内外幻相混相生会是如何之景致 https://t.co/LCKjIdnraf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 239,
+          "like_count": 20182,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1355
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

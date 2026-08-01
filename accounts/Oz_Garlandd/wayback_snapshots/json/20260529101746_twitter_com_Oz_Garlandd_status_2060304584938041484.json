@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2060103109175583004",
+    "created_at": "2026-05-29T10:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060304584938041484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877057341901709312",
+          "start": 0,
+          "username": "YunAn86984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060304584938041484",
+    "in_reply_to_user_id": "1877057341901709312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060282092987281574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunAn86984 🥺👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2060103109175583004",
+        "created_at": "2026-05-29T10:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060304584938041484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877057341901709312",
+              "start": 0,
+              "username": "YunAn86984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060304584938041484",
+        "in_reply_to_user_id": "1877057341901709312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060282092987281574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunAn86984 🥺👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877057341901709312",
+        "conversation_id": "2060103109175583004",
+        "created_at": "2026-05-29T08:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060282092987281574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060282092987281574",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060103109175583004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 用红贝印 还无痛  就是不知道深浅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 277,
+          "like_count": 22859,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1727
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T18:18:50.000Z",
+        "description": "这里是云安的一些碎碎念 和牢骚୧〃•̀ꇴ•〃૭",
+        "id": "1877057341901709312",
+        "name": "ユイシェミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926249305569976320/renKHKrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 93,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 61
+        },
+        "username": "YunAn86984",
+        "verified": false
+      }
+    ]
+  }
+}

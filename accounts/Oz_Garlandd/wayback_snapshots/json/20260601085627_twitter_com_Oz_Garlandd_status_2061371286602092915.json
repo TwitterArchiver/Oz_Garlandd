@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061005263956558339",
+    "created_at": "2026-06-01T08:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061371286602092915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061371286602092915",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061306623549980965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yuki475740 这算地狱笑话嘛哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061306620551077888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJs7czsboAA89ZZ.jpg",
+        "width": 1758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061005263956558339",
+        "created_at": "2026-06-01T08:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061371286602092915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061371286602092915",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061306623549980965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yuki475740 这算地狱笑话嘛哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061306620551077888"
+          ]
+        },
+        "author_id": "1938232468076957698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061005263956558339",
+        "created_at": "2026-06-01T04:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061306623549980965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAJ4WeL2qi",
+              "end": 51,
+              "expanded_url": "https://x.com/1yuki475740/status/2061306623549980965/photo/1",
+              "media_key": "3_2061306620551077888",
+              "start": 28,
+              "url": "https://t.co/TAJ4WeL2qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061306623549980965",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061028300563030285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 笑死我了老师这下真的绷不住了 https://t.co/TAJ4WeL2qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 284,
+          "like_count": 23434,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1811
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "1yuki475740",
+        "verified": false
+      }
+    ]
+  }
+}

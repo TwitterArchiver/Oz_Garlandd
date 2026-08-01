@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2050843626784067838",
+    "created_at": "2026-05-03T07:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050843626784067838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/gar1andd2",
+          "end": 36,
+          "expanded_url": "https://ngl.link/gar1andd2",
+          "start": 13,
+          "status": 200,
+          "title": "@Gar1andd: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/gar1andd2",
+          "url": "https://t.co/XxHJYArzRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050843626784067838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有什么问题都来问我吧！\n\nhttps://t.co/XxHJYArzRb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2050843626784067838",
+        "created_at": "2026-05-03T07:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050843626784067838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/gar1andd2",
+              "end": 36,
+              "expanded_url": "https://ngl.link/gar1andd2",
+              "start": 13,
+              "status": 200,
+              "title": "@Gar1andd: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/gar1andd2",
+              "url": "https://t.co/XxHJYArzRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050843626784067838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么问题都来问我吧！\n\nhttps://t.co/XxHJYArzRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 179,
+          "like_count": 15093,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 918
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

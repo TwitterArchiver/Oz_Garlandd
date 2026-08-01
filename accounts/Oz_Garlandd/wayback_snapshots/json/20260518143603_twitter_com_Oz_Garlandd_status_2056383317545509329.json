@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056342010655809655",
+    "created_at": "2026-05-18T14:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056383317545509329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056383317545509329",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056382908903108729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 😭😭不要啊.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056342010655809655",
+        "created_at": "2026-05-18T14:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056383317545509329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056383317545509329",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056382908903108729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 😭😭不要啊.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2056342010655809655",
+        "created_at": "2026-05-18T14:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056382908903108729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056382908903108729",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056382291929149925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd emm说实话个人觉得今年很多rc都危险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 245,
+          "like_count": 20424,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1371
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 50,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

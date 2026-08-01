@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2062033197219897846",
+    "created_at": "2026-06-03T05:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062042876524290396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062042876524290396",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062036795177718085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yuki475740 其实比你小哦！😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2062033197219897846",
+        "created_at": "2026-06-03T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062042876524290396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062042876524290396",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062036795177718085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yuki475740 其实比你小哦！😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938232468076957698",
+        "conversation_id": "2062033197219897846",
+        "created_at": "2026-06-03T05:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062036795177718085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062036795177718085",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062033197219897846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 是大猫猫🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 293,
+          "like_count": 24554,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1949
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 85,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "1yuki475740",
+        "verified": false
+      }
+    ]
+  }
+}

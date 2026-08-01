@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037288271722823888",
+    "created_at": "2026-03-27T05:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037399937386688745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944909426596700165",
+          "start": 0,
+          "username": "Htoz1790524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037399937386688745",
+    "in_reply_to_user_id": "1944909426596700165",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037288271722823888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Htoz1790524 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037288271722823888",
+        "created_at": "2026-03-27T05:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037399937386688745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944909426596700165",
+              "start": 0,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037399937386688745",
+        "in_reply_to_user_id": "1944909426596700165",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037288271722823888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Htoz1790524 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944909426596700165",
+        "conversation_id": "2037288271722823888",
+        "created_at": "2026-03-26T21:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037288271722823888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037288271722823888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受，我真的好难受，我想coin了，他真的是我很要好的一个朋友，也是一个很棒很棒的人，可是他就这么走了，无声无息，我真的好想他，他喜欢抽颜悦，喜欢吃“一根葱”，他做饭很好吃。他的三角洲大打的也很棒，我真的好想他，他来武汉什么也没带，走的时候也什么都没留。我真的好想你，coin。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 169
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T23:58:56.000Z",
+        "description": "07年小药娘 I  qq 1946649576/小号1579713253 I 没有门槛喜欢朋友 I 热爱轻小说 I mtf 2025.8.15 I精神分裂 I 有证含糖 I 高中生在外打工I 已炸柜 I 妈妈@AqDro9Qa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "AqDro9Qa"
+              }
+            ]
+          }
+        },
+        "id": "1944909426596700165",
+        "location": "中国台湾",
+        "name": "白毛少女小紗兒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2008736178208649693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 492,
+          "like_count": 7551,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 571
+        },
+        "username": "Htoz1790524",
+        "verified": false
+      }
+    ]
+  }
+}

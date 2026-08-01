@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2044639203749957925",
+    "created_at": "2026-04-16T10:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044731089810235738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044731089810235738",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044639203749957925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 西柚汁的增效约为15%，需要提前3~4个小时"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2044639192312139777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAEgy-bUAExG7x.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2044639196758097920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAEhDibQAAZmLJ.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2044639197110353920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAEhE2aQAAvTZy.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2044639200998502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAEhTVasAALQpB.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044639203749957925",
+        "created_at": "2026-04-16T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044731089810235738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044731089810235738",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044639203749957925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 西柚汁的增效约为15%，需要提前3~4个小时"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044639192312139777",
+            "3_2044639196758097920",
+            "3_2044639197110353920",
+            "3_2044639200998502400"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2044639203749957925",
+        "created_at": "2026-04-16T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044639203749957925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3As2W8lNgI",
+              "end": 139,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044639203749957925/photo/1",
+              "media_key": "3_2044639192312139777",
+              "start": 116,
+              "url": "https://t.co/3As2W8lNgI"
+            },
+            {
+              "display_url": "pic.x.com/3As2W8lNgI",
+              "end": 139,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044639203749957925/photo/1",
+              "media_key": "3_2044639196758097920",
+              "start": 116,
+              "url": "https://t.co/3As2W8lNgI"
+            },
+            {
+              "display_url": "pic.x.com/3As2W8lNgI",
+              "end": 139,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044639203749957925/photo/1",
+              "media_key": "3_2044639197110353920",
+              "start": 116,
+              "url": "https://t.co/3As2W8lNgI"
+            },
+            {
+              "display_url": "pic.x.com/3As2W8lNgI",
+              "end": 139,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2044639203749957925/photo/1",
+              "media_key": "3_2044639200998502400",
+              "start": 116,
+              "url": "https://t.co/3As2W8lNgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044639203749957925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 675,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 去医院想办法开，并不算太难\np2 买盐野义\np3 尽量选择饭后1-2h，不要联用，不要续药，第一次很多人会感觉起效慢怀疑没效果，续药，然后过量。第一次dxm没必要追求效果最大化，我建议分次服用防止吐\np4 有，提前几个小时喝 https://t.co/3As2W8lNgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 144,
+          "like_count": 12204,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 765
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1167,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

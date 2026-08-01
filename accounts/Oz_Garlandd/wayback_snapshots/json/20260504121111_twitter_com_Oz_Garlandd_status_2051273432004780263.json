@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2051196291930378655",
+    "created_at": "2026-05-04T12:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051273432004780263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777730090924978176",
+          "start": 0,
+          "username": "Hiiragi_qin"
+        },
+        {
+          "end": 25,
+          "id": "1687566770763071489",
+          "start": 13,
+          "username": "Olebe179131"
+        },
+        {
+          "end": 34,
+          "id": "1816508247651860480",
+          "start": 26,
+          "username": "DIC_EWE"
+        },
+        {
+          "end": 50,
+          "id": "1720425128125947904",
+          "start": 35,
+          "username": "xxz10110116791"
+        },
+        {
+          "end": 67,
+          "id": "1904714528337911810",
+          "start": 51,
+          "username": "xawmkakkak67868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051273432004780263",
+    "in_reply_to_user_id": "1777730090924978176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051269037171368163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiiragi_qin @Olebe179131 @DIC_EWE @xxz10110116791 @xawmkakkak67868 我希望我的原神家庭是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2051196291930378655",
+        "created_at": "2026-05-04T12:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051273432004780263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin"
+            },
+            {
+              "end": 25,
+              "id": "1687566770763071489",
+              "start": 13,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 34,
+              "id": "1816508247651860480",
+              "start": 26,
+              "username": "DIC_EWE"
+            },
+            {
+              "end": 50,
+              "id": "1720425128125947904",
+              "start": 35,
+              "username": "xxz10110116791"
+            },
+            {
+              "end": 67,
+              "id": "1904714528337911810",
+              "start": 51,
+              "username": "xawmkakkak67868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051273432004780263",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269037171368163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin @Olebe179131 @DIC_EWE @xxz10110116791 @xawmkakkak67868 我希望我的原神家庭是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777730090924978176",
+        "conversation_id": "2051196291930378655",
+        "created_at": "2026-05-04T11:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051269037171368163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 21,
+              "id": "1816508247651860480",
+              "start": 13,
+              "username": "DIC_EWE"
+            },
+            {
+              "end": 37,
+              "id": "1720425128125947904",
+              "start": 22,
+              "username": "xxz10110116791"
+            },
+            {
+              "end": 50,
+              "id": "1997644719908884480",
+              "start": 38,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 67,
+              "id": "1904714528337911810",
+              "start": 51,
+              "username": "xawmkakkak67868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051269037171368163",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051263006982693160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 @DIC_EWE @xxz10110116791 @Oz_Garlandd @xawmkakkak67868 老。。老公。。。可爱喵？！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 189,
+          "like_count": 15518,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 951
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n(可以叫我冬青喔)\n（欢迎查成分互fo）\n阿普唑仑重度依赖\n目前会点药理知识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_4fa23f80-a462-42a6-b608-b87dcb7af77c",
+                "start": 0,
+                "url": "https://t.co/deReGSZ2Tl"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "OneRoom",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 221,
+          "like_count": 17175,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/deReGSZ2Tl",
+        "username": "Hiiragi_qin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040796432937193472/o7B7VSgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 546,
+          "like_count": 27055,
+          "listed_count": 0,
+          "media_count": 954,
+          "tweet_count": 3291
+        },
+        "username": "Olebe179131",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "出厂日期2010.9.5    期待很多东西\n                                丨@KuaiWo34671 主人＆爱人丨\n杀杀杀杀杀杀杀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "家",
+        "name": "大骰目",
+        "pinned_tweet_id": "2033065286291820762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 283,
+          "like_count": 8551,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 2041
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日2010.7.26| 现读高一 | 不经常建政| 技术宅(?│火车迷│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│经常焦虑│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051171309095464960/8znKSJIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 203,
+          "like_count": 5847,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 412
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T01:58:44.000Z",
+        "description": "。。\n感兴趣的是VECALOID&IDV&cs2&vct\n来自中国大陆。IT。留学生。\nCN/EN/DE",
+        "id": "1904714528337911810",
+        "location": "？",
+        "name": "虛無宅。",
+        "pinned_tweet_id": "2035311114188402916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029069987579871233/WaqRGI8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 367
+        },
+        "username": "xawmkakkak67868",
+        "verified": false
+      }
+    ]
+  }
+}

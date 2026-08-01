@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052759091269996658",
+    "created_at": "2026-05-09T03:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052954583714926704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986291014370545665",
+          "start": 0,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052954583714926704",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052759091269996658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasehelp070 好多好多...就先推荐西原健一郎的歌吧😋爵士如泉水一般动听 实属仙品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052759091269996658",
+        "created_at": "2026-05-09T03:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052954583714926704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052954583714926704",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052759091269996658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 好多好多...就先推荐西原健一郎的歌吧😋爵士如泉水一般动听 实属仙品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052759091269996658",
+        "created_at": "2026-05-08T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052759091269996658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052759091269996658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 286,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油们可以推荐一些好看的书、好听的歌之类的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 222,
+          "like_count": 17192,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1136
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 153,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 637
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

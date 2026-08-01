@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052031007583306092",
+    "created_at": "2026-05-07T17:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052435653778923749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913966733464854529",
+          "start": 0,
+          "username": "mydearjillian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052435653778923749",
+    "in_reply_to_user_id": "1913966733464854529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052414142330667194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mydearjillian 我说呢🥺原来普瑞也可以解离的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052031007583306092",
+        "created_at": "2026-05-07T17:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052435653778923749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913966733464854529",
+              "start": 0,
+              "username": "mydearjillian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052435653778923749",
+        "in_reply_to_user_id": "1913966733464854529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052414142330667194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mydearjillian 我说呢🥺原来普瑞也可以解离的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913966733464854529",
+        "conversation_id": "2052031007583306092",
+        "created_at": "2026-05-07T15:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052414142330667194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052414142330667194",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052031007583306092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 突然想到之前抗性减少到12t75mgpr就让我解离到起不来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 217,
+          "like_count": 16886,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1093
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T14:43:38.000Z",
+        "description": "Daydream（life）//me//od//精神分析//\n我爱你们",
+        "id": "1913966733464854529",
+        "location": "now",
+        "name": "秋-Yukisnow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984190166668312576/srt8Nn9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 83,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 169
+        },
+        "username": "mydearjillian",
+        "verified": false
+      }
+    ]
+  }
+}

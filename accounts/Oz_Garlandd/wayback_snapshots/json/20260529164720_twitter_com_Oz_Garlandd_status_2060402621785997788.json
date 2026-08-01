@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060402592807571462",
+        "3_2060402591385661443",
+        "3_2060402593373835267",
+        "3_2060402593369587713"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060402621785997788",
+    "created_at": "2026-05-29T16:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060402621785997788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pyoKGzj8AY",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+          "media_key": "3_2060402592807571462",
+          "start": 126,
+          "url": "https://t.co/pyoKGzj8AY"
+        },
+        {
+          "display_url": "pic.x.com/pyoKGzj8AY",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+          "media_key": "3_2060402591385661443",
+          "start": 126,
+          "url": "https://t.co/pyoKGzj8AY"
+        },
+        {
+          "display_url": "pic.x.com/pyoKGzj8AY",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+          "media_key": "3_2060402593373835267",
+          "start": 126,
+          "url": "https://t.co/pyoKGzj8AY"
+        },
+        {
+          "display_url": "pic.x.com/pyoKGzj8AY",
+          "end": 149,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+          "media_key": "3_2060402593369587713",
+          "start": 126,
+          "url": "https://t.co/pyoKGzj8AY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060402621785997788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推动太阳 支配群星的神之爱\n在至高天的白玫瑰中显现\n​祂自九穹之外 将爱化成万物法则馈与众生\n​人人都是那神迹的一掬 正如游鳞荡涤于海\n\n然而 不是所有孩子都甘愿沐浴\n​羔羊无可避免地走上了歧路\n​于是神再次降下了祂的爱与力量\n​––来自上帝的干细胞 https://t.co/pyoKGzj8AY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2060402592807571462",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgFPd6W0AYUKVv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2060402591385661443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgFPYnWMAMEeSC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2060402593373835267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgFPgBXUAM6QH1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2060402593369587713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgFPgAWgAEfFVH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060402592807571462",
+            "3_2060402591385661443",
+            "3_2060402593373835267",
+            "3_2060402593369587713"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060402621785997788",
+        "created_at": "2026-05-29T16:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060402621785997788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyoKGzj8AY",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+              "media_key": "3_2060402592807571462",
+              "start": 126,
+              "url": "https://t.co/pyoKGzj8AY"
+            },
+            {
+              "display_url": "pic.x.com/pyoKGzj8AY",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+              "media_key": "3_2060402591385661443",
+              "start": 126,
+              "url": "https://t.co/pyoKGzj8AY"
+            },
+            {
+              "display_url": "pic.x.com/pyoKGzj8AY",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+              "media_key": "3_2060402593373835267",
+              "start": 126,
+              "url": "https://t.co/pyoKGzj8AY"
+            },
+            {
+              "display_url": "pic.x.com/pyoKGzj8AY",
+              "end": 149,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060402621785997788/photo/1",
+              "media_key": "3_2060402593369587713",
+              "start": 126,
+              "url": "https://t.co/pyoKGzj8AY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060402621785997788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推动太阳 支配群星的神之爱\n在至高天的白玫瑰中显现\n​祂自九穹之外 将爱化成万物法则馈与众生\n​人人都是那神迹的一掬 正如游鳞荡涤于海\n\n然而 不是所有孩子都甘愿沐浴\n​羔羊无可避免地走上了歧路\n​于是神再次降下了祂的爱与力量\n​––来自上帝的干细胞 https://t.co/pyoKGzj8AY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 280,
+          "like_count": 22996,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1742
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

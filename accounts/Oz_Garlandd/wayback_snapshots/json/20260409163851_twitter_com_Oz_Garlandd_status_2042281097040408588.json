@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2042281097040408588",
+    "created_at": "2026-04-09T16:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042281097040408588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2042220491210104957",
+          "start": 15,
+          "url": "https://t.co/Jy6QJpR9Da"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042281097040408588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042220491210104957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了我去，刚打完卡就关了 https://t.co/Jy6QJpR9Da"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042220484742483968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdstfIaEAAufc6.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2042281097040408588",
+        "created_at": "2026-04-09T16:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042281097040408588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2042220491210104957",
+              "start": 15,
+              "url": "https://t.co/Jy6QJpR9Da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042281097040408588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042220491210104957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了我去，刚打完卡就关了 https://t.co/Jy6QJpR9Da"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042220484742483968"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2042220491210104957",
+        "created_at": "2026-04-09T12:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042220491210104957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruPiw13wyI",
+              "end": 34,
+              "expanded_url": "https://x.com/winterfruit_1/status/2042220491210104957/photo/1",
+              "media_key": "3_2042220484742483968",
+              "start": 11,
+              "url": "https://t.co/ruPiw13wyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220491210104957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关评论区了，你已急哭 https://t.co/ruPiw13wyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 116,
+          "like_count": 10282,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 636
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 1464,
+          "like_count": 39312,
+          "listed_count": 7,
+          "media_count": 1669,
+          "tweet_count": 11522
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

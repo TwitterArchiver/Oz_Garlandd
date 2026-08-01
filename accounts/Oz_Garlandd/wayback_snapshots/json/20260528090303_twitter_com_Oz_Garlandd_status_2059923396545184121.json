@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059923376001396737"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2059923396545184121",
+    "created_at": "2026-05-28T09:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059923396545184121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GHXKdIL6Yq",
+          "end": 166,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2059923396545184121/photo/1",
+          "media_key": "3_2059923376001396737",
+          "start": 143,
+          "url": "https://t.co/GHXKdIL6Yq"
+        },
+        {
+          "display_url": "x.com/OTxiashu/statu…",
+          "end": 190,
+          "expanded_url": "https://twitter.com/OTxiashu/status/2059693147190694032",
+          "start": 167,
+          "url": "https://t.co/DI7jiUBH4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059923396545184121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059693147190694032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很佩服勇气了 我跟我妹逢父母吵架都只能龟缩在房间里 因为一出去就有可能被飞过去的东西砸到还要被骂不长眼😁😁不过现在没事了因为只要他们一发癫我就跟着一起发癫比比谁更癫😆😆谁赢了其他人就会安静下来听他发癫🤗🤗我妈丢东西我爹打我妈 而最后胜者都会是我😄😄因为我会拿刀乱砍 直到一切回归安静 https://t.co/GHXKdIL6Yq https://t.co/DI7jiUBH4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059923376001396737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZRZYMWMAEDfj_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059923376001396737"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2059923396545184121",
+        "created_at": "2026-05-28T09:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059923396545184121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHXKdIL6Yq",
+              "end": 166,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2059923396545184121/photo/1",
+              "media_key": "3_2059923376001396737",
+              "start": 143,
+              "url": "https://t.co/GHXKdIL6Yq"
+            },
+            {
+              "display_url": "x.com/OTxiashu/statu…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/OTxiashu/status/2059693147190694032",
+              "start": 167,
+              "url": "https://t.co/DI7jiUBH4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059923396545184121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059693147190694032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很佩服勇气了 我跟我妹逢父母吵架都只能龟缩在房间里 因为一出去就有可能被飞过去的东西砸到还要被骂不长眼😁😁不过现在没事了因为只要他们一发癫我就跟着一起发癫比比谁更癫😆😆谁赢了其他人就会安静下来听他发癫🤗🤗我妈丢东西我爹打我妈 而最后胜者都会是我😄😄因为我会拿刀乱砍 直到一切回归安静 https://t.co/GHXKdIL6Yq https://t.co/DI7jiUBH4h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2059693147190694032",
+        "created_at": "2026-05-27T17:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059693147190694032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059693147190694032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想起来小时候我和姐姐下楼买小布丁化成水放瓶盖里 再放冰箱里 冻成冰 去送给爸爸妈妈 他们吵架了一个在天台一个在阳台 我们就分头行动 送给爸爸妈妈 现在想起来我真的很想感谢姐姐 她从小就很懂事 从小到大都是一位非常出色的女性😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 266,
+          "like_count": 22386,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1648
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 596,
+          "like_count": 12174,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 4586
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

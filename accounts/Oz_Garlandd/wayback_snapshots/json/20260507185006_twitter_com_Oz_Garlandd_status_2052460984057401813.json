@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052460961865363460",
+        "3_2052460963681452033"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052460984057401813",
+    "created_at": "2026-05-07T18:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052460984057401813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfRo9btizD",
+          "end": 72,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052460984057401813/photo/1",
+          "media_key": "3_2052460961865363460",
+          "start": 49,
+          "url": "https://t.co/bfRo9btizD"
+        },
+        {
+          "display_url": "pic.x.com/bfRo9btizD",
+          "end": 72,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052460984057401813/photo/1",
+          "media_key": "3_2052460963681452033",
+          "start": 49,
+          "url": "https://t.co/bfRo9btizD"
+        },
+        {
+          "display_url": "x.com/Akiscara_6484/…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/Akiscara_6484/status/2052425870258958678",
+          "start": 73,
+          "url": "https://t.co/4vWGigArJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052460984057401813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052425870258958678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要说的这里放不下 所以放图里了\n我只看见一个绝望的人在担心他的朋友\n而那些人机无比讽刺 令人震怒 https://t.co/bfRo9btizD https://t.co/4vWGigArJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052460961865363460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvOXtNXcAQo8FZ.jpg",
+        "width": 225
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2052460963681452033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvOXz-WwAEmgKD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052425860658200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuucjBbgAAEYbU.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052460961865363460",
+            "3_2052460963681452033"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052460984057401813",
+        "created_at": "2026-05-07T18:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052460984057401813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfRo9btizD",
+              "end": 72,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052460984057401813/photo/1",
+              "media_key": "3_2052460961865363460",
+              "start": 49,
+              "url": "https://t.co/bfRo9btizD"
+            },
+            {
+              "display_url": "pic.x.com/bfRo9btizD",
+              "end": 72,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052460984057401813/photo/1",
+              "media_key": "3_2052460963681452033",
+              "start": 49,
+              "url": "https://t.co/bfRo9btizD"
+            },
+            {
+              "display_url": "x.com/Akiscara_6484/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Akiscara_6484/status/2052425870258958678",
+              "start": 73,
+              "url": "https://t.co/4vWGigArJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052460984057401813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052425870258958678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要说的这里放不下 所以放图里了\n我只看见一个绝望的人在担心他的朋友\n而那些人机无比讽刺 令人震怒 https://t.co/bfRo9btizD https://t.co/4vWGigArJM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052425860658200576"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2052425870258958678",
+        "created_at": "2026-05-07T16:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052425870258958678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FdjR7vnqi",
+              "end": 73,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2052425870258958678/photo/1",
+              "media_key": "3_2052425860658200576",
+              "start": 50,
+              "url": "https://t.co/3FdjR7vnqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052425870258958678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8075,
+          "like_count": 28,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "有没有谁能联系到她，或者知道她亲友联系方式。打一下120，这是我互关列表，她自杀了。我不知道她在哪 https://t.co/3FdjR7vnqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 218,
+          "like_count": 16917,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1102
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/坏小孩/抖m/受虐倾向/血腥/（喜欢cult片）/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐（本人脑子一根筋，听不懂你们说什么但会冒泡泡，见谅）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 128,
+          "like_count": 6827,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2566
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

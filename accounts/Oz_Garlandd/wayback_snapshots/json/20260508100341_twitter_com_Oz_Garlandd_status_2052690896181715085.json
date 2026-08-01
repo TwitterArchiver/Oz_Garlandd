@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052690850136600576"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052690896181715085",
+    "created_at": "2026-05-08T10:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052690896181715085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwpRZGnNM1",
+          "end": 49,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052690896181715085/photo/1",
+          "media_key": "3_2052690850136600576",
+          "start": 26,
+          "url": "https://t.co/hwpRZGnNM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690896181715085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已获取曾经被老师没收的余量🤤抗抑郁是神 抗焦虑还行 https://t.co/hwpRZGnNM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052690850136600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyfc9wWMAAKATP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052690850136600576"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052690896181715085",
+        "created_at": "2026-05-08T10:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052690896181715085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwpRZGnNM1",
+              "end": 49,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052690896181715085/photo/1",
+              "media_key": "3_2052690850136600576",
+              "start": 26,
+              "url": "https://t.co/hwpRZGnNM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052690896181715085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已获取曾经被老师没收的余量🤤抗抑郁是神 抗焦虑还行 https://t.co/hwpRZGnNM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 220,
+          "like_count": 17133,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1119
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

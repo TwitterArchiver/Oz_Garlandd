@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055004531910406365",
+    "created_at": "2026-05-14T19:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055004531910406365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oz_Garlandd/st…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Oz_Garlandd/status/2054967096879010075",
+          "start": 72,
+          "url": "https://t.co/WR0IyWTzEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055004531910406365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054967096879010075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "...它让我回想起 第一次使用右美沙芬的那个下午，我是说，我是为缓解我无法释怀的痛苦而服药的那个下午，以及PPD的本质，从而让我停下加药的意志 https://t.co/WR0IyWTzEU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055004531910406365",
+        "created_at": "2026-05-14T19:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055004531910406365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2054967096879010075",
+              "start": 72,
+              "url": "https://t.co/WR0IyWTzEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055004531910406365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054967096879010075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "...它让我回想起 第一次使用右美沙芬的那个下午，我是说，我是为缓解我无法释怀的痛苦而服药的那个下午，以及PPD的本质，从而让我停下加药的意志 https://t.co/WR0IyWTzEU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2054967096879010075",
+        "created_at": "2026-05-14T16:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054967096879010075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2054960349229510980",
+              "start": 123,
+              "url": "https://t.co/YL3hFSeenx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054967096879010075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054960349229510980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了😢😢吸一下 啊 6mg没了 我又正要吸呢 结果解离鬼一不小心打翻了 😢然后 只能一点点收集装回去 装不回去的只能先用舌头👅👅了..好咸 好苦 是盐酸盐的味道..感觉鼻腔组织液正疯狂渗出..解离很干净，很爽，但好贵，，我的钱包也在滴血😢😢😢 https://t.co/YL3hFSeenx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 232,
+          "like_count": 18978,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1249
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2054409744459477404",
+    "created_at": "2026-05-14T04:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054774105564446792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524962045992443904",
+          "start": 0,
+          "username": "purpleseason_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054774105564446792",
+    "in_reply_to_user_id": "1524962045992443904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054409744459477404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@purpleseason_zj 🥺🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2054409744459477404",
+        "created_at": "2026-05-14T04:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054774105564446792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524962045992443904",
+              "start": 0,
+              "username": "purpleseason_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054774105564446792",
+        "in_reply_to_user_id": "1524962045992443904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054409744459477404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purpleseason_zj 🥺🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524962045992443904",
+        "conversation_id": "2054409744459477404",
+        "created_at": "2026-05-13T03:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054409744459477404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054409744459477404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6481,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "：嗯嗯！！！\n最近感冒稍微好转一点了，拖了很久的2500fo抽奖决定现在开始！！！！\n奖品：三个30r小红包请大家喝奶茶\n要求：关注我并评论这条帖文\n截止到五月十六日（本周六）晚（具体时间看我心情^ - ^\n开奖日期暂定本周日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 231,
+          "like_count": 18939,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1231
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T03:57:48.000Z",
+        "description": "现役体制内牛马 未婚带两子（我养的贱猫）Apex世界第一拖后腿 铁血吉妈 主更一些莫名其妙的对话和无意义碎碎念（我的情绪垃圾桶）\n 碎碎念小号指路：@strawberrymk_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "strawberrymk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shawn62775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shawn62775",
+                "start": 0,
+                "url": "https://t.co/UIB15QRURu"
+              }
+            ]
+          }
+        },
+        "id": "1524962045992443904",
+        "location": "不是黄推 ",
+        "name": "紫季purple season_",
+        "pinned_tweet_id": "2012252753750573421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045550927848017920/sscsz2Z0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 109,
+          "like_count": 993,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/UIB15QRURu",
+        "username": "purpleseason_zj",
+        "verified": false
+      }
+    ]
+  }
+}

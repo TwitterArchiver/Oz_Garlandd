@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045363279506100224"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045363319599497569",
+    "created_at": "2026-04-18T04:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045363319599497569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKKL94h6Cy",
+          "end": 32,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2045363319599497569/photo/1",
+          "media_key": "3_2045363279506100224",
+          "start": 9,
+          "url": "https://t.co/jKKL94h6Cy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045363319599497569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二十发解决战斗😋 https://t.co/jKKL94h6Cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2045363279506100224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKXEN-W0AAoiZA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045363279506100224"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045363319599497569",
+        "created_at": "2026-04-18T04:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045363319599497569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKKL94h6Cy",
+              "end": 32,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2045363319599497569/photo/1",
+              "media_key": "3_2045363279506100224",
+              "start": 9,
+              "url": "https://t.co/jKKL94h6Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045363319599497569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二十发解决战斗😋 https://t.co/jKKL94h6Cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 145,
+          "like_count": 12441,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 779
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

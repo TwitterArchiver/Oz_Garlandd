@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046913951603048448"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2046914549714911478",
+    "created_at": "2026-04-22T11:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046914549714911478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/90vwqNvsyS",
+          "end": 41,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2046914549714911478/video/1",
+          "media_key": "7_2046913951603048448",
+          "start": 18,
+          "url": "https://t.co/90vwqNvsyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046914549714911478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真没人觉得螺丝椒完美契合人体工学么 https://t.co/90vwqNvsyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57733,
+        "height": 720,
+        "media_key": "7_2046913951603048448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046913951603048448/pu/img/tEl9JAsJ5Tc59Lci.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046913951603048448/pu/vid/avc1/480x270/RU3C5mPRJGlnZm_u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046913951603048448/pu/vid/avc1/640x360/GCRbZ4l3SYhixUYc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046913951603048448/pu/vid/avc1/1280x720/u4_K9jUobz96OLLV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046913951603048448/pu/pl/cYXsXwGWn1QGRg-b.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046913951603048448"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2046914549714911478",
+        "created_at": "2026-04-22T11:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046914549714911478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90vwqNvsyS",
+              "end": 41,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2046914549714911478/video/1",
+              "media_key": "7_2046913951603048448",
+              "start": 18,
+              "url": "https://t.co/90vwqNvsyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046914549714911478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真没人觉得螺丝椒完美契合人体工学么 https://t.co/90vwqNvsyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 149,
+          "like_count": 13269,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 824
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

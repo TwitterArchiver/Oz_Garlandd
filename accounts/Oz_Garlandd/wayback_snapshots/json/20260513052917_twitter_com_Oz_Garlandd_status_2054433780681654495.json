@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2054250188923929000",
+    "created_at": "2026-05-13T05:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054433780681654495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053475823538372608",
+          "start": 0,
+          "username": "YaZangxueNo_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054433780681654495",
+    "in_reply_to_user_id": "2053475823538372608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054353027595935901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaZangxueNo_2 还可以注射吗？😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2054250188923929000",
+        "created_at": "2026-05-13T05:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054433780681654495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053475823538372608",
+              "start": 0,
+              "username": "YaZangxueNo_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054433780681654495",
+        "in_reply_to_user_id": "2053475823538372608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054353027595935901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaZangxueNo_2 还可以注射吗？😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053475823538372608",
+        "conversation_id": "2054250188923929000",
+        "created_at": "2026-05-13T00:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054353027595935901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054353027595935901",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054250188923929000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 注射pr么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 231,
+          "like_count": 18768,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1209
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T14:03:03.000Z",
+        "description": "鸦葬雪初代机陨落，互fo寻回中，看见的宝宝可以帮忙转帖呀\ntg:@Peckylarding 私信我前请备注推特id",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Peckylarding"
+              }
+            ]
+          }
+        },
+        "id": "2053475823538372608",
+        "location": "下北沢",
+        "name": "鸦葬雪#二号机",
+        "pinned_tweet_id": "2054258258823803068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054199840998031360/GktbH71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 59,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "YaZangxueNo_2",
+        "verified": false
+      }
+    ]
+  }
+}

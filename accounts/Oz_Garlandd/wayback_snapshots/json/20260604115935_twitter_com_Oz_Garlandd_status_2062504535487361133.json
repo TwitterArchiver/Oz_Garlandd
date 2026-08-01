@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061712638380527850",
+    "created_at": "2026-06-04T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062504535487361133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1855621322220437504",
+          "start": 0,
+          "username": "clcqzxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062504535487361133",
+    "in_reply_to_user_id": "1855621322220437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061712638380527850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clcqzxc 看看手or脚😉只要不胖骨骼特征都很明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061712638380527850",
+        "created_at": "2026-06-04T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062504535487361133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1855621322220437504",
+              "start": 0,
+              "username": "clcqzxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062504535487361133",
+        "in_reply_to_user_id": "1855621322220437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061712638380527850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clcqzxc 看看手or脚😉只要不胖骨骼特征都很明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2061712638380527850",
+        "created_at": "2026-06-02T07:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061712638380527850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061712638380527850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想知道一个认识了好久的深交到底是不是女生…但感觉这样问别人性别有点不礼貌怎么办😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 366,
+          "like_count": 25151,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1998
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 847,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 278
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

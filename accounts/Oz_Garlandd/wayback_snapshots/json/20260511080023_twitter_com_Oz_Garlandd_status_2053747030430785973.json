@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2053702637204226174",
+    "created_at": "2026-05-11T08:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053747030430785973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605806041186304",
+          "start": 0,
+          "username": "halationwires"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053747030430785973",
+    "in_reply_to_user_id": "1534605806041186304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053702637204226174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halationwires 吃小保底没出已经力竭了🤪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2053702384874881024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA3cCTXAAACBp3.jpg",
+        "width": 2558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2053702637204226174",
+        "created_at": "2026-05-11T08:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053747030430785973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534605806041186304",
+              "start": 0,
+              "username": "halationwires"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053747030430785973",
+        "in_reply_to_user_id": "1534605806041186304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053702637204226174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halationwires 吃小保底没出已经力竭了🤪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053702384874881024"
+          ]
+        },
+        "author_id": "1534605806041186304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053702637204226174",
+        "created_at": "2026-05-11T05:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053702637204226174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFkeuwzHIu",
+              "end": 27,
+              "expanded_url": "https://x.com/halationwires/status/2053702637204226174/photo/1",
+              "media_key": "3_2053702384874881024",
+              "start": 4,
+              "url": "https://t.co/FFkeuwzHIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053702637204226174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没钱了 https://t.co/FFkeuwzHIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 234,
+          "like_count": 18109,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1185
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:38:48.000Z",
+        "description": "白加灰的颜色",
+        "id": "1534605806041186304",
+        "name": "ˈ尸爱",
+        "pinned_tweet_id": "2044000741640024166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052668336484278274/FWyC3L8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 9876,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 439
+        },
+        "username": "halationwires",
+        "verified": false
+      }
+    ]
+  }
+}

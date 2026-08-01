@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051928866151673857",
+        "3_2051928867632193537",
+        "3_2051928866151632901",
+        "3_2051928867632279554"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051928910267351160",
+    "created_at": "2026-05-06T07:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051928910267351160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V68Ip3munl",
+          "end": 62,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+          "media_key": "3_2051928866151673857",
+          "start": 39,
+          "url": "https://t.co/V68Ip3munl"
+        },
+        {
+          "display_url": "pic.x.com/V68Ip3munl",
+          "end": 62,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+          "media_key": "3_2051928867632193537",
+          "start": 39,
+          "url": "https://t.co/V68Ip3munl"
+        },
+        {
+          "display_url": "pic.x.com/V68Ip3munl",
+          "end": 62,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+          "media_key": "3_2051928866151632901",
+          "start": 39,
+          "url": "https://t.co/V68Ip3munl"
+        },
+        {
+          "display_url": "pic.x.com/V68Ip3munl",
+          "end": 62,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+          "media_key": "3_2051928867632279554",
+          "start": 39,
+          "url": "https://t.co/V68Ip3munl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051928910267351160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又在骗我入坑😈但确实艺术🤤美\n\n真的好多 这是把整个徐家汇给包下来当画廊了吧 https://t.co/V68Ip3munl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051928866151673857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnqbqNXMAE6l_D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051928867632193537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnqbvuWIAEZGzs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051928866151632901",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnqbqNWkAUxmUb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051928867632279554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnqbvuXcAIDCfS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051928866151673857",
+            "3_2051928867632193537",
+            "3_2051928866151632901",
+            "3_2051928867632279554"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051928910267351160",
+        "created_at": "2026-05-06T07:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051928910267351160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V68Ip3munl",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+              "media_key": "3_2051928866151673857",
+              "start": 39,
+              "url": "https://t.co/V68Ip3munl"
+            },
+            {
+              "display_url": "pic.x.com/V68Ip3munl",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+              "media_key": "3_2051928867632193537",
+              "start": 39,
+              "url": "https://t.co/V68Ip3munl"
+            },
+            {
+              "display_url": "pic.x.com/V68Ip3munl",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+              "media_key": "3_2051928866151632901",
+              "start": 39,
+              "url": "https://t.co/V68Ip3munl"
+            },
+            {
+              "display_url": "pic.x.com/V68Ip3munl",
+              "end": 62,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2051928910267351160/photo/1",
+              "media_key": "3_2051928867632279554",
+              "start": 39,
+              "url": "https://t.co/V68Ip3munl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051928910267351160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在骗我入坑😈但确实艺术🤤美\n\n真的好多 这是把整个徐家汇给包下来当画廊了吧 https://t.co/V68Ip3munl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 219,
+          "like_count": 16683,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1054
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

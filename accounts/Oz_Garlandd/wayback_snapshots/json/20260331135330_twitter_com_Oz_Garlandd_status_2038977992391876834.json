@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2038977992391876834",
+    "created_at": "2026-03-31T13:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038977992391876834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2037384215847747584",
+          "start": 3,
+          "username": "__murasaki__99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038977992391876834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038948881426206767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__murasaki__99: 我想要更多互关...求转发评论！会在关注里抽两个16.66呀呀（换成一盒普瑞或者愈美也可以）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2038977992391876834",
+        "created_at": "2026-03-31T13:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038977992391876834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2037384215847747584",
+              "start": 3,
+              "username": "__murasaki__99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038977992391876834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038948881426206767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__murasaki__99: 我想要更多互关...求转发评论！会在关注里抽两个16.66呀呀（换成一盒普瑞或者愈美也可以）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037384215847747584",
+        "conversation_id": "2038948881426206767",
+        "created_at": "2026-03-31T11:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038948881426206767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038948881426206767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我想要更多互关...求转发评论！会在关注里抽两个16.66呀呀（换成一盒普瑞或者愈美也可以）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 322
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:20:46.000Z",
+        "description": "o割一体机 称呼什么都可以丨10丨infp丨全部友好丨过激滚丨术力口重度依赖丨舞萌痴丨求你们和我互fo吧T^T",
+        "id": "2037384215847747584",
+        "name": "murasaki",
+        "pinned_tweet_id": "2038793950652170446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038056640432267264/F90opw-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 53,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 59
+        },
+        "username": "__murasaki__99",
+        "verified": false
+      }
+    ]
+  }
+}

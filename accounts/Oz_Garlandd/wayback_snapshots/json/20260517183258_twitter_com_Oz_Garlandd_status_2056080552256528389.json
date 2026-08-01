@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056080525610168321"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2056080552256528389",
+    "created_at": "2026-05-17T18:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056080552256528389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHPzAJaL2T",
+          "end": 37,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056080552256528389/photo/1",
+          "media_key": "3_2056080525610168321",
+          "start": 14,
+          "url": "https://t.co/SHPzAJaL2T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056080552256528389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2:30 我解离成一滩猫了 https://t.co/SHPzAJaL2T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056080525610168321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiqWC6XsAEENu7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056080525610168321"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056080552256528389",
+        "created_at": "2026-05-17T18:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056080552256528389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHPzAJaL2T",
+              "end": 37,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056080552256528389/photo/1",
+              "media_key": "3_2056080525610168321",
+              "start": 14,
+              "url": "https://t.co/SHPzAJaL2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056080552256528389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2:30 我解离成一滩猫了 https://t.co/SHPzAJaL2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 236,
+          "like_count": 20064,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1334
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

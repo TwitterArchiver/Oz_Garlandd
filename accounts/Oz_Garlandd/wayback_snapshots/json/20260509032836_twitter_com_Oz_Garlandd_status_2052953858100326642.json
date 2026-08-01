@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052950913950843058",
+    "created_at": "2026-05-09T03:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052953858100326642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682395404976156672",
+          "start": 0,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052953858100326642",
+    "in_reply_to_user_id": "1682395404976156672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052950913950843058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanghs84 🥺🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2052950737160994816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2L0YXbgAAs9ZP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052950913950843058",
+        "created_at": "2026-05-09T03:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052953858100326642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682395404976156672",
+              "start": 0,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052953858100326642",
+        "in_reply_to_user_id": "1682395404976156672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052950913950843058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanghs84 🥺🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052950737160994816"
+          ]
+        },
+        "author_id": "1682395404976156672",
+        "conversation_id": "2052950913950843058",
+        "created_at": "2026-05-09T03:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052950913950843058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaztjo4WL3",
+              "end": 55,
+              "expanded_url": "https://x.com/yanghs84/status/2052950913950843058/photo/1",
+              "media_key": "3_2052950737160994816",
+              "start": 32,
+              "url": "https://t.co/vaztjo4WL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052950913950843058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "5.14抽奖贴就会发出，希望大家都能参与上，更多人可以领到红包 https://t.co/vaztjo4WL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 222,
+          "like_count": 17190,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1135
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "非正常人类研究者|一个被骗过之后致力于给大家推荐靠谱门姐的普通人\n分身@SugarWithGlaass",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "SugarWithGlaass"
+              }
+            ]
+          }
+        },
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "pinned_tweet_id": "2048982114541117755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 10,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 242
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

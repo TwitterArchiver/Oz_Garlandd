@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055219435611505034",
+    "created_at": "2026-05-15T15:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055312939251294471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        },
+        {
+          "end": 22,
+          "id": "1608829820737314817",
+          "start": 10,
+          "username": "Yazawashize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055312939251294471",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055253101997863287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu @Yazawashize 不好的回忆！😢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055219435611505034",
+        "created_at": "2026-05-15T15:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055312939251294471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            },
+            {
+              "end": 22,
+              "id": "1608829820737314817",
+              "start": 10,
+              "username": "Yazawashize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055312939251294471",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055253101997863287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu @Yazawashize 不好的回忆！😢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2055219435611505034",
+        "created_at": "2026-05-15T11:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055253101997863287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608829820737314817",
+              "start": 0,
+              "username": "Yazawashize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055253101997863287",
+        "in_reply_to_user_id": "1608829820737314817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055219435611505034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yazawashize 悄悄告诉你😗有些提问是人机发的！😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 236,
+          "like_count": 19414,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1278
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 587,
+          "like_count": 11561,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T14:18:30.000Z",
+        "description": "=泽泽 https://t.co/HfBpX1ImkN 随时欢迎🥺🤲🏻…\n期待なんてされてない できない いらない❤︎ ｜抑郁症患者｜间歇性精分｜♡overdose♡｜NIC重度依赖晚期｜日本留学准备中｜ 成人済｜できれば、谁とも关わりたくない..",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yazawashize",
+                "end": 27,
+                "expanded_url": "https://ngl.link/yazawashize",
+                "start": 4,
+                "url": "https://t.co/HfBpX1ImkN"
+              }
+            ]
+          }
+        },
+        "id": "1608829820737314817",
+        "name": "✟ 昇天 ✟",
+        "pinned_tweet_id": "1993530707436839100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 267,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 190
+        },
+        "username": "Yazawashize",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2044057147970072586",
+    "created_at": "2026-04-14T19:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044129964061073451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        },
+        {
+          "end": 25,
+          "id": "1485158225167413248",
+          "start": 10,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044129964061073451",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044097977472700640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 @chihorishizuku 就是人受到痛苦之后会自行分泌内啡肽以止痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044057147970072586",
+        "created_at": "2026-04-14T19:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044129964061073451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 25,
+              "id": "1485158225167413248",
+              "start": 10,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044129964061073451",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044097977472700640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 @chihorishizuku 就是人受到痛苦之后会自行分泌内啡肽以止痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "2044057147970072586",
+        "created_at": "2026-04-14T16:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044097977472700640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485158225167413248",
+              "start": 0,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044097977472700640",
+        "in_reply_to_user_id": "1485158225167413248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044057147970072586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chihorishizuku 方便介绍一下，这是一种什么样的反馈机制吗？我不太懂理科的玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 139,
+          "like_count": 11936,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 733
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "你好，这里是葱 小号@mikulovermua 偏生活/一位左翼挺建制&CPC🇨🇳的汉人/仰慕☪️亲什叶派 🏳️‍🌈ally&挺跨挺酷儿/stand with🇵🇸🇨🇺🇷🇺and Iran☫/同情↖️、毛左📕🚩、🇨🇳爱国者/笑霍霍尔锡安港废台绿 赞美我川皇狠栓洋人👊🏻🤠🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "mikulovermua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/m1dLzTSfCB"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "PRC🇨🇳",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎☫——愿你赤子之心，如义和团般闪耀",
+        "pinned_tweet_id": "2043000770124222975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1813,
+          "like_count": 45123,
+          "listed_count": 35,
+          "media_count": 1011,
+          "tweet_count": 12747
+        },
+        "url": "https://t.co/m1dLzTSfCB",
+        "username": "CPUP2024",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜",
+        "id": "1485158225167413248",
+        "name": "游吟诗人Sirelia🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4176,
+          "following_count": 632,
+          "like_count": 29220,
+          "listed_count": 9,
+          "media_count": 607,
+          "tweet_count": 5704
+        },
+        "username": "chihorishizuku",
+        "verified": false
+      }
+    ]
+  }
+}

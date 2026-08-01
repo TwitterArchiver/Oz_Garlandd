@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052734839174955133",
+    "created_at": "2026-05-08T14:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052754133413744995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944989354239385600",
+          "start": 0,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052754133413744995",
+    "in_reply_to_user_id": "1944989354239385600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052753539890344077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123mp27 好吧好吧🤔👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052734839174955133",
+        "created_at": "2026-05-08T14:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052754133413744995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944989354239385600",
+              "start": 0,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052754133413744995",
+        "in_reply_to_user_id": "1944989354239385600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052753539890344077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123mp27 好吧好吧🤔👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944989354239385600",
+        "conversation_id": "2052734839174955133",
+        "created_at": "2026-05-08T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052753539890344077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052753539890344077",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052752732398780590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 推特其实特别喜欢扎堆，每个圈子每个年龄都茧房和自萌到离谱\n推送机制就有锅\n况且推特在外网应用中门槛较低知名度高，是绝大部分人接触的第一站，而且婴儿潮一代人的基数就很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 222,
+          "like_count": 17137,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1123
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/我可能是个傻福吧:D\n/无政治立场\n/实名王艳阳\n/主听摇滚\n/低情商\n/此人温和是好猫\n/匿名消息https://t.co/bvZlqGKxZu\n/可爱的人@DIC_EWE\n/➗省msk我操你🐴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 125,
+                "username": "DIC_EWE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 119,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 96,
+                "url": "https://t.co/bvZlqGKxZu"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2050587377068863603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 294,
+          "like_count": 3027,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2339
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

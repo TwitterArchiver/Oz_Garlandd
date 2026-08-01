@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061465673235406848"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061465684044058884",
+    "created_at": "2026-06-01T15:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061465684044058884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/npWzG4oAON",
+          "end": 66,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2061465684044058884/photo/1",
+          "media_key": "3_2061465673235406848",
+          "start": 43,
+          "url": "https://t.co/npWzG4oAON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061465684044058884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这把神了一穿三🚬不过水平一直在动 说实话拿来复健真不错吧💪感觉反应力上升了一个台阶🚬 https://t.co/npWzG4oAON"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2061465673235406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvMG5HboAASl-K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061465673235406848"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061465684044058884",
+        "created_at": "2026-06-01T15:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061465684044058884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npWzG4oAON",
+              "end": 66,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2061465684044058884/photo/1",
+              "media_key": "3_2061465673235406848",
+              "start": 43,
+              "url": "https://t.co/npWzG4oAON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061465684044058884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这把神了一穿三🚬不过水平一直在动 说实话拿来复健真不错吧💪感觉反应力上升了一个台阶🚬 https://t.co/npWzG4oAON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 285,
+          "like_count": 23700,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1833
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

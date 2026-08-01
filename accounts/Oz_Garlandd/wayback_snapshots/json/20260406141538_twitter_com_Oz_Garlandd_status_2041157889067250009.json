@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041157889067250009",
+    "created_at": "2026-04-06T14:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041157889067250009"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041157889067250009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "九点24t玉米片，提前两小时使用西柚汁，红霉素胶囊还没到\n本来想多溜一点，但手里没存货了\n现在世界晕晕的好舒服🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041157889067250009",
+        "created_at": "2026-04-06T14:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041157889067250009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041157889067250009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "九点24t玉米片，提前两小时使用西柚汁，红霉素胶囊还没到\n本来想多溜一点，但手里没存货了\n现在世界晕晕的好舒服🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 86,
+          "like_count": 8368,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 537
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

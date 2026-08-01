@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036709915130282016",
+    "created_at": "2026-03-25T10:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036747499151806619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 27,
+          "id": "1599377355503726592",
+          "start": 16,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036747499151806619",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036709915130282016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii @bloodmeiii 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036709915130282016",
+        "created_at": "2026-03-25T10:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036747499151806619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 27,
+              "id": "1599377355503726592",
+              "start": 16,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036747499151806619",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036709915130282016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @bloodmeiii 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036709915130282016",
+        "created_at": "2026-03-25T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036709915130282016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036709915130282016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1584,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "400fo大感谢www！！\n一等奖*一盒盐野义（可折现80）\n二等奖*一盒红普（可折现20\n二等奖*一盒玉美片（可折现10\n参与条件依旧转关评 \n奈奈爱你们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 136
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 132,
+          "like_count": 13439,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 728
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓mei\n07｜重抑中焦神经性贪食\n休学中｜我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2035325464471044216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 929
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

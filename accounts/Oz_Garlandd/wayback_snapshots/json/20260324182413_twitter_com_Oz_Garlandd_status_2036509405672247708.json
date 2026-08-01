@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036318963030958099",
+    "created_at": "2026-03-24T18:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036509405672247708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036509405672247708",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036318963030958099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 专科也可以的...不用强迫自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036318963030958099",
+        "created_at": "2026-03-24T18:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036509405672247708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036509405672247708",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036318963030958099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 专科也可以的...不用强迫自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2036318963030958099",
+        "created_at": "2026-03-24T05:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036318963030958099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036318963030958099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1672,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的当务之急是先找个本科上😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 22,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/友跨顺男/梦想成为肉感男娘/hrt24.4.20/181cm 59kg/平淡而没有任何特长/喜欢Apex,CS和睡觉/mai 15000/Arc 11.00/\n\n可以叫我翎。\n可以蹭蓝标互关，蓝标小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "letana358121"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "YukaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 407,
+          "like_count": 11360,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 4138
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

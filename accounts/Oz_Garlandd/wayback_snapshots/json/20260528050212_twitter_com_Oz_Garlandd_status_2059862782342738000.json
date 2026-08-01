@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2059670644816552170",
+    "created_at": "2026-05-28T05:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059862782342738000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059862782342738000",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059853931627610509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 🤤🤤*喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2059853929060700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYSPCLbEAA2XvF.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2059670644816552170",
+        "created_at": "2026-05-28T05:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059862782342738000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059862782342738000",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059853931627610509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 🤤🤤*喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059853929060700160"
+          ]
+        },
+        "author_id": "1890717486343233536",
+        "conversation_id": "2059670644816552170",
+        "created_at": "2026-05-28T04:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059853931627610509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUxFR8aXwA",
+              "end": 36,
+              "expanded_url": "https://x.com/hikarou233086/status/2059853931627610509/photo/1",
+              "media_key": "3_2059853929060700160",
+              "start": 13,
+              "url": "https://t.co/wUxFR8aXwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059853931627610509",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059670644816552170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd https://t.co/wUxFR8aXwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 266,
+          "like_count": 22358,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1643
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "16years 09.8.1/高2物化生/intp/5w4or9w8/精神unknown/adhd…ed?/在家自由度高/🏳️‍⚧️无证偷吃（）/会互fo同类/回避型依恋…/cat/试图学习C++/VRChat/l4d2!/MySteamID1161959166/水日常🤖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hikarikae",
+                "end": 23,
+                "expanded_url": "http://t.me/Hikarikae",
+                "start": 0,
+                "url": "https://t.co/NOu2TRx7ft"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "pinned_tweet_id": "2056712470803443919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 179,
+          "like_count": 809,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/NOu2TRx7ft",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

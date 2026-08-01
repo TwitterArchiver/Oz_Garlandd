@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2043547209871073545",
+    "created_at": "2026-05-04T19:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T20:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051390751108485404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534605806041186304",
+          "start": 0,
+          "username": "halationwires"
+        },
+        {
+          "end": 24,
+          "id": "2013321876224057344",
+          "start": 15,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051390751108485404",
+    "in_reply_to_user_id": "1534605806041186304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051390573253206353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halationwires @OTxiashu 好🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2043547209871073545",
+        "created_at": "2026-05-04T19:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051390751108485404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534605806041186304",
+              "start": 0,
+              "username": "halationwires"
+            },
+            {
+              "end": 24,
+              "id": "2013321876224057344",
+              "start": 15,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051390751108485404",
+        "in_reply_to_user_id": "1534605806041186304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051390573253206353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halationwires @OTxiashu 好🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534605806041186304",
+        "conversation_id": "2043547209871073545",
+        "created_at": "2026-05-04T19:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051390573253206353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 22,
+              "id": "2013321876224057344",
+              "start": 13,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051390573253206353",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044015519863341086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd @OTxiashu 加了哦₍^ₗ    ̫  ₗ^₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 193,
+          "like_count": 15846,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 959
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T18:38:48.000Z",
+        "description": "白加灰的颜色",
+        "id": "1534605806041186304",
+        "name": "ˈ尸爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048664501776723968/P8-CTqU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 14,
+          "like_count": 9640,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 434
+        },
+        "username": "halationwires",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011 妈妈:@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 553,
+          "like_count": 10647,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 4082
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

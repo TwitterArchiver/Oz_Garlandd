@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040459876057698755",
+    "created_at": "2026-04-04T16:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040461827038195885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040461827038195885",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040459876057698755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 🥺抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_2040459835859402752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEraO7aAAAHFxf.jpg",
+        "width": 1236
+      },
+      {
+        "height": 2018,
+        "media_key": "3_2040459836949929984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEraS_aIAAoO88.jpg",
+        "width": 1236
+      },
+      {
+        "height": 2070,
+        "media_key": "3_2040459837461651456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEraU5aYAAPNeD.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040459876057698755",
+        "created_at": "2026-04-04T16:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040461827038195885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040461827038195885",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040459876057698755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 🥺抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040459835859402752",
+            "3_2040459836949929984",
+            "3_2040459837461651456"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2040459876057698755",
+        "created_at": "2026-04-04T16:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040459876057698755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZhid05DXH",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2040459876057698755/photo/1",
+              "media_key": "3_2040459835859402752",
+              "start": 140,
+              "url": "https://t.co/BZhid05DXH"
+            },
+            {
+              "display_url": "pic.x.com/BZhid05DXH",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2040459876057698755/photo/1",
+              "media_key": "3_2040459836949929984",
+              "start": 140,
+              "url": "https://t.co/BZhid05DXH"
+            },
+            {
+              "display_url": "pic.x.com/BZhid05DXH",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2040459876057698755/photo/1",
+              "media_key": "3_2040459837461651456",
+              "start": 140,
+              "url": "https://t.co/BZhid05DXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040459876057698755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些话真的很让人感动，这是我收到过最长的一篇问答，谢谢你愿意把时间与精力倾注在给我写信上，是的，我在od之前就多次考虑过自杀，od反而缓解了我的自杀欲望，所以我一直认为o死了也没什么大不了的，算我还药物一条命。这是对家人与朋友极其不负责任的一种想法，我早就意识到了……(见p3) https://t.co/BZhid05DXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 70,
+          "like_count": 6578,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 459
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/08/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2037864634766815691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 842,
+          "like_count": 2050,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

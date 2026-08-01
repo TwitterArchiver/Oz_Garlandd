@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056053326274293760"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056053361464520928",
+    "created_at": "2026-05-17T16:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056053361464520928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKxOqFq39W",
+          "end": 122,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056053361464520928/photo/1",
+          "media_key": "3_2056053326274293760",
+          "start": 99,
+          "url": "https://t.co/sKxOqFq39W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056053361464520928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是我的全部家当了..\n医院开的垃圾舍曲林猫都不吃\n清算完就剩\n玉米片22t \npr150mg*14t\n雪尘20mg\n600多mg蓝色神秘物质..不是很敢用\n好多茶氨酸和咖啡因\n以及保命用赛庚啶 https://t.co/sKxOqFq39W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056053326274293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiRm1fW8AAY8gU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056053326274293760"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056053361464520928",
+        "created_at": "2026-05-17T16:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056053361464520928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKxOqFq39W",
+              "end": 122,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056053361464520928/photo/1",
+              "media_key": "3_2056053326274293760",
+              "start": 99,
+              "url": "https://t.co/sKxOqFq39W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056053361464520928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我的全部家当了..\n医院开的垃圾舍曲林猫都不吃\n清算完就剩\n玉米片22t \npr150mg*14t\n雪尘20mg\n600多mg蓝色神秘物质..不是很敢用\n好多茶氨酸和咖啡因\n以及保命用赛庚啶 https://t.co/sKxOqFq39W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 236,
+          "like_count": 19978,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1324
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052459854875303938",
+        "3_2052459858473922562"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052459903009042503",
+    "created_at": "2026-05-07T18:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052459903009042503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5d81xeMLlf",
+          "end": 40,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052459903009042503/photo/1",
+          "media_key": "3_2052459854875303938",
+          "start": 17,
+          "url": "https://t.co/5d81xeMLlf"
+        },
+        {
+          "display_url": "pic.x.com/5d81xeMLlf",
+          "end": 40,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2052459903009042503/photo/1",
+          "media_key": "3_2052459858473922562",
+          "start": 17,
+          "url": "https://t.co/5d81xeMLlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052459903009042503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要说的这里放不下 所以放图里了 https://t.co/5d81xeMLlf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052459854875303938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvNXRWXoAINfDV.jpg",
+        "width": 225
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2052459858473922562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHvNXewWMAIt8rA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052459854875303938",
+            "3_2052459858473922562"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052459903009042503",
+        "created_at": "2026-05-07T18:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052459903009042503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5d81xeMLlf",
+              "end": 40,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052459903009042503/photo/1",
+              "media_key": "3_2052459854875303938",
+              "start": 17,
+              "url": "https://t.co/5d81xeMLlf"
+            },
+            {
+              "display_url": "pic.x.com/5d81xeMLlf",
+              "end": 40,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052459903009042503/photo/1",
+              "media_key": "3_2052459858473922562",
+              "start": 17,
+              "url": "https://t.co/5d81xeMLlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052459903009042503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要说的这里放不下 所以放图里了 https://t.co/5d81xeMLlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 218,
+          "like_count": 16917,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1102
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2038487594531705276",
+    "created_at": "2026-03-30T09:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038551970361819634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 25,
+          "id": "2033556052650975232",
+          "start": 9,
+          "username": "NBabysitte65342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038551970361819634",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038488640838615459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @NBabysitte65342 我去了还有主观唯心主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2038487594531705276",
+        "created_at": "2026-03-30T09:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038551970361819634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 25,
+              "id": "2033556052650975232",
+              "start": 9,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038551970361819634",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038488640838615459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @NBabysitte65342 我去了还有主观唯心主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2038487594531705276",
+        "created_at": "2026-03-30T05:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038488640838615459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038488640838615459",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038487940196893152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 我死了就不存在了，我不存在了，你们也都不存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 50,
+          "like_count": 2892,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 289
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 452,
+          "like_count": 35932,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4057
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "(he/him)(🈲terf激女🈲反同🈲共产主义🈲三好)，非左非右 / 辱男辱女辱同辱跨唯我独尊 / 不爱鉴证，但有爱支tv / 厌蠢 / 爱变脸 / 点进来的乙女爱女mtfterf母父蒸发 / 当然你知道辱女的多 / 彩礼沟通大师，包砍  Teología de la liberaci / 快疯了的健全b",
+        "id": "2033556052650975232",
+        "name": "msk摇我一命😇🇺🇲🇺🇦✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033571514407325696/Vp6V8GGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 5639,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 393
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

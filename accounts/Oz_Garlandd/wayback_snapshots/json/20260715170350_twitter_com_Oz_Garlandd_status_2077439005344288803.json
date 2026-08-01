@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2077437825046434244",
+    "created_at": "2026-07-15T17:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077439005344288803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077439005344288803",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077437825046434244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 茶氨酸感觉只有轻微镇静&amp;抗焦虑 跟bzd类还是差太多(pr不敏感故不对比"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2436,
+        "media_key": "3_2077437815462436864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSKr7maIAA4oOf.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077436576611868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJj0haoAAFrIp.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077436949854658560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJ5i9boAA-KOr.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2077437089772351488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSKBsMaMAAyziV.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2077437825046434244",
+        "created_at": "2026-07-15T17:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077439005344288803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077439005344288803",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077437825046434244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 茶氨酸感觉只有轻微镇静&amp;抗焦虑 跟bzd类还是差太多(pr不敏感故不对比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077437815462436864",
+            "3_2077436576611868672",
+            "3_2077436949854658560",
+            "3_2077437089772351488"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2077437825046434244",
+        "created_at": "2026-07-15T16:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077437825046434244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUnpbjN7Hs",
+              "end": 117,
+              "expanded_url": "https://x.com/xx1012000456/status/2077437825046434244/photo/1",
+              "media_key": "3_2077437815462436864",
+              "start": 94,
+              "url": "https://t.co/MUnpbjN7Hs"
+            },
+            {
+              "display_url": "pic.x.com/MUnpbjN7Hs",
+              "end": 117,
+              "expanded_url": "https://x.com/xx1012000456/status/2077437825046434244/photo/1",
+              "media_key": "3_2077436576611868672",
+              "start": 94,
+              "url": "https://t.co/MUnpbjN7Hs"
+            },
+            {
+              "display_url": "pic.x.com/MUnpbjN7Hs",
+              "end": 117,
+              "expanded_url": "https://x.com/xx1012000456/status/2077437825046434244/photo/1",
+              "media_key": "3_2077436949854658560",
+              "start": 94,
+              "url": "https://t.co/MUnpbjN7Hs"
+            },
+            {
+              "display_url": "pic.x.com/MUnpbjN7Hs",
+              "end": 117,
+              "expanded_url": "https://x.com/xx1012000456/status/2077437825046434244/photo/1",
+              "media_key": "3_2077437089772351488",
+              "start": 94,
+              "url": "https://t.co/MUnpbjN7Hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077437825046434244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.这个我没有宝宝😅广告位同样招租\n2.从依托和替来进化出来的😅你别管毕竟感康都有人吃，何况这个做电子烟有一点可行性😅\n3.理论上是可以的，不行就换家医院\n4.茶氨酸应该不会有太大的效果 https://t.co/MUnpbjN7Hs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 445,
+          "like_count": 31595,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "od和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOYIa 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 58,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 35,
+                "url": "https://t.co/FKsoJLOYIa"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "location": "北京",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 684,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

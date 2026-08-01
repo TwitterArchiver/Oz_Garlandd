@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060772860235276292"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060774437452947549",
+    "created_at": "2026-05-30T17:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060774437452947549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《Madism》，由 Mili 演唱，收录于《MuNiCa - Cry of Pluto (Original Sound Track)》专辑中，《Madism》下载，《Madism》在线试听，更多Madism相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=2892…",
+          "end": 106,
+          "expanded_url": "https://y.music.163.com/m/song?id=28921689&userid=6474863601&dlt=0846",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2060774450715303936/Bi-eM5CC?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060774450715303936/Bi-eM5CC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "Madism - Mili - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=28921689&userid=6474863601&dlt=0846",
+          "url": "https://t.co/cAGrISjYT8"
+        },
+        {
+          "display_url": "pic.x.com/nNAhumvfNT",
+          "end": 130,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2060774437452947549/photo/1",
+          "media_key": "3_2060772860235276292",
+          "start": 107,
+          "url": "https://t.co/nNAhumvfNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060774437452947549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od完半盘小炒肉 躺床上等药效\n各位晚安安💤\n对了推荐一首曲子\n新古典主义的管弦给予史诗感\n群星漫步 观万世于兴衰 为每物所讴歌\n猫已被宏伟与疯狂而折服\n✟升天✟\n\nhttps://t.co/cAGrISjYT8 https://t.co/nNAhumvfNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060772860235276292",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlV_3kW4AQqU6O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060772860235276292"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060774437452947549",
+        "created_at": "2026-05-30T17:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060774437452947549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Madism》，由 Mili 演唱，收录于《MuNiCa - Cry of Pluto (Original Sound Track)》专辑中，《Madism》下载，《Madism》在线试听，更多Madism相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=2892…",
+              "end": 106,
+              "expanded_url": "https://y.music.163.com/m/song?id=28921689&userid=6474863601&dlt=0846",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2060774450715303936/Bi-eM5CC?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060774450715303936/Bi-eM5CC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "Madism - Mili - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=28921689&userid=6474863601&dlt=0846",
+              "url": "https://t.co/cAGrISjYT8"
+            },
+            {
+              "display_url": "pic.x.com/nNAhumvfNT",
+              "end": 130,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2060774437452947549/photo/1",
+              "media_key": "3_2060772860235276292",
+              "start": 107,
+              "url": "https://t.co/nNAhumvfNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060774437452947549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od完半盘小炒肉 躺床上等药效\n各位晚安安💤\n对了推荐一首曲子\n新古典主义的管弦给予史诗感\n群星漫步 观万世于兴衰 为每物所讴歌\n猫已被宏伟与疯狂而折服\n✟升天✟\n\nhttps://t.co/cAGrISjYT8 https://t.co/nNAhumvfNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 280,
+          "like_count": 23160,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1765
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

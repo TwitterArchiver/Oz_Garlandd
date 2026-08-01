@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036759466188943360"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036759468386717919",
+    "created_at": "2026-03-25T10:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036759468386717919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJCKXuQVKG",
+          "end": 35,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2036759468386717919/photo/1",
+          "media_key": "3_2036759466188943360",
+          "start": 12,
+          "url": "https://t.co/cJCKXuQVKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036759468386717919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈说共产党串通日本人 https://t.co/cJCKXuQVKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2036759466188943360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQF8XsbMAAi5uH.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036759466188943360"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036759468386717919",
+        "created_at": "2026-03-25T10:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036759468386717919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJCKXuQVKG",
+              "end": 35,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2036759468386717919/photo/1",
+              "media_key": "3_2036759466188943360",
+              "start": 12,
+              "url": "https://t.co/cJCKXuQVKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036759468386717919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说共产党串通日本人 https://t.co/cJCKXuQVKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055508362012356824",
+    "created_at": "2026-05-16T14:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055654488761901483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444696438068236298",
+          "start": 0,
+          "username": "ZihanWa65060259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055654488761901483",
+    "in_reply_to_user_id": "1444696438068236298",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055626206587023777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZihanWa65060259 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055508362012356824",
+        "created_at": "2026-05-16T14:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055654488761901483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444696438068236298",
+              "start": 0,
+              "username": "ZihanWa65060259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055654488761901483",
+        "in_reply_to_user_id": "1444696438068236298",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055626206587023777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZihanWa65060259 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444696438068236298",
+        "conversation_id": "2055508362012356824",
+        "created_at": "2026-05-16T12:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055626206587023777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055626206587023777",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055508362012356824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 237,
+          "like_count": 19725,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1302
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T16:12:16.000Z",
+        "description": "",
+        "id": "1444696438068236298",
+        "name": "poem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035621120511246336/zDy8-vS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 612,
+          "like_count": 1751,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1036
+        },
+        "username": "ZihanWa65060259",
+        "verified": false
+      }
+    ]
+  }
+}

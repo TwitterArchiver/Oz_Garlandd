@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2055467187545194613",
+    "created_at": "2026-05-16T04:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055507965415755982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 30,
+          "id": "1692798286191628288",
+          "start": 16,
+          "username": "wasuretekiete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055507965415755982",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055470339791126590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @wasuretekiete 雪尘&amp;4ho真缺乏抗抑郁吧😢每次残效都无比痛苦..联用dxm就是神来之笔，让整个trip趋于完美🥹\n不过我一般建议残效时再联用，17也要注意安全🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2055467187545194613",
+        "created_at": "2026-05-16T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055507965415755982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 30,
+              "id": "1692798286191628288",
+              "start": 16,
+              "username": "wasuretekiete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055507965415755982",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055470339791126590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @wasuretekiete 雪尘&amp;4ho真缺乏抗抑郁吧😢每次残效都无比痛苦..联用dxm就是神来之笔，让整个trip趋于完美🥹\n不过我一般建议残效时再联用，17也要注意安全🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2055467187545194613",
+        "created_at": "2026-05-16T02:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055470339791126590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692798286191628288",
+              "start": 0,
+              "username": "wasuretekiete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055470339791126590",
+        "in_reply_to_user_id": "1692798286191628288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055469840203473182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasuretekiete 我不会的，谢谢你，我不会那么做的，我明白溺死的都是善水者，但我对所有物质永远保持敬畏，以后会有更多的trip记录，下次尝试雪尘+dxm或者lsd+雪尘+thc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 237,
+          "like_count": 19678,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1293
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回私我)/备用号:@jiuyouforwhite2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1429,
+          "like_count": 4390,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2205
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T07:19:11.000Z",
+        "description": "bpd & anorexia b/p\ncw45.2kg bmi15.1 vegan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wasuretekiete.blogspot.com/p/blog-page.ht…",
+                "end": 23,
+                "expanded_url": "https://wasuretekiete.blogspot.com/p/blog-page.html",
+                "start": 0,
+                "url": "https://t.co/8vgsuRHUf6"
+              }
+            ]
+          }
+        },
+        "id": "1692798286191628288",
+        "location": "(2024夏)",
+        "name": "僕ら間違ってはいないよね？",
+        "pinned_tweet_id": "2053056448830271775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053702823351902208/DJQdCIuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 2312,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/8vgsuRHUf6",
+        "username": "wasuretekiete",
+        "verified": false
+      }
+    ]
+  }
+}

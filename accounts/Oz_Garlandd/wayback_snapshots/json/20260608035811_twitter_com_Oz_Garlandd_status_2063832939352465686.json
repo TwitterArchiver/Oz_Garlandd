@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2063832939352465686",
+    "created_at": "2026-06-08T03:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063832939352465686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/qiancongxyn/status/2063761877067506095",
+          "start": 18,
+          "url": "https://t.co/aRlDrqjq8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063832939352465686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063761877067506095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已领奖🥰🥰感谢老大！祝你天天开心！ https://t.co/aRlDrqjq8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100519,
+        "height": 1280,
+        "media_key": "13_2063761732334743552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063761732334743552/img/u2fq8aX9i5oOTbFB.jpg",
+        "public_metrics": {
+          "view_count": 141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/320x718/pTKddbWNyHZnKl5w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/480x1076/VhNN4n__v7QFGOCm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/vid/avc1/570x1280/Ht3IL6DcCUI3zWV8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063761732334743552/pl/OYlzY6gzqscKaWzD.m3u8"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2063832939352465686",
+        "created_at": "2026-06-08T03:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063832939352465686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2063761877067506095",
+              "start": 18,
+              "url": "https://t.co/aRlDrqjq8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063832939352465686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063761877067506095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已领奖🥰🥰感谢老大！祝你天天开心！ https://t.co/aRlDrqjq8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063761732334743552"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063761877067506095",
+        "created_at": "2026-06-07T23:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:15:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063761811254685970",
+          "2063761877067506095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2046117898377379840",
+              "start": 24,
+              "username": "kawaii_imai"
+            },
+            {
+              "end": 49,
+              "id": "1758508742780567552",
+              "start": 37,
+              "username": "qianxunchan"
+            },
+            {
+              "end": 80,
+              "id": "1997644719908884480",
+              "start": 68,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 92,
+              "id": "1981307673795842048",
+              "start": 81,
+              "username": "_Safolour_"
+            },
+            {
+              "end": 105,
+              "id": "1924119398497026050",
+              "start": 93,
+              "username": "HhcvhW18221"
+            },
+            {
+              "end": 118,
+              "id": "1851416603990405120",
+              "start": 106,
+              "username": "ogsa1687497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaSQClXjc3",
+              "end": 153,
+              "expanded_url": "https://x.com/qiancongxyn/status/2063761877067506095/video/1",
+              "media_key": "13_2063761732334743552",
+              "start": 130,
+              "url": "https://t.co/KaSQClXjc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063761877067506095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 36,
+                "id": "2046117898377379840",
+                "start": 24,
+                "username": "kawaii_imai"
+              },
+              {
+                "end": 49,
+                "id": "1758508742780567552",
+                "start": 37,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 80,
+                "id": "1997644719908884480",
+                "start": 68,
+                "username": "Oz_Garlandd"
+              },
+              {
+                "end": 92,
+                "id": "1981307673795842048",
+                "start": 81,
+                "username": "_Safolour_"
+              },
+              {
+                "end": 105,
+                "id": "1924119398497026050",
+                "start": 93,
+                "username": "HhcvhW18221"
+              },
+              {
+                "end": 118,
+                "id": "1851416603990405120",
+                "start": 106,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "text": "开奖啦🎉\n\n🎁一等奖（13.14元 × 2名）\n@kawaii_imai\n@qianxunchan \n\n🎁二等奖（5.2元 × 4名）\n@Oz_Garlandd\n@_Safolour_\n@HhcvhW18221\n@ogsa1687497\n\n恭喜以上6位中奖！ \n\n请中奖的朋友在四天内私信我（若没有在规定时间内私信我视为自动放弃），提供支付码，我会尽快帮你转账。没中奖的宝贝也不要灰心，还有安慰奖——来和我贴贴www\n\n感谢大家支持我的第一次抽奖！继续爱你们哦～❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开奖啦🎉\n\n🎁一等奖（13.14元 × 2名）\n@kawaii_imai\n@qianxunchan \n\n🎁二等奖（5.2元 × 4名）\n@Oz_Garlandd\n@_Safolour_\n@HhcvhW18221\n@ogsa1687497\n\n恭喜以上6位中奖！ https://t.co/KaSQClXjc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 385,
+          "like_count": 26160,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 2106
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 970,
+          "like_count": 2256,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2051400822320214114",
+    "created_at": "2026-05-09T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053148196805767178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751166414139047936",
+          "start": 0,
+          "username": "fanduiizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053148196805767178",
+    "in_reply_to_user_id": "1751166414139047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053147872540148154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduiizhongxiu 谢谢喵🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2051400822320214114",
+        "created_at": "2026-05-09T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053148196805767178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751166414139047936",
+              "start": 0,
+              "username": "fanduiizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053148196805767178",
+        "in_reply_to_user_id": "1751166414139047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053147872540148154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduiizhongxiu 谢谢喵🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751166414139047936",
+        "conversation_id": "2051400822320214114",
+        "created_at": "2026-05-09T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053147872540148154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053147872540148154",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051400822320214114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 229,
+          "like_count": 17606,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1148
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T08:53:13.000Z",
+        "description": "反帝反纳粹反粉红反一切压迫剥削｜民主社会主义｜视为兼顾生产力和个人权力的手段，最终目标是以此跨入共产主义｜友跨性别｜欢迎不同看法 但要理性讨论 ｜制度应当以人为本实现每个人的解放和自由才能实现集体的自由｜反对废除死刑｜支持严肃处刑毒贩｜顺直",
+        "id": "1751166414139047936",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050612552472920064/Cmi2Qulf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 60,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 284
+        },
+        "username": "fanduiizhongxiu",
+        "verified": false
+      }
+    ]
+  }
+}

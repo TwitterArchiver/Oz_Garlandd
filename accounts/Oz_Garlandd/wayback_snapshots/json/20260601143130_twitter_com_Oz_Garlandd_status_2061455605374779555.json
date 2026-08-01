@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061161435498250730",
+    "created_at": "2026-06-01T14:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061455605374779555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777730090924978176",
+          "start": 0,
+          "username": "Hiiragi_qin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061455605374779555",
+    "in_reply_to_user_id": "1777730090924978176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061161435498250730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiiragi_qin8964 其实我觉得就算单用dxm 它本身的抗抑郁也是断断档领先的🤤太神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061161435498250730",
+        "created_at": "2026-06-01T14:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061455605374779555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061455605374779555",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061161435498250730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin8964 其实我觉得就算单用dxm 它本身的抗抑郁也是断断档领先的🤤太神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777730090924978176",
+        "conversation_id": "2061161435498250730",
+        "created_at": "2026-05-31T19:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061161435498250730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061161435498250730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ym配bzd的坏处就是失去了解离，但带来了无与伦比的抗抑郁，比pr的抗焦\\抑郁还管顶，但我解离剂没解离了还吃解离剂干啥（我是笨蛋）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 285,
+          "like_count": 23538,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1823
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo，成分不明的不fo）\n阿普唑仑重度依赖\n稍微懂一点点药理（学习中）、可提供建议、乐子\n内容是trip和日常碎碎念（有概率爆个女装照？）\n欢迎咨询（不提供来源，不售出物质）\nCN\\JP\n以防自己被ban先加个防ban数字",
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 318,
+          "like_count": 18584,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 555
+        },
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

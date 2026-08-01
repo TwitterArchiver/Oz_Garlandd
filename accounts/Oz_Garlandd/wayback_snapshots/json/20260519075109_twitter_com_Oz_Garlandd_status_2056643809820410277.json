@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056643797304709120"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056643809820410277",
+    "created_at": "2026-05-19T07:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056643809820410277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CMlHyTDPZ",
+          "end": 56,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2056643809820410277/photo/1",
+          "media_key": "3_2056643797304709120",
+          "start": 33,
+          "url": "https://t.co/9CMlHyTDPZ"
+        },
+        {
+          "display_url": "x.com/Oz_Garlandd/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Oz_Garlandd/status/2056627632004059416",
+          "start": 57,
+          "url": "https://t.co/YVhIzWzRBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056643809820410277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056627632004059416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃上精品神药了各位🤤\n不过阿普唑仑除了安眠药之外还能做什么用呢🤔 https://t.co/9CMlHyTDPZ https://t.co/YVhIzWzRBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056643797304709120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqqoxfbkAAqWYN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056627621002354688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqb7MEaIAAheXq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056643797304709120"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056643809820410277",
+        "created_at": "2026-05-19T07:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056643809820410277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CMlHyTDPZ",
+              "end": 56,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056643809820410277/photo/1",
+              "media_key": "3_2056643797304709120",
+              "start": 33,
+              "url": "https://t.co/9CMlHyTDPZ"
+            },
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2056627632004059416",
+              "start": 57,
+              "url": "https://t.co/YVhIzWzRBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056643809820410277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056627632004059416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃上精品神药了各位🤤\n不过阿普唑仑除了安眠药之外还能做什么用呢🤔 https://t.co/9CMlHyTDPZ https://t.co/YVhIzWzRBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056627621002354688"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2056627632004059416",
+        "created_at": "2026-05-19T06:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056627632004059416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3Ma4KiN9B",
+              "end": 40,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2056627632004059416/photo/1",
+              "media_key": "3_2056627621002354688",
+              "start": 17,
+              "url": "https://t.co/i3Ma4KiN9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056627632004059416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去开药..拯救我破碎的睡眠..💤 https://t.co/i3Ma4KiN9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 247,
+          "like_count": 20554,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1398
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2040120996238344700",
+    "created_at": "2026-04-03T17:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040123141888889286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040123141888889286",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040120996238344700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 旅途愉快😇昨天刚飞过今天就不陪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2040120993113690112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_3O_Vb0AAN4r1.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2040120996238344700",
+        "created_at": "2026-04-03T17:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040123141888889286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040123141888889286",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040120996238344700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 旅途愉快😇昨天刚飞过今天就不陪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040120993113690112"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2040120996238344700",
+        "created_at": "2026-04-03T17:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040120996238344700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xBGppdJN8",
+              "end": 132,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2040120996238344700/photo/1",
+              "media_key": "3_2040120993113690112",
+              "start": 109,
+              "url": "https://t.co/7xBGppdJN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040120996238344700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十七宣布，今天下班！(问答私信等问题明天回复) \n是嗑了\n不知道多少量的pr+不知道多少量的酒精+不知道多少量的大麻+30mg羟考酮+4t思诺思\n不出所料，幻觉如约而至——\n大家请全部晚安！而我，要去寻找那份美丽了。 https://t.co/7xBGppdJN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 63,
+          "like_count": 5574,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 425
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/08/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2037864634766815691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 780,
+          "like_count": 1953,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052601654973800512",
+    "created_at": "2026-05-09T03:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052952813106246065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675225794375987201",
+          "start": 0,
+          "username": "Trotter55569805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052952813106246065",
+    "in_reply_to_user_id": "1675225794375987201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052810346851967364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trotter55569805 感谢提醒🫡已安全抵达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052601654973800512",
+        "created_at": "2026-05-09T03:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052952813106246065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675225794375987201",
+              "start": 0,
+              "username": "Trotter55569805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052952813106246065",
+        "in_reply_to_user_id": "1675225794375987201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052810346851967364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trotter55569805 感谢提醒🫡已安全抵达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675225794375987201",
+        "conversation_id": "2052601654973800512",
+        "created_at": "2026-05-08T17:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052810346851967364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052810346851967364",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052601654973800512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 去吧，路上注意安全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 222,
+          "like_count": 17167,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1133
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:32:40.000Z",
+        "description": "06/男/OD割手戒断…/不定期更新文学作品内容/history Philosophy left value/\nazur lane  Blue Archive/チェスの学習 chess ♟/lonely/努力学习数学中！",
+        "id": "1675225794375987201",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "✟夏一奎✝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047282445889024000/n3Uld4Br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 1089,
+          "like_count": 11926,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 5620
+        },
+        "username": "Trotter55569805",
+        "verified": false
+      }
+    ]
+  }
+}

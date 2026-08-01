@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2041044305293476240",
+    "created_at": "2026-04-07T15:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041541051928699113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900706496121602048",
+          "start": 0,
+          "username": "JIAN100222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041541051928699113",
+    "in_reply_to_user_id": "1900706496121602048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041044305293476240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN100222 🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041044297668341760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFM--Y1bsAAQrmP.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2041044305293476240",
+        "created_at": "2026-04-07T15:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041541051928699113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900706496121602048",
+              "start": 0,
+              "username": "JIAN100222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041541051928699113",
+        "in_reply_to_user_id": "1900706496121602048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041044305293476240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN100222 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041044297668341760"
+          ]
+        },
+        "author_id": "1900706496121602048",
+        "conversation_id": "2041044305293476240",
+        "created_at": "2026-04-06T06:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041044305293476240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFTXkeDUVG",
+              "end": 73,
+              "expanded_url": "https://x.com/JIAN100222/status/2041044305293476240/photo/1",
+              "media_key": "3_2041044297668341760",
+              "start": 50,
+              "url": "https://t.co/FFTXkeDUVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041044305293476240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8859,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "唉本来想等到300再开288开抽也行 \n感谢你们一直陪伴支持谢谢你们\n评论转发关注就好抽两个52块 https://t.co/FFTXkeDUVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 103,
+          "like_count": 9016,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 601
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好/非正常人/皮下男/性取向和父亲一样\n正常人格@JIAN222100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "JIAN222100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽（婊子人格）",
+        "pinned_tweet_id": "2039294646216741087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 175,
+          "like_count": 5780,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN100222",
+        "verified": false
+      }
+    ]
+  }
+}

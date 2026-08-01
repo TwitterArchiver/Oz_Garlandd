@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2042431774307840251",
+    "created_at": "2026-04-10T06:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042485071551349203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042485071551349203",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042431774307840251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll 好看捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2042431766363832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgs3sgXAAAdea6.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2042431774307840251",
+        "created_at": "2026-04-10T06:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042485071551349203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042485071551349203",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042431774307840251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll 好看捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042431766363832320"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "conversation_id": "2042431774307840251",
+        "created_at": "2026-04-10T02:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042431774307840251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PMSHL0z6d",
+              "end": 59,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2042431774307840251/photo/1",
+              "media_key": "3_2042431766363832320",
+              "start": 36,
+              "url": "https://t.co/5PMSHL0z6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042431774307840251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定彻底拉直我的刘海变成类似那种水色系天使界隈的单眼前刘海（类似这种 https://t.co/5PMSHL0z6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 128,
+          "like_count": 10559,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 660
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/BPD/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥姐妹@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「昇天」",
+        "pinned_tweet_id": "2035369112952594733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035173221130018816/v1xYOw6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 454,
+          "like_count": 8579,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 3299
+        },
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      }
+    ]
+  }
+}

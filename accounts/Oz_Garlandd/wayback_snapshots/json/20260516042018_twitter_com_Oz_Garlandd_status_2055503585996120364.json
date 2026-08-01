@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2039150311307436496",
+    "created_at": "2026-05-16T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055503585996120364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1164095357178896384",
+          "start": 0,
+          "username": "XNJJZZ"
+        },
+        {
+          "end": 24,
+          "id": "1933200730443415552",
+          "start": 8,
+          "username": "nothingnes74306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055503585996120364",
+    "in_reply_to_user_id": "1164095357178896384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055360714853007617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XNJJZZ @nothingnes74306 2:1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2039150311307436496",
+        "created_at": "2026-05-16T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055503585996120364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1164095357178896384",
+              "start": 0,
+              "username": "XNJJZZ"
+            },
+            {
+              "end": 24,
+              "id": "1933200730443415552",
+              "start": 8,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055503585996120364",
+        "in_reply_to_user_id": "1164095357178896384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055360714853007617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XNJJZZ @nothingnes74306 2:1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164095357178896384",
+        "conversation_id": "2039150311307436496",
+        "created_at": "2026-05-15T18:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055360714853007617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 29,
+              "id": "1933200730443415552",
+              "start": 13,
+              "username": "nothingnes74306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055360714853007617",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039377137291952450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd @nothingnes74306 玉米加晚安怎么个吃法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 237,
+          "like_count": 19667,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1289
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T08:42:30.000Z",
+        "description": "🚪看199 含左右作品以及好友位\n主营:有点奇怪的东西原味｜定制作品视频\n⚠️唯一⚠️预览全部视频付费解锁完整版➡️ https://t.co/DNqV1gNNt1（打不开等一会 或者复制到浏览器）电报群申请👉https://t.co/VeRElgL3dC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/XNJJZZ",
+                "end": 82,
+                "expanded_url": "http://linktr.ee/XNJJZZ",
+                "start": 59,
+                "url": "https://t.co/DNqV1gNNt1"
+              },
+              {
+                "display_url": "t.me/+sqvKfhZttT8wM…",
+                "end": 128,
+                "expanded_url": "https://t.me/+sqvKfhZttT8wMWJl",
+                "start": 105,
+                "url": "https://t.co/VeRElgL3dC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zzzyulan",
+                "end": 23,
+                "expanded_url": "https://t.me/zzzyulan",
+                "start": 0,
+                "url": "https://t.co/yCD7QmbdDM"
+              }
+            ]
+          }
+        },
+        "id": "1164095357178896384",
+        "location": "预览作品解锁完整版👉",
+        "name": "子子子",
+        "pinned_tweet_id": "2029097122768011358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037360907882475520/X_EoyPeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85893,
+          "following_count": 237,
+          "like_count": 328,
+          "listed_count": 373,
+          "media_count": 33,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/yCD7QmbdDM",
+        "username": "XNJJZZ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T16:33:06.000Z",
+        "description": "Love me until I love myself",
+        "id": "1933200730443415552",
+        "name": "nothingness",
+        "pinned_tweet_id": "2043580945433854076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 123,
+          "like_count": 5438,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 522
+        },
+        "username": "nothingnes74306",
+        "verified": false
+      }
+    ]
+  }
+}

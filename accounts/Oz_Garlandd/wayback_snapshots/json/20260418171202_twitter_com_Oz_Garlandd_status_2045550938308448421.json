@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2045419888383299861",
+    "created_at": "2026-04-18T17:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045550938308448421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 27,
+          "id": "1815004256921174016",
+          "start": 16,
+          "username": "Arthur_M_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045550938308448421",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045550443556905280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @Arthur_M_7 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2045419888383299861",
+        "created_at": "2026-04-18T17:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045550938308448421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 27,
+              "id": "1815004256921174016",
+              "start": 16,
+              "username": "Arthur_M_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045550938308448421",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045550443556905280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @Arthur_M_7 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2045419888383299861",
+        "created_at": "2026-04-18T17:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045550443556905280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815004256921174016",
+              "start": 0,
+              "username": "Arthur_M_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045550443556905280",
+        "in_reply_to_user_id": "1815004256921174016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045548206432670000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur_M_7 x有风控，这类问题最好私信交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 144,
+          "like_count": 12509,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 795
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2045076535670161817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1232,
+          "like_count": 3273,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T12:42:06.000Z",
+        "description": "",
+        "id": "1815004256921174016",
+        "name": "Ivy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866860038998069250/SpALFfTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 174,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Arthur_M_7",
+        "verified": false
+      }
+    ]
+  }
+}

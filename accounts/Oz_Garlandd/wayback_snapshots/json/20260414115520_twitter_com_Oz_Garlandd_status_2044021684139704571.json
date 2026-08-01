@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2042213669950407049",
+    "created_at": "2026-04-14T11:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044021684139704571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826990923466653696",
+          "start": 0,
+          "username": "Nellie_Yuyu"
+        },
+        {
+          "end": 26,
+          "id": "906892094953762816",
+          "start": 13,
+          "username": "yrr0rinblues"
+        },
+        {
+          "end": 42,
+          "id": "958306825237020672",
+          "start": 27,
+          "username": "Aravin29604927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044021684139704571",
+    "in_reply_to_user_id": "1826990923466653696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043395359020396719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nellie_Yuyu @yrr0rinblues @Aravin29604927 这就是暴动的源头，也是共产党睁一只眼闭一只眼的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2042213669950407049",
+        "created_at": "2026-04-14T11:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044021684139704571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826990923466653696",
+              "start": 0,
+              "username": "Nellie_Yuyu"
+            },
+            {
+              "end": 26,
+              "id": "906892094953762816",
+              "start": 13,
+              "username": "yrr0rinblues"
+            },
+            {
+              "end": 42,
+              "id": "958306825237020672",
+              "start": 27,
+              "username": "Aravin29604927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044021684139704571",
+        "in_reply_to_user_id": "1826990923466653696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043395359020396719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nellie_Yuyu @yrr0rinblues @Aravin29604927 这就是暴动的源头，也是共产党睁一只眼闭一只眼的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826990923466653696",
+        "conversation_id": "2042213669950407049",
+        "created_at": "2026-04-12T18:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043395359020396719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            },
+            {
+              "end": 29,
+              "id": "958306825237020672",
+              "start": 14,
+              "username": "Aravin29604927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043395359020396719",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043210353413353850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues @Aravin29604927 精神病的思想就是跟精神病的思想是共通的 我建议你们去警察局扫射🫶 这样再也没有人敢管你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 137,
+          "like_count": 11777,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 717
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:32:54.000Z",
+        "description": "",
+        "id": "1826990923466653696",
+        "location": "London, England",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906518911933153283/xEvCQLVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "Nellie_Yuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead🏳️‍🌈｜普通话&English｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVdRo"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "在1991年的香港的某个地下室烧煤球炉子",
+        "name": "Yrr0r",
+        "pinned_tweet_id": "2008109457985933779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022969863241920512/5HN1Hxwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 548,
+          "like_count": 261356,
+          "listed_count": 8,
+          "media_count": 501,
+          "tweet_count": 38480
+        },
+        "url": "https://t.co/nlTQQyVdRo",
+        "username": "yrr0rinblues",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-30T11:52:06.000Z",
+        "description": "请慎重fo我，以免造成不良的观感",
+        "id": "958306825237020672",
+        "name": "cx2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 80,
+          "like_count": 2967,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 3711
+        },
+        "username": "Aravin29604927",
+        "verified": false
+      }
+    ]
+  }
+}

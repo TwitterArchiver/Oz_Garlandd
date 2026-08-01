@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041072882449530880",
+        "3_2041072882323742720",
+        "3_2041072879945818112",
+        "3_2041072882785345536"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041072886362849525",
+    "created_at": "2026-04-06T08:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041072886362849525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625848011221008392",
+          "start": 2,
+          "username": "keaixianggugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rr157i8UyX",
+          "end": 64,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+          "media_key": "3_2041072882449530880",
+          "start": 41,
+          "url": "https://t.co/Rr157i8UyX"
+        },
+        {
+          "display_url": "pic.x.com/Rr157i8UyX",
+          "end": 64,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+          "media_key": "3_2041072882323742720",
+          "start": 41,
+          "url": "https://t.co/Rr157i8UyX"
+        },
+        {
+          "display_url": "pic.x.com/Rr157i8UyX",
+          "end": 64,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+          "media_key": "3_2041072879945818112",
+          "start": 41,
+          "url": "https://t.co/Rr157i8UyX"
+        },
+        {
+          "display_url": "pic.x.com/Rr157i8UyX",
+          "end": 64,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+          "media_key": "3_2041072882785345536",
+          "start": 41,
+          "url": "https://t.co/Rr157i8UyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041072886362849525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@keaixianggugu的招待！\n天妇罗很好吃😋\n推荐的蛋糕店也很好吃！ https://t.co/Rr157i8UyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041072882449530880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNY-PcWQAAAar3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041072882323742720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNY-O-W4AAdEmu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041072879945818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNY-GHaoAAZXf4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041072882785345536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNY-QsaYAAdjX9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041072882449530880",
+            "3_2041072882323742720",
+            "3_2041072879945818112",
+            "3_2041072882785345536"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041072886362849525",
+        "created_at": "2026-04-06T08:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041072886362849525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625848011221008392",
+              "start": 2,
+              "username": "keaixianggugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rr157i8UyX",
+              "end": 64,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+              "media_key": "3_2041072882449530880",
+              "start": 41,
+              "url": "https://t.co/Rr157i8UyX"
+            },
+            {
+              "display_url": "pic.x.com/Rr157i8UyX",
+              "end": 64,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+              "media_key": "3_2041072882323742720",
+              "start": 41,
+              "url": "https://t.co/Rr157i8UyX"
+            },
+            {
+              "display_url": "pic.x.com/Rr157i8UyX",
+              "end": 64,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+              "media_key": "3_2041072879945818112",
+              "start": 41,
+              "url": "https://t.co/Rr157i8UyX"
+            },
+            {
+              "display_url": "pic.x.com/Rr157i8UyX",
+              "end": 64,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2041072886362849525/photo/1",
+              "media_key": "3_2041072882785345536",
+              "start": 41,
+              "url": "https://t.co/Rr157i8UyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041072886362849525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@keaixianggugu的招待！\n天妇罗很好吃😋\n推荐的蛋糕店也很好吃！ https://t.co/Rr157i8UyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 81,
+          "like_count": 8031,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 522
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  上海地区需要帮助的挂壁同好请私聊我，欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "location": "上海",
+        "name": "一只鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 231,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 407
+        },
+        "username": "keaixianggugu",
+        "verified": false
+      }
+    ]
+  }
+}

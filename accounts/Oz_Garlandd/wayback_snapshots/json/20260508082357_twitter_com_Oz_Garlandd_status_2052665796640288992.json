@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2052610346284892658",
+    "created_at": "2026-05-08T08:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052665796640288992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052665796640288992",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052610346284892658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 所以卡西酮单用和联用pea的区别是什么🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2052610314630545408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxWNLnbQAAzhPP.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2052610324801658880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxWNxgaIAAro8V.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2052610332263432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxWONTbwAAsOXy.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2052610339771228160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxWOpRboAAV2lv.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052610346284892658",
+        "created_at": "2026-05-08T08:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052665796640288992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052665796640288992",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052610346284892658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 所以卡西酮单用和联用pea的区别是什么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052610314630545408",
+            "3_2052610324801658880",
+            "3_2052610332263432192",
+            "3_2052610339771228160"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2052610346284892658",
+        "created_at": "2026-05-08T04:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052610346284892658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHmbSXbniH",
+              "end": 159,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2052610346284892658/photo/1",
+              "media_key": "3_2052610314630545408",
+              "start": 136,
+              "url": "https://t.co/jHmbSXbniH"
+            },
+            {
+              "display_url": "pic.x.com/jHmbSXbniH",
+              "end": 159,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2052610346284892658/photo/1",
+              "media_key": "3_2052610324801658880",
+              "start": 136,
+              "url": "https://t.co/jHmbSXbniH"
+            },
+            {
+              "display_url": "pic.x.com/jHmbSXbniH",
+              "end": 159,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2052610346284892658/photo/1",
+              "media_key": "3_2052610332263432192",
+              "start": 136,
+              "url": "https://t.co/jHmbSXbniH"
+            },
+            {
+              "display_url": "pic.x.com/jHmbSXbniH",
+              "end": 159,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2052610346284892658/photo/1",
+              "media_key": "3_2052610339771228160",
+              "start": 136,
+              "url": "https://t.co/jHmbSXbniH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052610346284892658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 652,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 是的，因为本来年轻人就略显可疑，加强管制之后我带着处方去药店测试他们都扭扭捏捏的不想卖。即使有处方也需要登记\np2 鸦葬雪那里的\np3 pea联用maob抑制剂(如司来吉兰，注意准备降压药，不要吃含高酪胺的食品)，或者卡西酮类的\np4 推荐6-8t，不要超过12t https://t.co/jHmbSXbniH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 220,
+          "like_count": 17012,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1117
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/内心探索/药理帮助/碎碎念/哲思/回fo(没回私我)",
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 1421,
+          "like_count": 4184,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2091
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

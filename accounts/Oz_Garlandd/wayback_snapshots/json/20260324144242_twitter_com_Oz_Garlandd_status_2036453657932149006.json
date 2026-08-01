@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2036425394954576091",
+    "created_at": "2026-03-24T14:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036453657932149006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036453657932149006",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036425394954576091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodmeiii 我买的是水溶C，这一款很好喝😋但记得放胶囊里，不然不吃的时候品鉴会变成噩梦😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2036425394954576091",
+        "created_at": "2026-03-24T14:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036453657932149006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036453657932149006",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036425394954576091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodmeiii 我买的是水溶C，这一款很好喝😋但记得放胶囊里，不然不吃的时候品鉴会变成噩梦😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2036425394954576091",
+        "created_at": "2026-03-24T12:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036425394954576091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036425394954576091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁是不是会加强药效？我明天买瓶试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "",
+        "id": "1997644719908884480",
+        "name": "Garlandd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 113
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓🍓 \n07｜重抑中焦神经性贪食\n休学中｜我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2035325464471044216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 297,
+          "like_count": 636,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 829
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

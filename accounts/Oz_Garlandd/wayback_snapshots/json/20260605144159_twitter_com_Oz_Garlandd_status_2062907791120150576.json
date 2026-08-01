@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062907782832300032"
+      ]
+    },
+    "author_id": "1997644719908884480",
+    "conversation_id": "2062902260213150084",
+    "created_at": "2026-06-05T14:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062907791120150576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E10M41Azfb",
+          "end": 32,
+          "expanded_url": "https://x.com/Oz_Garlandd/status/2062907791120150576/photo/1",
+          "media_key": "3_2062907782832300032",
+          "start": 9,
+          "url": "https://t.co/E10M41Azfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062907791120150576",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062902260213150084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ https://t.co/E10M41Azfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2062907782832300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDrsuAboAAh0DK.jpg",
+        "width": 580
+      },
+      {
+        "height": 1189,
+        "media_key": "3_2062771342760660993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBvm3Ia0AE17AA.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062907782832300032"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2062902260213150084",
+        "created_at": "2026-06-05T14:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062907791120150576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E10M41Azfb",
+              "end": 32,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2062907791120150576/photo/1",
+              "media_key": "3_2062907782832300032",
+              "start": 9,
+              "url": "https://t.co/E10M41Azfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062907791120150576",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062902260213150084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ https://t.co/E10M41Azfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062771342760660993"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062902260213150084",
+        "created_at": "2026-06-05T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062902260213150084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9T74MI6AWC",
+              "end": 31,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062902260213150084/photo/1",
+              "media_key": "3_2062771342760660993",
+              "start": 8,
+              "url": "https://t.co/9T74MI6AWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062902260213150084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是不去吃了吧 https://t.co/9T74MI6AWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 379,
+          "like_count": 25383,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2068
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1065,
+          "like_count": 11850,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2424
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

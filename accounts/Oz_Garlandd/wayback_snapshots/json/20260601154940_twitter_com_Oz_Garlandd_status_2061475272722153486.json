@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2061005263956558339",
+    "created_at": "2026-06-01T15:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061475272722153486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843325725694476288",
+          "start": 0,
+          "username": "Ba1L0veU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061475272722153486",
+    "in_reply_to_user_id": "1843325725694476288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061474870979154184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ba1L0veU 罐头水真的好喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061005263956558339",
+        "created_at": "2026-06-01T15:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061475272722153486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843325725694476288",
+              "start": 0,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061475272722153486",
+        "in_reply_to_user_id": "1843325725694476288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061474870979154184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ba1L0veU 罐头水真的好喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843325725694476288",
+        "conversation_id": "2061005263956558339",
+        "created_at": "2026-06-01T15:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061474870979154184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061474870979154184",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061005263956558339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 我好想吃，，这个罐头水我特别爱喝h美味😋，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 285,
+          "like_count": 23865,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1844
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "白白/Prs   欢迎互fo🦔                                                       里账在蓝蝴蝶 同号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1l0veu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ba1l0veu",
+                "start": 0,
+                "url": "https://t.co/XmXaKpvitI"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 630,
+          "like_count": 4024,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/XmXaKpvitI",
+        "username": "Ba1L0veU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2069864269726839031",
+    "created_at": "2026-06-26T03:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070352772747211158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552238688590958592",
+          "start": 0,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070352772747211158",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070290367891808530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer 🤯🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2069864269726839031",
+        "created_at": "2026-06-26T03:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070352772747211158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070352772747211158",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070290367891808530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 🤯🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2069864269726839031",
+        "created_at": "2026-06-25T23:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070290367891808530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070290367891808530",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069864269726839031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 我们这个和成天下的大果啊果子大味道足不掉渣只有真正的病友才能理解口腔纤维化这种痛苦和希望并存的感觉，口腔纤维化3年多了，一直坚持使用开口器，一直坚持康复锻炼，从最开始的螺旋开口器到后来的钳式开口器，经过不懈的努力，现在已经能开2指了，已经能吃下和成天下精品中果了，简直爽的不可方物，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 428,
+          "like_count": 29661,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 2376
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "location": "Nanjing",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 2559,
+          "like_count": 9805,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

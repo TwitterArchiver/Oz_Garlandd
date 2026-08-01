@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2037805024433107375",
+    "created_at": "2026-03-28T09:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037821259799523387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "Abel_akun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037821259799523387",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037819262719701344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abel_akun 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2037805024433107375",
+        "created_at": "2026-03-28T09:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037821259799523387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "Abel_akun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037821259799523387",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037819262719701344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abel_akun 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920704053031694336",
+        "conversation_id": "2037805024433107375",
+        "created_at": "2026-03-28T09:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037819262719701344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037819262719701344",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037805024433107375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 237
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 172,
+          "like_count": 2719,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1573
+        },
+        "username": "Abel_akun",
+        "verified": false
+      }
+    ]
+  }
+}

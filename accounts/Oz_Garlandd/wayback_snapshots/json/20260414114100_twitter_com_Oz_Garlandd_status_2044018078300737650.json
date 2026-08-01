@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2044018078300737650",
+    "created_at": "2026-04-14T11:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044018078300737650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shnzhnzgnwchul…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/shnzhnzgnwchul1/status/2043988265003602153",
+          "start": 5,
+          "url": "https://t.co/i4UkG995lf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044018078300737650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043988265003602153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "健全畜😡 https://t.co/i4UkG995lf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2044018078300737650",
+        "created_at": "2026-04-14T11:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044018078300737650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shnzhnzgnwchul…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/shnzhnzgnwchul1/status/2043988265003602153",
+              "start": 5,
+              "url": "https://t.co/i4UkG995lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018078300737650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043988265003602153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全畜😡 https://t.co/i4UkG995lf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573173649917485058",
+        "conversation_id": "2043933124695077065",
+        "created_at": "2026-04-14T09:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043988265003602153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043988265003602153",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043985910992384009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 因为你们都是一样的煞笔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 137,
+          "like_count": 11778,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 713
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:53:31.000Z",
+        "description": "",
+        "id": "1573173649917485058",
+        "name": "深圳自干五-臭脸传媒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573173696197533696/gwpuK9fO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1032
+        },
+        "username": "shnzhnzgnwchul1",
+        "verified": false
+      }
+    ]
+  }
+}
