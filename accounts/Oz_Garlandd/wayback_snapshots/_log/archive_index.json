@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-19T03:35:43",
+  "last_updated": "2026-08-19T03:43:27",
   "html": {
     "https://web.archive.org/web/20260322183148if_/https://twitter.com/Oz_Garlandd/status/2035786537854534081": {
       "status": "done",
@@ -24327,9 +24327,9 @@
       "referenced_by": [
         "20260322194541_twitter_com_Oz_Garlandd_status_2035805133217427742.json"
       ],
-      "last_updated": "2026-08-03T16:48:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322194541im_/https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f406360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:36:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322194541im_/https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0859550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg": {
       "status": "done",
@@ -24346,9 +24346,9 @@
         "20260323103238_twitter_com_Oz_Garlandd_status_2036028339027333555.json",
         "20260323141706_twitter_com_Oz_Garlandd_status_2036084827187978270.json"
       ],
-      "last_updated": "2026-08-03T16:48:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323141706im_/https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1040>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:36:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323141706im_/https://pbs.twimg.com/profile_images/2035790691939590144/nPb2bPCA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg": {
       "status": "done",
@@ -24362,9 +24362,9 @@
       "referenced_by": [
         "20260322195704_twitter_com_Oz_Garlandd_status_2035807997834781129.json"
       ],
-      "last_updated": "2026-08-03T16:48:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322195704im_/https://pbs.twimg.com/profile_images/2027709087887331331/sGReolEj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405e20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:36:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322195704im_/https://pbs.twimg.com/profile_images/2027709087887331331/sGReolEj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08594f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg": {
       "status": "done",
@@ -24387,9 +24387,9 @@
       "referenced_by": [
         "20260323103700_twitter_com_Oz_Garlandd_status_2036029437507162530.json"
       ],
-      "last_updated": "2026-08-03T16:48:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323103700im_/https://pbs.twimg.com/profile_images/2035718879272669185/7JEo-WbG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e25d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:36:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323103700im_/https://pbs.twimg.com/profile_images/2035718879272669185/7JEo-WbG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2035094006502453248/ZPlPHOva_normal.jpg": {
       "status": "failed",
@@ -24409,9 +24409,9 @@
         "20260323134032_twitter_com_Oz_Garlandd_status_2036075625103192210.json",
         "20260323141312_twitter_com_Oz_Garlandd_status_2036083847205638206.json"
       ],
-      "last_updated": "2026-08-03T16:48:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323141312im_/https://pbs.twimg.com/profile_images/2035094006502453248/ZPlPHOva_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e33e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:36:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323141312im_/https://pbs.twimg.com/profile_images/2035094006502453248/ZPlPHOva_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08591c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg": {
       "status": "done",
@@ -24559,9 +24559,9 @@
         "20260323111407_twitter_com_Oz_Garlandd_status_2036038780210356480.json",
         "20260323111857_twitter_com_Oz_Garlandd_status_2036039998068424970.json"
       ],
-      "last_updated": "2026-08-03T16:48:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323111857im_/https://pbs.twimg.com/profile_images/2014370395449942016/DvJfSMoR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405910>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323111857im_/https://pbs.twimg.com/profile_images/2014370395449942016/DvJfSMoR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2024709469884862467/U518sgki_normal.jpg": {
       "status": "done",
@@ -24577,9 +24577,9 @@
       "referenced_by": [
         "20260323112434_twitter_com_Oz_Garlandd_status_2036041408369570294.json"
       ],
-      "last_updated": "2026-08-03T16:48:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323112434im_/https://pbs.twimg.com/profile_images/2012578219191308288/JlT8__Cq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31d670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323112434im_/https://pbs.twimg.com/profile_images/2012578219191308288/JlT8__Cq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085acf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg": {
       "status": "done",
@@ -24634,9 +24634,9 @@
         "20260323114048_twitter_com_Oz_Garlandd_status_2036045493193904519.json",
         "20260323120712_twitter_com_Oz_Garlandd_status_2036052138384855225.json"
       ],
-      "last_updated": "2026-08-03T16:48:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323120712im_/https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323120712im_/https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08cef30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2033799162605494272/IQUfwxw0_normal.jpg": {
       "status": "done",
@@ -24662,9 +24662,9 @@
       "referenced_by": [
         "20260323114615_twitter_com_Oz_Garlandd_status_2036046868191551734.json"
       ],
-      "last_updated": "2026-08-03T16:48:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323114615im_/https://pbs.twimg.com/profile_images/2032021600523206660/dgzL9wq4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31d430>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323114615im_/https://pbs.twimg.com/profile_images/2032021600523206660/dgzL9wq4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10477a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg": {
       "status": "done",
@@ -24683,9 +24683,9 @@
         "20260326153724_twitter_com_Oz_Garlandd_status_2037192201370034274.json",
         "20260326153750_twitter_com_Oz_Garlandd_status_2037192311608860681.json"
       ],
-      "last_updated": "2026-08-03T16:48:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326153750im_/https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326153750im_/https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08598e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2035763659570286596/PgNcJhNf_normal.jpg": {
       "status": "failed",
@@ -24693,9 +24693,9 @@
         "20260323132521_twitter_com_Oz_Garlandd_status_2036071803697987685.json",
         "20260323132530_twitter_com_Oz_Garlandd_status_2036071845066330297.json"
       ],
-      "last_updated": "2026-08-03T16:48:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132530im_/https://pbs.twimg.com/profile_images/2035763659570286596/PgNcJhNf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4079e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323132530im_/https://pbs.twimg.com/profile_images/2035763659570286596/PgNcJhNf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg": {
       "status": "done",
@@ -24757,9 +24757,9 @@
         "20260327054130_twitter_com_Oz_Garlandd_status_2037404625389650117.json",
         "20260327173003_twitter_com_Oz_Garlandd_status_2037582938720571418.json"
       ],
-      "last_updated": "2026-08-03T16:48:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327173003im_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f406450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327173003im_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10474a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2025622493000515584/_rt0noQh_normal.jpg": {
       "status": "done",
@@ -24839,9 +24839,9 @@
       "referenced_by": [
         "20260324182413_twitter_com_Oz_Garlandd_status_2036509405672247708.json"
       ],
-      "last_updated": "2026-08-03T16:48:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324182413im_/https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31f1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324182413im_/https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0858650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg": {
       "status": "done",
@@ -24865,9 +24865,9 @@
       "referenced_by": [
         "20260326045830_twitter_com_Oz_Garlandd_status_2037031416459125104.json"
       ],
-      "last_updated": "2026-08-03T16:48:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326045830im_/https://pbs.twimg.com/profile_images/2034139114317221892/5SZ0qFTD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326045830im_/https://pbs.twimg.com/profile_images/2034139114317221892/5SZ0qFTD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0859130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg": {
       "status": "failed",
@@ -24875,9 +24875,9 @@
         "20260326045830_twitter_com_Oz_Garlandd_status_2037031416459125104.json",
         "20260415102149_twitter_com_Oz_Garlandd_status_2044360539938160908.json"
       ],
-      "last_updated": "2026-08-03T16:48:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415102149im_/https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f404200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415102149im_/https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1963999024857403393/8zyfZU8T_normal.jpg": {
       "status": "done",
@@ -24893,9 +24893,9 @@
       "referenced_by": [
         "20260326144132_twitter_com_Oz_Garlandd_status_2037178139378672058.json"
       ],
-      "last_updated": "2026-08-03T16:48:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326144132im_/https://pbs.twimg.com/profile_images/2035802326381019136/_Gx64OHp_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326144132im_/https://pbs.twimg.com/profile_images/2035802326381019136/_Gx64OHp_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1046300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2027929254097522689/vG7edjW__normal.jpg": {
       "status": "done",
@@ -25052,9 +25052,9 @@
       "referenced_by": [
         "20260327052252_twitter_com_Oz_Garlandd_status_2037399937386688745.json"
       ],
-      "last_updated": "2026-08-03T16:48:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327052252im_/https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f407d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327052252im_/https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085a0f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2028694340080451584/h5HQXAjv_normal.jpg": {
       "status": "done",
@@ -25072,9 +25072,9 @@
       "referenced_by": [
         "20260328051239_twitter_com_Oz_Garlandd_status_2037759754106257846.json"
       ],
-      "last_updated": "2026-08-03T16:48:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328051239im_/https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f88dd00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328051239im_/https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105b5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg": {
       "status": "done",
@@ -25186,9 +25186,9 @@
       "referenced_by": [
         "20260329090929_twitter_com_Oz_Garlandd_status_2038181741853028506.json"
       ],
-      "last_updated": "2026-08-03T16:49:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329090929im_/https://pbs.twimg.com/profile_images/2036758811529355265/9KHsZ6r__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34df70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329090929im_/https://pbs.twimg.com/profile_images/2036758811529355265/9KHsZ6r__normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg": {
       "status": "done",
@@ -25211,9 +25211,9 @@
       "referenced_by": [
         "20260329142335_twitter_com_Oz_Garlandd_status_2038260786133385547.json"
       ],
-      "last_updated": "2026-08-03T16:49:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329142335im_/https://pbs.twimg.com/profile_images/2018330146793836544/3XSZZAvi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405e80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329142335im_/https://pbs.twimg.com/profile_images/2018330146793836544/3XSZZAvi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108c680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1987397479411703808/sjuw0v_T_normal.jpg": {
       "status": "done",
@@ -25228,9 +25228,9 @@
       "referenced_by": [
         "20260329144743_twitter_com_Oz_Garlandd_status_2038266862648107326.json"
       ],
-      "last_updated": "2026-08-03T16:49:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329144743im_/https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34da00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:37:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329144743im_/https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg": {
       "status": "done",
@@ -25266,9 +25266,9 @@
       "referenced_by": [
         "20260330094038_twitter_com_Oz_Garlandd_status_2038551970361819634.json"
       ],
-      "last_updated": "2026-08-03T16:49:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330094038im_/https://pbs.twimg.com/profile_images/2033571514407325696/Vp6V8GGJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4053d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330094038im_/https://pbs.twimg.com/profile_images/2033571514407325696/Vp6V8GGJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0859df0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg": {
       "status": "done",
@@ -25286,9 +25286,9 @@
         "20260331115707_twitter_com_Oz_Garlandd_status_2038948703118213466.json",
         "20260331115727_twitter_com_Oz_Garlandd_status_2038948787096576501.json"
       ],
-      "last_updated": "2026-08-03T16:49:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115727im_/https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115727im_/https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105b170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg": {
       "status": "done",
@@ -25338,9 +25338,9 @@
       "referenced_by": [
         "20260330143857_twitter_com_Oz_Garlandd_status_2038627042418163748.json"
       ],
-      "last_updated": "2026-08-03T16:49:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330143857im_/https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31ce00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330143857im_/https://pbs.twimg.com/profile_images/2037442931037032448/I19VSiwU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0858710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg": {
       "status": "done",
@@ -25370,9 +25370,9 @@
       "referenced_by": [
         "20260331085707_twitter_com_Oz_Garlandd_status_2038903404743790920.json"
       ],
-      "last_updated": "2026-08-03T16:49:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331085707im_/https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331085707im_/https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08cfd40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg": {
       "status": "done",
@@ -25389,9 +25389,9 @@
       "referenced_by": [
         "20260331115648_twitter_com_Oz_Garlandd_status_2038948622394647027.json"
       ],
-      "last_updated": "2026-08-03T16:49:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115648im_/https://pbs.twimg.com/profile_images/2032476040078204928/7mc_JGbr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d70084560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115648im_/https://pbs.twimg.com/profile_images/2032476040078204928/7mc_JGbr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105a750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1908778509998448642/mwUI8GVP_normal.jpg": {
       "status": "failed",
@@ -25399,9 +25399,9 @@
         "20260331115707_twitter_com_Oz_Garlandd_status_2038948703118213466.json",
         "20260331115727_twitter_com_Oz_Garlandd_status_2038948787096576501.json"
       ],
-      "last_updated": "2026-08-03T16:49:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115727im_/https://pbs.twimg.com/profile_images/1908778509998448642/mwUI8GVP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1340>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331115727im_/https://pbs.twimg.com/profile_images/1908778509998448642/mwUI8GVP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1059850>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2038056640432267264/F90opw-J_normal.jpg": {
       "status": "failed",
@@ -25409,9 +25409,9 @@
         "20260331135330_twitter_com_Oz_Garlandd_status_2038977992391876834.json",
         "20260331135345_twitter_com_Oz_Garlandd_status_2038978056719855990.json"
       ],
-      "last_updated": "2026-08-03T16:49:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331135345im_/https://pbs.twimg.com/profile_images/2038056640432267264/F90opw-J_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31e0c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331135345im_/https://pbs.twimg.com/profile_images/2038056640432267264/F90opw-J_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105a630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg": {
       "status": "done",
@@ -25465,9 +25465,9 @@
       "referenced_by": [
         "20260401073318_twitter_com_Oz_Garlandd_status_2039244698905133386.json"
       ],
-      "last_updated": "2026-08-03T16:49:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401073318im_/https://pbs.twimg.com/profile_images/1988480278290198528/nMXWjvYW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31e2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401073318im_/https://pbs.twimg.com/profile_images/1988480278290198528/nMXWjvYW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08584a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg": {
       "status": "done",
@@ -25535,9 +25535,9 @@
       "referenced_by": [
         "20260401161957_twitter_com_Oz_Garlandd_status_2039377236868927865.json"
       ],
-      "last_updated": "2026-08-03T16:49:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401161957im_/https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401161957im_/https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1045550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1994717174578253826/4qg4vBBA_normal.jpg": {
       "status": "done",
@@ -25608,9 +25608,9 @@
         "20260403085306_twitter_com_Oz_Garlandd_status_2039989559526563982.json",
         "20260408044902_twitter_com_Oz_Garlandd_status_2041740077617774824.json"
       ],
-      "last_updated": "2026-08-03T16:49:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408044902im_/https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4048f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408044902if_/https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105be90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2038749547648720896/ATxdcmID_normal.jpg": {
       "status": "done",
@@ -25649,9 +25649,9 @@
       "referenced_by": [
         "20260402162351_twitter_com_Oz_Garlandd_status_2039740604364796096.json"
       ],
-      "last_updated": "2026-08-03T16:49:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402162351im_/https://pbs.twimg.com/profile_images/2032693493236461568/RFUrORQ4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402162351im_/https://pbs.twimg.com/profile_images/2032693493236461568/RFUrORQ4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1058950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg": {
       "status": "done",
@@ -25825,9 +25825,9 @@
       "referenced_by": [
         "20260404082407_twitter_com_Oz_Garlandd_status_2040344650138165721.json"
       ],
-      "last_updated": "2026-08-03T16:49:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404082407im_/https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31cbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404082407im_/https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085ba40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg": {
       "status": "done",
@@ -25878,9 +25878,9 @@
         "20260404190152_twitter_com_Oz_Garlandd_status_2040505148758458369.json",
         "20260404190615_twitter_com_Oz_Garlandd_status_2040506248500772867.json"
       ],
-      "last_updated": "2026-08-03T16:49:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404190615if_/https://pbs.twimg.com/profile_images/2040121597617639424/QEh4PD4e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404190615im_/https://pbs.twimg.com/profile_images/2040121597617639424/QEh4PD4e_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0858d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg": {
       "status": "done",
@@ -25921,9 +25921,9 @@
         "20260405043019_twitter_com_Oz_Garlandd_status_2040648201636888777.json",
         "20260411044601_twitter_com_Oz_Garlandd_status_2042826482137825656.json"
       ],
-      "last_updated": "2026-08-03T16:49:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411044601im_/https://pbs.twimg.com/profile_images/2040037552078659584/WNdYAlo1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31fa10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411044601im_/https://pbs.twimg.com/profile_images/2040037552078659584/WNdYAlo1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1058a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg": {
       "status": "failed",
@@ -25931,9 +25931,9 @@
         "20260405043650_twitter_com_Oz_Garlandd_status_2040649842679328958.json",
         "20260415100731_twitter_com_Oz_Garlandd_status_2044356938847150157.json"
       ],
-      "last_updated": "2026-08-03T16:50:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415100731im_/https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31f950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415100731if_/https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1058b90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg": {
       "status": "done",
@@ -25957,9 +25957,9 @@
         "20260405114145_twitter_com_Oz_Garlandd_status_2040756774270062676.json",
         "20260405114154_twitter_com_Oz_Garlandd_status_2040756815915327754.json"
       ],
-      "last_updated": "2026-08-03T16:50:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405114154im_/https://pbs.twimg.com/profile_images/2040734853415546880/jzc0x24Z_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405114154im_/https://pbs.twimg.com/profile_images/2040734853415546880/jzc0x24Z_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040480131547099136/FcmW9ihC_normal.jpg": {
       "status": "done",
@@ -26022,9 +26022,9 @@
       "referenced_by": [
         "20260405175439_twitter_com_Oz_Garlandd_status_2040850621096509889.json"
       ],
-      "last_updated": "2026-08-03T16:50:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405175439im_/https://pbs.twimg.com/profile_images/2040418531377070080/QEnbWgFV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:38:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405175439im_/https://pbs.twimg.com/profile_images/2040418531377070080/QEnbWgFV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg": {
       "status": "done",
@@ -26063,9 +26063,9 @@
       "referenced_by": [
         "20260406041437_twitter_com_Oz_Garlandd_status_2041006639575113788.json"
       ],
-      "last_updated": "2026-08-03T16:50:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406041437im_/https://pbs.twimg.com/profile_images/2022659123498954752/8_SJmuGA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31e360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406041437im_/https://pbs.twimg.com/profile_images/2022659123498954752/8_SJmuGA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108c440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg": {
       "status": "failed",
@@ -26074,9 +26074,9 @@
         "20260410061226_twitter_com_Oz_Garlandd_status_2042485838618198343.json",
         "20260410061232_twitter_com_Oz_Garlandd_status_2042485864354496578.json"
       ],
-      "last_updated": "2026-08-03T16:50:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410061232im_/https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34e8d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410061232im_/https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1046060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1839870665660477441/6lkGmZv6_normal.jpg": {
       "status": "done",
@@ -26262,9 +26262,9 @@
       "referenced_by": [
         "20260406170527_twitter_com_Oz_Garlandd_status_2041200626562957696.json"
       ],
-      "last_updated": "2026-08-03T16:50:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406170527im_/https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f406900>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406170527im_/https://pbs.twimg.com/profile_images/2037382250741035008/ItkWlcKb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108c350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021848492868820992/e2I3VPns_normal.jpg": {
       "status": "done",
@@ -26446,9 +26446,9 @@
         "20260408041842_twitter_com_Oz_Garlandd_status_2041732441119797262.json",
         "20260415065843_twitter_com_Oz_Garlandd_status_2044309425423315186.json"
       ],
-      "last_updated": "2026-08-03T16:50:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34da00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2035173221130018816/v1xYOw6e_normal.jpg": {
       "status": "done",
@@ -26491,9 +26491,9 @@
         "20260407153740_twitter_com_Oz_Garlandd_status_2041540924065370330.json",
         "20260407153811_twitter_com_Oz_Garlandd_status_2041541051928699113.json"
       ],
-      "last_updated": "2026-08-03T16:50:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407153811im_/https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405e20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407153811im_/https://pbs.twimg.com/profile_images/2033615902500130816/gHzcfWKt_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108f920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040843209278988288/cUX_jNZh_normal.jpg": {
       "status": "done",
@@ -26517,9 +26517,9 @@
       "referenced_by": [
         "20260407160219_twitter_com_Oz_Garlandd_status_2041547127604572173.json"
       ],
-      "last_updated": "2026-08-03T16:50:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407160219im_/https://pbs.twimg.com/profile_images/1999221961600512000/cuGTMryV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34c1a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407160219im_/https://pbs.twimg.com/profile_images/1999221961600512000/cuGTMryV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2029258155876818944/CIjhQQtI_normal.jpg": {
       "status": "done",
@@ -26590,9 +26590,9 @@
       "referenced_by": [
         "20260409121617_twitter_com_Oz_Garlandd_status_2042215019744473194.json"
       ],
-      "last_updated": "2026-08-03T16:50:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409121617im_/https://pbs.twimg.com/profile_images/2032366307195371520/4GUjoILc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31efc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409121617if_/https://pbs.twimg.com/profile_images/2032366307195371520/4GUjoILc_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a46e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg": {
       "status": "done",
@@ -26687,18 +26687,18 @@
       "referenced_by": [
         "20260410064601_twitter_com_Oz_Garlandd_status_2042494290807701711.json"
       ],
-      "last_updated": "2026-08-03T16:50:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410064601im_/https://pbs.twimg.com/profile_images/2040897665886720000/_jhW7ncQ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2f60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410064601im_/https://pbs.twimg.com/profile_images/2040897665886720000/_jhW7ncQ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e510>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260410064601_twitter_com_Oz_Garlandd_status_2042494290807701711.json"
       ],
-      "last_updated": "2026-08-03T16:50:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410064601im_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410064601im_/https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a4770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021455778482470912/bLsOSTw3_normal.jpg": {
       "status": "done",
@@ -26719,9 +26719,9 @@
       "referenced_by": [
         "20260410195157_twitter_com_Oz_Garlandd_status_2042692077193171148.json"
       ],
-      "last_updated": "2026-08-03T16:50:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410195157im_/https://pbs.twimg.com/profile_images/2039533318547689472/zIEDsqbW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34f2f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410195157im_/https://pbs.twimg.com/profile_images/2039533318547689472/zIEDsqbW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg": {
       "status": "done",
@@ -26754,9 +26754,9 @@
         "20260412063359_twitter_com_Oz_Garlandd_status_2043216037794251110.json",
         "20260412063409_twitter_com_Oz_Garlandd_status_2043216080731259202.json"
       ],
-      "last_updated": "2026-08-03T16:50:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412063409im_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d70593bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412063409im_/https://pbs.twimg.com/profile_images/2041391782861434882/pkljq0Fd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10452b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg": {
       "status": "done",
@@ -26975,18 +26975,18 @@
       "referenced_by": [
         "20260414115520_twitter_com_Oz_Garlandd_status_2044021684139704571.json"
       ],
-      "last_updated": "2026-08-03T16:50:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414115520im_/https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1b20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414115520im_/https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e510>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260414190536_twitter_com_Oz_Garlandd_status_2044129964061073451.json"
       ],
-      "last_updated": "2026-08-03T16:50:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190536im_/https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f88dd90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414190536im_/https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1046240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021265712434774020/whhMHn2-_normal.jpg": {
       "status": "done",
@@ -27007,27 +27007,27 @@
       "referenced_by": [
         "20260415065843_twitter_com_Oz_Garlandd_status_2044309425423315186.json"
       ],
-      "last_updated": "2026-08-03T16:50:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2043572927422156800/K0eUe4a8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34e8d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2043572927422156800/K0eUe4a8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10440b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2026013812059693056/-tQ1HI_B_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260415065843_twitter_com_Oz_Garlandd_status_2044309425423315186.json"
       ],
-      "last_updated": "2026-08-03T16:51:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2026013812059693056/-tQ1HI_B_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31d310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:39:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/2026013812059693056/-tQ1HI_B_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1845117311696633864/Hg5y-rmR_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260415065843_twitter_com_Oz_Garlandd_status_2044309425423315186.json"
       ],
-      "last_updated": "2026-08-03T16:51:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/1845117311696633864/Hg5y-rmR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d705e0440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415065843im_/https://pbs.twimg.com/profile_images/1845117311696633864/Hg5y-rmR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108deb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2041444989243441152/z-NEydYA_normal.jpg": {
       "status": "done",
@@ -27074,9 +27074,9 @@
       "referenced_by": [
         "20260415101926_twitter_com_Oz_Garlandd_status_2044359940647653387.json"
       ],
-      "last_updated": "2026-08-03T16:51:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415101926im_/https://pbs.twimg.com/profile_images/2044105705884659712/436qJd6p_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31e360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415101926im_/https://pbs.twimg.com/profile_images/2044105705884659712/436qJd6p_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg": {
       "status": "done",
@@ -27114,9 +27114,9 @@
       "referenced_by": [
         "20260415195939_twitter_com_Oz_Garlandd_status_2044505954511671566.json"
       ],
-      "last_updated": "2026-08-03T16:51:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415195939im_/https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1e20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415195939im_/https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105be00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_normal.jpg": {
       "status": "failed",
@@ -27124,9 +27124,9 @@
         "20260416060417_twitter_com_Oz_Garlandd_status_2044658114520133698.json",
         "20260416060423_twitter_com_Oz_Garlandd_status_2044658142584209686.json"
       ],
-      "last_updated": "2026-08-03T16:51:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416060423im_/https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34fec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416060423im_/https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1046a50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021118445761462273/VKiW9Yoh_normal.jpg": {
       "status": "done",
@@ -27342,9 +27342,9 @@
       "referenced_by": [
         "20260416114838_twitter_com_Oz_Garlandd_status_2044744776549814458.json"
       ],
-      "last_updated": "2026-08-03T16:51:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416114838im_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34c050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416114838im_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10597c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2044982626222501888/sIpZKZ_w_normal.png": {
       "status": "done",
@@ -27358,18 +27358,18 @@
       "referenced_by": [
         "20260417114935_twitter_com_Oz_Garlandd_status_2045107401402073241.json"
       ],
-      "last_updated": "2026-08-03T16:51:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417114935im_/https://pbs.twimg.com/profile_images/2039361757978972160/SujoefAm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417114935im_/https://pbs.twimg.com/profile_images/2039361757978972160/SujoefAm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021889802199871489/nIWfUR8o_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260417114935_twitter_com_Oz_Garlandd_status_2045107401402073241.json"
       ],
-      "last_updated": "2026-08-03T16:51:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417114935im_/https://pbs.twimg.com/profile_images/2021889802199871489/nIWfUR8o_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31f4d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417114935im_/https://pbs.twimg.com/profile_images/2021889802199871489/nIWfUR8o_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105aed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg": {
       "status": "done",
@@ -27482,18 +27482,18 @@
       "referenced_by": [
         "20260423094909_twitter_com_Oz_Garlandd_status_2047251422991806951.json"
       ],
-      "last_updated": "2026-08-03T16:51:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423094909im_/https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31da30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423094909im_/https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260423110001_twitter_com_Oz_Garlandd_status_2047269256555860211.json"
       ],
-      "last_updated": "2026-08-03T16:51:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423110001im_/https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423110001im_/https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108ecf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2035417691432103936/3n1iH5gS_normal.jpg": {
       "status": "done",
@@ -27561,9 +27561,9 @@
       "referenced_by": [
         "20260425105728_twitter_com_Oz_Garlandd_status_2047993390394917136.json"
       ],
-      "last_updated": "2026-08-03T16:51:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425105728im_/https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31d460>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425105728im_/https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108d4f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg": {
       "status": "done",
@@ -27611,9 +27611,9 @@
       "referenced_by": [
         "20260428191122_twitter_com_Oz_Garlandd_status_2049204844762734658.json"
       ],
-      "last_updated": "2026-08-03T16:51:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428191122im_/https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34cf50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428191122im_/https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1059940>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg": {
       "status": "done",
@@ -27674,9 +27674,9 @@
       "referenced_by": [
         "20260429200149_twitter_com_Oz_Garlandd_status_2049579929738629626.json"
       ],
-      "last_updated": "2026-08-03T16:51:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429200149im_/https://pbs.twimg.com/profile_images/2048414620965343232/DBCf8JSF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34e360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429200149im_/https://pbs.twimg.com/profile_images/2048414620965343232/DBCf8JSF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1324ef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2049834933355687936/lvhzFk9s_normal.jpg": {
       "status": "done",
@@ -27842,18 +27842,18 @@
         "20260504034700_twitter_com_Oz_Garlandd_status_2051146548206084537.json",
         "20260504195722_twitter_com_Oz_Garlandd_status_2051390751108485404.json"
       ],
-      "last_updated": "2026-08-03T16:51:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504195722im_/https://pbs.twimg.com/profile_images/2048664501776723968/P8-CTqU__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504195722im_/https://pbs.twimg.com/profile_images/2048664501776723968/P8-CTqU__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2048788057789440001/JZD502pg_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260504035200_twitter_com_Oz_Garlandd_status_2051147805977174293.json"
       ],
-      "last_updated": "2026-08-03T16:51:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504035200im_/https://pbs.twimg.com/profile_images/2048788057789440001/JZD502pg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e10a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504035200im_/https://pbs.twimg.com/profile_images/2048788057789440001/JZD502pg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108ffe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1999500760246288384/rM1oLj6C_normal.jpg": {
       "status": "done",
@@ -27874,9 +27874,9 @@
       "referenced_by": [
         "20260504040011_twitter_com_Oz_Garlandd_status_2051149865409794436.json"
       ],
-      "last_updated": "2026-08-03T16:51:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504040011im_/https://pbs.twimg.com/profile_images/2049078208616919040/SoqRVR6K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34d430>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504040011im_/https://pbs.twimg.com/profile_images/2049078208616919040/SoqRVR6K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1059220>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2039497198761893888/xL8rvNjI_normal.jpg": {
       "status": "done",
@@ -27946,9 +27946,9 @@
         "20260509223930_twitter_com_Oz_Garlandd_status_2053243492151787913.json",
         "20260511014542_twitter_com_Oz_Garlandd_status_2053652737527578721.json"
       ],
-      "last_updated": "2026-08-03T16:51:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014542im_/https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f406030>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:40:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014542if_/https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085bb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2051171309095464960/8znKSJIY_normal.jpg": {
       "status": "done",
@@ -28126,9 +28126,9 @@
       "referenced_by": [
         "20260505102151_twitter_com_Oz_Garlandd_status_2051608302702993805.json"
       ],
-      "last_updated": "2026-08-03T16:52:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505102151im_/https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31ebd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505102151im_/https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1046f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2050294151942692864/nxeLZIOe_normal.jpg": {
       "status": "failed",
@@ -28138,9 +28138,9 @@
         "20260506162914_twitter_com_Oz_Garlandd_status_2052063145368187248.json",
         "20260507042921_twitter_com_Oz_Garlandd_status_2052244372087799975.json"
       ],
-      "last_updated": "2026-08-03T16:52:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507042921im_/https://pbs.twimg.com/profile_images/2050294151942692864/nxeLZIOe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507042921im_/https://pbs.twimg.com/profile_images/2050294151942692864/nxeLZIOe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08596d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg": {
       "status": "done",
@@ -28264,9 +28264,9 @@
         "20260505164213_twitter_com_Oz_Garlandd_status_2051704027163902445.json",
         "20260505164220_twitter_com_Oz_Garlandd_status_2051704058105258261.json"
       ],
-      "last_updated": "2026-08-03T16:52:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505164220im_/https://pbs.twimg.com/profile_images/2051682089570033664/vi9Qt5M2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31fc50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505164220im_/https://pbs.twimg.com/profile_images/2051682089570033664/vi9Qt5M2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108f7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2048663644729491456/OlbPhjDi_normal.jpg": {
       "status": "failed_all",
@@ -28317,9 +28317,9 @@
         "20260506162729_twitter_com_Oz_Garlandd_status_2052062708892102704.json",
         "20260507150058_twitter_com_Oz_Garlandd_status_2052403321919406149.json"
       ],
-      "last_updated": "2026-08-03T16:52:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507150058im_/https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507150058im_/https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg": {
       "status": "done",
@@ -28371,9 +28371,9 @@
       "referenced_by": [
         "20260506020938_twitter_com_Oz_Garlandd_status_2051846823791210767.json"
       ],
-      "last_updated": "2026-08-03T16:52:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506020938if_/https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34c590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506020938im_/https://pbs.twimg.com/profile_images/2051451988681113600/4KpuBqzJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08587d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png": {
       "status": "done",
@@ -28457,9 +28457,9 @@
         "20260506084231_twitter_com_Oz_Garlandd_status_2051945695402143848.json",
         "20260506084328_twitter_com_Oz_Garlandd_status_2051945933055697382.json"
       ],
-      "last_updated": "2026-08-03T16:52:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506084328im_/https://pbs.twimg.com/profile_images/2051540226237952006/yjh61f3Y_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f404650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506084328im_/https://pbs.twimg.com/profile_images/2051540226237952006/yjh61f3Y_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108fc20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg": {
       "status": "done",
@@ -28542,9 +28542,9 @@
       "referenced_by": [
         "20260507114919_twitter_com_Oz_Garlandd_status_2052355091626164429.json"
       ],
-      "last_updated": "2026-08-03T16:52:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507114919if_/https://pbs.twimg.com/profile_images/1990469674090590208/nknGmV8c_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507114919im_/https://pbs.twimg.com/profile_images/1990469674090590208/nknGmV8c_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2024260517905436672/OWpIdUho_normal.jpg": {
       "status": "done",
@@ -28570,9 +28570,9 @@
         "20260507151227_twitter_com_Oz_Garlandd_status_2052406210607861869.json",
         "20260507151238_twitter_com_Oz_Garlandd_status_2052406257869353105.json"
       ],
-      "last_updated": "2026-08-03T16:52:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507151238im_/https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31fbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507151238im_/https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0859700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1984190166668312576/srt8Nn9e_normal.jpg": {
       "status": "done",
@@ -28607,9 +28607,9 @@
       "referenced_by": [
         "20260507185451_twitter_com_Oz_Garlandd_status_2052462179681513669.json"
       ],
-      "last_updated": "2026-08-03T16:52:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507185451im_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31d010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507185451im_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png": {
       "status": "done",
@@ -28623,9 +28623,9 @@
       "referenced_by": [
         "20260507194706_twitter_com_Oz_Garlandd_status_2052475328367411558.json"
       ],
-      "last_updated": "2026-08-03T16:52:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507194706im_/https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f738350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507194706im_/https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085aa80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg": {
       "status": "done",
@@ -28706,9 +28706,9 @@
         "20260510145312_twitter_com_Oz_Garlandd_status_2053488530630881360.json",
         "20260511081848_twitter_com_Oz_Garlandd_status_2053751663131824482.json"
       ],
-      "last_updated": "2026-08-03T16:52:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511081848im_/https://pbs.twimg.com/profile_images/2042839746364452864/21Rtviyi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f406030>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511081848im_/https://pbs.twimg.com/profile_images/2042839746364452864/21Rtviyi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg": {
       "status": "done",
@@ -28740,9 +28740,9 @@
       "referenced_by": [
         "20260511014542_twitter_com_Oz_Garlandd_status_2053652737527578721.json"
       ],
-      "last_updated": "2026-08-03T16:52:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014542im_/https://pbs.twimg.com/profile_images/2051482130296004608/Ks7i2ptx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511014542im_/https://pbs.twimg.com/profile_images/2051482130296004608/Ks7i2ptx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108ffe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052668336484278274/FWyC3L8d_normal.jpg": {
       "status": "failed",
@@ -28750,9 +28750,9 @@
         "20260511080023_twitter_com_Oz_Garlandd_status_2053747030430785973.json",
         "20260511080042_twitter_com_Oz_Garlandd_status_2053747109367554117.json"
       ],
-      "last_updated": "2026-08-03T16:52:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511080042im_/https://pbs.twimg.com/profile_images/2052668336484278274/FWyC3L8d_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511080042im_/https://pbs.twimg.com/profile_images/2052668336484278274/FWyC3L8d_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2053748064381435904/U1--t_W1_normal.jpg": {
       "status": "done",
@@ -28819,9 +28819,9 @@
       "referenced_by": [
         "20260513052851_twitter_com_Oz_Garlandd_status_2054433671768162488.json"
       ],
-      "last_updated": "2026-08-03T16:52:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513052851im_/https://pbs.twimg.com/profile_images/1890313191294660609/NE3Hid8H_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4079e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513052851im_/https://pbs.twimg.com/profile_images/1890313191294660609/NE3Hid8H_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1059cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2054199840998031360/GktbH71W_normal.jpg": {
       "status": "done",
@@ -28844,9 +28844,9 @@
       "referenced_by": [
         "20260513065426_twitter_com_Oz_Garlandd_status_2054455207732384056.json"
       ],
-      "last_updated": "2026-08-03T16:52:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513065426im_/https://pbs.twimg.com/profile_images/2053766202841792512/8MCmbHyh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34c650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513065426im_/https://pbs.twimg.com/profile_images/2053766202841792512/8MCmbHyh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1047470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052305232726810624/idNPcHcp_normal.jpg": {
       "status": "done",
@@ -28860,9 +28860,9 @@
       "referenced_by": [
         "20260514040137_twitter_com_Oz_Garlandd_status_2054774105564446792.json"
       ],
-      "last_updated": "2026-08-03T16:52:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514040137im_/https://pbs.twimg.com/profile_images/2045550927848017920/sscsz2Z0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f88f170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514040137im_/https://pbs.twimg.com/profile_images/2045550927848017920/sscsz2Z0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1059700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2042795325853962246/Ad-E3YAC_normal.jpg": {
       "status": "done",
@@ -28906,9 +28906,9 @@
       "referenced_by": [
         "20260515074739_twitter_com_Oz_Garlandd_status_2055193376178176473.json"
       ],
-      "last_updated": "2026-08-03T16:52:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515074739im_/https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34cf50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515074739im_/https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1327560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2050171269291941888/8uT0c83z_normal.jpg": {
       "status": "done",
@@ -28929,9 +28929,9 @@
       "referenced_by": [
         "20260515154245_twitter_com_Oz_Garlandd_status_2055312939251294471.json"
       ],
-      "last_updated": "2026-08-03T16:53:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515154245im_/https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31f770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:41:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515154245im_/https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085ba10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052985318236995584/kh8jGIwl_normal.jpg": {
       "status": "done",
@@ -28946,27 +28946,27 @@
         "20260516042018_twitter_com_Oz_Garlandd_status_2055503585996120364.json",
         "20260516042034_twitter_com_Oz_Garlandd_status_2055503651280486809.json"
       ],
-      "last_updated": "2026-08-03T16:53:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516042034im_/https://pbs.twimg.com/profile_images/2037360907882475520/X_EoyPeF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34f7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516042034im_/https://pbs.twimg.com/profile_images/2037360907882475520/X_EoyPeF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2053702823351902208/DJQdCIuL_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260516043743_twitter_com_Oz_Garlandd_status_2055507965415755982.json"
       ],
-      "last_updated": "2026-08-03T16:53:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516043743im_/https://pbs.twimg.com/profile_images/2053702823351902208/DJQdCIuL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4044a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516043743im_/https://pbs.twimg.com/profile_images/2053702823351902208/DJQdCIuL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1058a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2033694894628438016/_KYBWaYq_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260516142507_twitter_com_Oz_Garlandd_status_2055655791198134695.json"
       ],
-      "last_updated": "2026-08-03T16:53:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516142507im_/https://pbs.twimg.com/profile_images/2033694894628438016/_KYBWaYq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516142507im_/https://pbs.twimg.com/profile_images/2033694894628438016/_KYBWaYq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08cf6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1686016888118059008/mrluTkWs_normal.jpg": {
       "status": "done",
@@ -29041,9 +29041,9 @@
       "referenced_by": [
         "20260517104416_twitter_com_Oz_Garlandd_status_2055962599003431311.json"
       ],
-      "last_updated": "2026-08-03T16:53:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517104416im_/https://pbs.twimg.com/profile_images/2051671133934505989/nMv3aHBL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31c140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517104416im_/https://pbs.twimg.com/profile_images/2051671133934505989/nMv3aHBL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1044d10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2055291096641781761/tddYQ5CD_normal.jpg": {
       "status": "done",
@@ -29080,18 +29080,18 @@
       "referenced_by": [
         "20260518043657_twitter_com_Oz_Garlandd_status_2056232548506775928.json"
       ],
-      "last_updated": "2026-08-03T16:53:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518043657im_/https://pbs.twimg.com/profile_images/2056124403491176448/MJTGqw8c_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f404e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518043657im_/https://pbs.twimg.com/profile_images/2056124403491176448/MJTGqw8c_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a4650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260518065444_twitter_com_Oz_Garlandd_status_2056267223279268261.json"
       ],
-      "last_updated": "2026-08-03T16:53:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518065444im_/https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518065444im_/https://pbs.twimg.com/profile_images/2025944445372313600/3EQTUkjV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1058a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2010682131769663488/N8kFV-tv_normal.jpg": {
       "status": "done",
@@ -29119,9 +29119,9 @@
       "referenced_by": [
         "20260518072103_twitter_com_Oz_Garlandd_status_2056273847293219114.json"
       ],
-      "last_updated": "2026-08-03T16:53:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518072103im_/https://pbs.twimg.com/profile_images/2056218572398178304/5iDvRaG2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34ca40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518072103im_/https://pbs.twimg.com/profile_images/2056218572398178304/5iDvRaG2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108e180>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg": {
       "status": "done",
@@ -29347,18 +29347,18 @@
       "referenced_by": [
         "20260521025553_twitter_com_Oz_Garlandd_status_2057294278267736403.json"
       ],
-      "last_updated": "2026-08-03T16:53:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521025553im_/https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e0ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521025553im_/https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108c8c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2057201980733554688/4N4IS_PB_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260521091655_twitter_com_Oz_Garlandd_status_2057390169485910498.json"
       ],
-      "last_updated": "2026-08-03T16:53:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521091655im_/https://pbs.twimg.com/profile_images/2057201980733554688/4N4IS_PB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f34f5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521091655im_/https://pbs.twimg.com/profile_images/2057201980733554688/4N4IS_PB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0858290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2056332088157372416/v6HeaNE4_normal.jpg": {
       "status": "done",
@@ -29398,9 +29398,9 @@
         "20260521151153_twitter_com_Oz_Garlandd_status_2057479499113959700.json",
         "20260521153202_twitter_com_Oz_Garlandd_status_2057484570388221955.json"
       ],
-      "last_updated": "2026-08-03T16:53:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521153202im_/https://pbs.twimg.com/profile_images/2057130417581707264/OAHv57gq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f73a330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521153202im_/https://pbs.twimg.com/profile_images/2057130417581707264/OAHv57gq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg": {
       "status": "done",
@@ -29540,9 +29540,9 @@
       "referenced_by": [
         "20260524180906_twitter_com_Oz_Garlandd_status_2058611261848346842.json"
       ],
-      "last_updated": "2026-08-03T16:53:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524180906im_/https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f407980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524180906im_/https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a108d880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg": {
       "status": "done",
@@ -29767,9 +29767,9 @@
         "20260529103859_twitter_com_Oz_Garlandd_status_2060309923909513698.json",
         "20260529110607_twitter_com_Oz_Garlandd_status_2060316752160968941.json"
       ],
-      "last_updated": "2026-08-03T16:53:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529110607im_/https://pbs.twimg.com/profile_images/2060177894115266560/E5sxtd01_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31f6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529110607im_/https://pbs.twimg.com/profile_images/2060177894115266560/E5sxtd01_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a1327a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2055570607966982144/w2BlKkDh_normal.jpg": {
       "status": "done",
@@ -30025,9 +30025,9 @@
         "20260602113421_twitter_com_Oz_Garlandd_status_2061773409684734218.json",
         "20260602113958_twitter_com_Oz_Garlandd_status_2061774824108933169.json"
       ],
-      "last_updated": "2026-08-03T16:53:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602113958im_/https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31eba0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602113958im_/https://pbs.twimg.com/profile_images/2061678198069596160/RrJFzmWb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a0858ad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg": {
       "status": "done",
@@ -30106,9 +30106,9 @@
         "20260625192951_twitter_com_Oz_Garlandd_status_2070227994191241257.json",
         "20260626085719_twitter_com_Oz_Garlandd_status_2070431199072276754.json"
       ],
-      "last_updated": "2026-08-03T16:53:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626085719im_/https://pbs.twimg.com/profile_images/2049739498129707008/OU5hvhKx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f405c40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626085719im_/https://pbs.twimg.com/profile_images/2049739498129707008/OU5hvhKx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a7bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1794702435812048896/OTS1dNbo_normal.jpg": {
       "status": "done",
@@ -30118,15 +30118,15 @@
       "last_updated": "2026-08-01T01:33:50"
     },
     "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260604064830_twitter_com_Oz_Garlandd_status_2062426249965002876.json",
         "20260604081606_twitter_com_Oz_Garlandd_status_2062448296380243978.json",
         "20260605110812_twitter_com_Oz_Garlandd_status_2062853994142412960.json"
       ],
-      "last_updated": "2026-08-03T16:54:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605110812im_/https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e3c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605110812im_/https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f920cd57c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 11
     },
     "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg": {
       "status": "done",
@@ -30236,9 +30236,9 @@
         "20260604184144_twitter_com_Oz_Garlandd_status_2062605739571773455.json",
         "20260604184315_twitter_com_Oz_Garlandd_status_2062606120032874705.json"
       ],
-      "last_updated": "2026-08-03T16:54:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604184315im_/https://pbs.twimg.com/profile_images/2060044154642874368/JxCPUZMD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6ee4fc80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604184315im_/https://pbs.twimg.com/profile_images/2060044154642874368/JxCPUZMD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08cede0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg": {
       "status": "done",
@@ -30255,9 +30255,9 @@
         "20260604185109_twitter_com_Oz_Garlandd_status_2062608110460809483.json",
         "20260604185319_twitter_com_Oz_Garlandd_status_2062608656714395925.json"
       ],
-      "last_updated": "2026-08-03T16:54:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604185319im_/https://pbs.twimg.com/profile_images/2062595721300418561/YGxoaX1i_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31e090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:42:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260604185319im_/https://pbs.twimg.com/profile_images/2062595721300418561/YGxoaX1i_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a21e02c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg": {
       "status": "done",
@@ -30303,9 +30303,9 @@
       "referenced_by": [
         "20260605102039_twitter_com_Oz_Garlandd_status_2062842028376179117.json"
       ],
-      "last_updated": "2026-08-03T16:54:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605102039im_/https://pbs.twimg.com/profile_images/2062758357006708736/N3oDIk-1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e1d00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605102039im_/https://pbs.twimg.com/profile_images/2062758357006708736/N3oDIk-1_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a56d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg": {
       "status": "done",
@@ -30355,18 +30355,18 @@
       "referenced_by": [
         "20260605204759_twitter_com_Oz_Garlandd_status_2062999900514873628.json"
       ],
-      "last_updated": "2026-08-03T16:54:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605204759im_/https://pbs.twimg.com/profile_images/2055653577511866368/mhSgNbm6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d70e2df70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605204759im_/https://pbs.twimg.com/profile_images/2055653577511866368/mhSgNbm6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085b4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2062977941328601088/rIAlVG6T_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260605215443_twitter_com_Oz_Garlandd_status_2063016694919147651.json"
       ],
-      "last_updated": "2026-08-03T16:54:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605215443im_/https://pbs.twimg.com/profile_images/2062977941328601088/rIAlVG6T_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e07a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605215443im_/https://pbs.twimg.com/profile_images/2062977941328601088/rIAlVG6T_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08ce480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1884151038133035008/NaMr52H7_normal.png": {
       "status": "done",
@@ -30443,9 +30443,9 @@
         "20260609170213_twitter_com_Oz_Garlandd_status_2064392635108728961.json",
         "20260609170218_twitter_com_Oz_Garlandd_status_2064392655656591739.json"
       ],
-      "last_updated": "2026-08-03T16:54:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609170218im_/https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f31ed80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609170218im_/https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a085aa50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg": {
       "status": "done",
@@ -30607,9 +30607,9 @@
       "referenced_by": [
         "20260614050657_twitter_com_Oz_Garlandd_status_2066024571531112702.json"
       ],
-      "last_updated": "2026-08-03T16:54:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614050657im_/https://pbs.twimg.com/profile_images/2044551898846597120/NoPzMyxv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f404f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614050657im_/https://pbs.twimg.com/profile_images/2044551898846597120/NoPzMyxv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08cf8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1257556445618372609/UPWEpMrW_normal.jpg": {
       "status": "done",
@@ -30668,9 +30668,9 @@
         "20260617092229_twitter_com_Oz_Garlandd_status_2067176043060846724.json",
         "20260617150229_twitter_com_Oz_Garlandd_status_2067261605251850540.json"
       ],
-      "last_updated": "2026-08-03T16:54:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617150229im_/https://pbs.twimg.com/profile_images/2067133926205014016/jZq2f4O5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4e2600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617150229im_/https://pbs.twimg.com/profile_images/2067133926205014016/jZq2f4O5_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a08599a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg": {
       "status": "done",
@@ -30870,9 +30870,9 @@
       "referenced_by": [
         "20260626155004_twitter_com_Oz_Garlandd_status_2070535071262519777.json"
       ],
-      "last_updated": "2026-08-03T16:54:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626155004im_/https://pbs.twimg.com/profile_images/2070499785048805376/EMnzXnB3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8d6f4071d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-08-19T03:43:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626155004im_/https://pbs.twimg.com/profile_images/2070499785048805376/EMnzXnB3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a10a52e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2069285132952092672/dN60TEpS_normal.jpg": {
       "status": "done",
@@ -31626,132 +31626,154 @@
       "last_updated": "2026-08-03T06:23:06"
     },
     "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260802160726_twitter_com_Oz_Garlandd_status_2083947792951582927.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260803035809_twitter_com_Oz_Garlandd_status_2084126651382628797.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2082460782110068736/taXZzWwd_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260803064701_twitter_com_Oz_Garlandd_status_2084169147093496266.json",
         "20260803154052_twitter_com_Oz_Garlandd_status_2084303494039679368.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:43:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803154052im_/https://pbs.twimg.com/profile_images/2082460782110068736/taXZzWwd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89a105a750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2077596000076570624/BQeRyl4N_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260803161112_twitter_com_Oz_Garlandd_status_2084311127354171789.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2080575581465526273/X0pROOte_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260804041811_twitter_com_Oz_Garlandd_status_2084494079316951160.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260804041930_twitter_com_Oz_Garlandd_status_2084494411556090143.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260805070733_twitter_com_Oz_Garlandd_status_2084899089313841268.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260805164308_twitter_com_Oz_Garlandd_status_2085043939308949835.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2053192001223606272/JJrL7kxw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809022529_twitter_com_Oz_Garlandd_status_2086277660141850855.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809192049_twitter_com_Oz_Garlandd_status_2086533176663351381.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809193936_twitter_com_Oz_Garlandd_status_2086537902083682708.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:33"
     },
     "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809194319_twitter_com_Oz_Garlandd_status_2086538838688583836.json",
         "20260809194325_twitter_com_Oz_Garlandd_status_2086538862503866746.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810070437_twitter_com_Oz_Garlandd_status_2086710290117214211.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/1834490209742061569/8UCx86xu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810175453_twitter_com_Oz_Garlandd_status_2086873935459627430.json",
         "20260810175501_twitter_com_Oz_Garlandd_status_2086873971824169350.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810175501_twitter_com_Oz_Garlandd_status_2086873971824169350.json",
         "20260810175757_twitter_com_Oz_Garlandd_status_2086874708113260915.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260810180445_twitter_com_Oz_Garlandd_status_2086876421641679246.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260811070250_twitter_com_Oz_Garlandd_status_2087072232593895450.json",
         "20260811074752_twitter_com_Oz_Garlandd_status_2087083564143648858.json",
         "20260811075818_twitter_com_Oz_Garlandd_status_2087086190188962054.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2086609050650001408/fdMqeNZJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260811070506_twitter_com_Oz_Garlandd_status_2087072801156915602.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260811155859_twitter_com_Oz_Garlandd_status_2087207158408470902.json",
         "20260811155908_twitter_com_Oz_Garlandd_status_2087207196970913841.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     },
     "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260813201729_twitter_com_Oz_Garlandd_status_2087996985827594285.json",
         "20260813201737_twitter_com_Oz_Garlandd_status_2087997019868537063.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:36:34"
     }
   },
   "media": {
@@ -58874,7 +58896,7 @@
       "last_updated": "2026-08-01T01:33:44"
     },
     "20260604064830_twitter_com_Oz_Garlandd_status_2062426249965002876.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58883,7 +58905,7 @@
           "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31",
+      "last_updated": "2026-08-19T03:42:49",
       "miss_count": 10
     },
     "20260604065004_twitter_com_Oz_Garlandd_status_2062426643214610714.json": {
@@ -58950,7 +58972,7 @@
       "last_updated": "2026-08-01T01:33:24"
     },
     "20260604081606_twitter_com_Oz_Garlandd_status_2062448296380243978.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -58959,7 +58981,7 @@
           "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31",
+      "last_updated": "2026-08-19T03:42:49",
       "miss_count": 10
     },
     "20260604082817_twitter_com_Oz_Garlandd_status_2062451361598652856.json": {
@@ -59900,7 +59922,7 @@
       "last_updated": "2026-08-01T01:33:24"
     },
     "20260605110812_twitter_com_Oz_Garlandd_status_2062853994142412960.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -59909,7 +59931,7 @@
           "https://pbs.twimg.com/profile_images/2062018906320162816/1TP6Fqct_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31",
+      "last_updated": "2026-08-19T03:42:49",
       "miss_count": 10
     },
     "20260605142825_twitter_com_Oz_Garlandd_status_2062904377153916956.json": {
@@ -69894,7 +69916,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260802160726_twitter_com_Oz_Garlandd_status_2083947792951582927.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOshA2uaMAAQp28.jpg",
@@ -69907,7 +69929,7 @@
           "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260802181909_twitter_com_Oz_Garlandd_status_2083980942951981281.json": {
       "status": "done",
@@ -69984,7 +70006,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260803035809_twitter_com_Oz_Garlandd_status_2084126651382628797.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -69993,7 +70015,7 @@
           "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260803063512_twitter_com_Oz_Garlandd_status_2084166175123022141.json": {
       "status": "done",
@@ -70008,7 +70030,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260803064701_twitter_com_Oz_Garlandd_status_2084169147093496266.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70017,7 +70039,7 @@
           "https://pbs.twimg.com/profile_images/2082460782110068736/taXZzWwd_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:36"
     },
     "20260803065534_twitter_com_Oz_Garlandd_status_2084171300956741692.json": {
       "status": "done",
@@ -70070,7 +70092,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260803154052_twitter_com_Oz_Garlandd_status_2084303494039679368.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70079,7 +70101,7 @@
           "https://pbs.twimg.com/profile_images/2082460782110068736/taXZzWwd_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:36"
     },
     "20260803154415_twitter_com_Oz_Garlandd_status_2084304346884313507.json": {
       "status": "done",
@@ -70094,7 +70116,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260803161112_twitter_com_Oz_Garlandd_status_2084311127354171789.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70103,10 +70125,10 @@
           "https://pbs.twimg.com/profile_images/2077596000076570624/BQeRyl4N_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260804041811_twitter_com_Oz_Garlandd_status_2084494079316951160.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70115,10 +70137,10 @@
           "https://pbs.twimg.com/profile_images/2080575581465526273/X0pROOte_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260804041930_twitter_com_Oz_Garlandd_status_2084494411556090143.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70127,7 +70149,7 @@
           "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260805070141_twitter_com_Oz_Garlandd_status_2084897616324596203.json": {
       "status": "done",
@@ -70142,7 +70164,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260805070733_twitter_com_Oz_Garlandd_status_2084899089313841268.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO5Qu-8a8AEHeRK.jpg"
@@ -70153,7 +70175,7 @@
           "https://pbs.twimg.com/profile_images/2078571045087494144/fcV9vGl6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260805160806_twitter_com_Oz_Garlandd_status_2085035124765176090.json": {
       "status": "done",
@@ -70180,7 +70202,7 @@
       "last_updated": "2026-08-19T03:08:22"
     },
     "20260805164308_twitter_com_Oz_Garlandd_status_2085043939308949835.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO79Tc6bAAAwDmj.jpg"
@@ -70191,7 +70213,7 @@
           "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260806022759_twitter_com_Oz_Garlandd_status_2085191122188443714.json": {
       "status": "done",
@@ -70352,7 +70374,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260809022529_twitter_com_Oz_Garlandd_status_2086277660141850855.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HId-wXsbEAAR83t.jpg"
@@ -70363,7 +70385,7 @@
           "https://pbs.twimg.com/profile_images/2053192001223606272/JJrL7kxw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260809022656_twitter_com_Oz_Garlandd_status_2086278024433918323.json": {
       "status": "done",
@@ -70391,7 +70413,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260809192049_twitter_com_Oz_Garlandd_status_2086533176663351381.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70401,10 +70423,10 @@
           "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260809193936_twitter_com_Oz_Garlandd_status_2086537902083682708.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPQKa4QaMAAQIKP.jpg",
@@ -70416,7 +70438,7 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:33"
     },
     "20260809194014_twitter_com_Oz_Garlandd_status_2086538061026914568.json": {
       "status": "done",
@@ -70433,7 +70455,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260809194319_twitter_com_Oz_Garlandd_status_2086538838688583836.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPOcYliaMAAKizM.jpg"
@@ -70444,10 +70466,10 @@
           "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260809194325_twitter_com_Oz_Garlandd_status_2086538862503866746.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPOcYliaMAAKizM.jpg"
@@ -70458,7 +70480,7 @@
           "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810070417_twitter_com_Oz_Garlandd_status_2086710207061565536.json": {
       "status": "done",
@@ -70473,7 +70495,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260810070437_twitter_com_Oz_Garlandd_status_2086710290117214211.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70482,7 +70504,7 @@
           "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810070446_twitter_com_Oz_Garlandd_status_2086710329266856318.json": {
       "status": "done",
@@ -70521,7 +70543,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260810175453_twitter_com_Oz_Garlandd_status_2086873935459627430.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70530,10 +70552,10 @@
           "https://pbs.twimg.com/profile_images/1834490209742061569/8UCx86xu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810175501_twitter_com_Oz_Garlandd_status_2086873971824169350.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70543,10 +70565,10 @@
           "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810175757_twitter_com_Oz_Garlandd_status_2086874708113260915.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70555,10 +70577,10 @@
           "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810180445_twitter_com_Oz_Garlandd_status_2086876421641679246.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70567,7 +70589,7 @@
           "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260810180633_twitter_com_Oz_Garlandd_status_2086876871241666651.json": {
       "status": "done",
@@ -70619,7 +70641,7 @@
       "last_updated": "2026-08-19T03:08:23"
     },
     "20260811070250_twitter_com_Oz_Garlandd_status_2087072232593895450.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70628,10 +70650,10 @@
           "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260811070506_twitter_com_Oz_Garlandd_status_2087072801156915602.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPaqYC1b0AAohcd.jpg"
@@ -70642,7 +70664,7 @@
           "https://pbs.twimg.com/profile_images/2086609050650001408/fdMqeNZJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260811070529_twitter_com_Oz_Garlandd_status_2087072896682172569.json": {
       "status": "done",
@@ -70710,7 +70732,7 @@
       "last_updated": "2026-08-19T03:08:24"
     },
     "20260811074752_twitter_com_Oz_Garlandd_status_2087083564143648858.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70720,10 +70742,10 @@
           "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260811075818_twitter_com_Oz_Garlandd_status_2087086190188962054.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70733,10 +70755,10 @@
           "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260811155859_twitter_com_Oz_Garlandd_status_2087207158408470902.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70745,10 +70767,10 @@
           "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260811155908_twitter_com_Oz_Garlandd_status_2087207196970913841.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70757,7 +70779,7 @@
           "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260812161041_twitter_com_Oz_Garlandd_status_2087572490012733796.json": {
       "status": "done",
@@ -70850,7 +70872,7 @@
       "last_updated": "2026-08-19T03:08:24"
     },
     "20260813201729_twitter_com_Oz_Garlandd_status_2087996985827594285.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
@@ -70862,10 +70884,10 @@
           "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260813201737_twitter_com_Oz_Garlandd_status_2087997019868537063.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
@@ -70877,7 +70899,7 @@
           "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:35:31"
+      "last_updated": "2026-08-19T03:36:34"
     },
     "20260813201815_twitter_com_Oz_Garlandd_status_2087997178513879287.json": {
       "status": "done",
