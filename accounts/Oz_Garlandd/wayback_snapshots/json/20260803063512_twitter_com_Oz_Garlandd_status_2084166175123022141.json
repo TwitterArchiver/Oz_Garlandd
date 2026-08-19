@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2083941290014597182",
+    "created_at": "2026-08-03T06:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084166175123022141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035406618981281792",
+          "start": 0,
+          "username": "NaOHwithHCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084166175123022141",
+    "in_reply_to_user_id": "2035406618981281792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084160431221051782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaOHwithHCl 右美加强版(应该"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2083941290014597182",
+        "created_at": "2026-08-03T06:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084166175123022141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035406618981281792",
+              "start": 0,
+              "username": "NaOHwithHCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084166175123022141",
+        "in_reply_to_user_id": "2035406618981281792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084160431221051782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaOHwithHCl 右美加强版(应该"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035406618981281792",
+        "conversation_id": "2083941290014597182",
+        "created_at": "2026-08-03T06:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084160431221051782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084160431221051782",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083941290014597182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 那是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 472,
+          "like_count": 33508,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T17:22:32.000Z",
+        "description": "MTX 精神问题\n战雷暗区重度依赖\n我要成为化学天才\n生产地点 江苏 无锡\n生产日期2009/10/11 \n无建模\n讨厌一切抽烟喝酒\n愿我能死于一场化学事故\n非男同 女装纯爱好\n最近不吃糖一个傻逼的抑郁症\n这里当qq空间用\n我很可愛 我很可愛喵喵喵~（堅定維護中國共產黨 祖國統一 把臺獨份子的狗頭砍下來喂高市早苗嘴裡）",
+        "id": "2035406618981281792",
+        "location": "空战历史性能 14.7江苏 🇨🇳VS（）",
+        "name": "没有未来的氢氧化钠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042279861654577152/4tYcpuKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 196,
+          "like_count": 2462,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "NaOHwithHCl",
+        "verified": false
+      }
+    ]
+  }
+}
