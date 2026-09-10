@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2088679806980268418",
+    "created_at": "2026-08-16T06:23:15.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088874210147877132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "NanoCatfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088874210147877132",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088698670484979886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanoCatfish 就是觉得戒断很屎(("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2088679806980268418",
+        "created_at": "2026-08-16T06:23:15.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088874210147877132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "NanoCatfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874210147877132",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088698670484979886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanoCatfish 就是觉得戒断很屎(("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "2088679806980268418",
+        "created_at": "2026-08-15T18:45:43.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088698670484979886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088698670484979886",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088679806980268418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 什么是jb戒断\nthinking💭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088874210147877132",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997644719908884480/1775762468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 466,
+          "like_count": 34069,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 2908
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "自由、平等、博爱 | 无性别认同\n二我 @Nano_Catfish\n梦境 @wimzylens0\n宠物 @bth95147\n姐姐 @LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Nano_Catfish"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "wimzylens0"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "bth95147"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanocatfish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanocatfish",
+                "start": 0,
+                "url": "https://t.co/I3vJIN10Zb"
+              }
+            ]
+          }
+        },
+        "id": "1832763086039896064",
+        "is_identity_verified": false,
+        "location": "🍀四叶草园🍀",
+        "most_recent_tweet_id": "2088872070335897915",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832763086039896064/1765570075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007057714342461440/5Gc8L4A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 316,
+          "like_count": 7415,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/I3vJIN10Zb",
+        "username": "NanoCatfish",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1997644719908884480",
+    "conversation_id": "2089874802018222550",
+    "created_at": "2026-08-19T00:39:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T01:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089874802018222550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081426564252848128",
+          "start": 3,
+          "username": "Shikiri5lkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/h0gO",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/h0gO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089874802018222550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089492308240855059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shikiri5lkk: 想要到100fo🥺发一个抽奖🤲🏻\n求帮转！转发+关注+点赞即可参加\n\n1.一份奶茶（折20可口令）\n2.一份15米口令🧧\n3.两份5米口令🧧\n\n抽四个宝宝！8.20号开\n\n你们也可以资助我吃药药！谢谢米娜🤲🏻 https://t.co/h0gO…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089492299269242880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9eLPLbgAAxWAn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_2089492299273424896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9eLPMbUAALHpu.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2089492299260813313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9eLPJa4AEq3eA.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2089492299273355264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9eLPMaQAA4jl7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2089874802018222550",
+        "created_at": "2026-08-19T00:39:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T01:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089874802018222550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081426564252848128",
+              "start": 3,
+              "username": "Shikiri5lkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/h0gO",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/h0gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089874802018222550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089492308240855059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shikiri5lkk: 想要到100fo🥺发一个抽奖🤲🏻\n求帮转！转发+关注+点赞即可参加\n\n1.一份奶茶（折20可口令）\n2.一份15米口令🧧\n3.两份5米口令🧧\n\n抽四个宝宝！8.20号开\n\n你们也可以资助我吃药药！谢谢米娜🤲🏻 https://t.co/h0gO…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089492299269242880",
+            "3_2089492299273424896",
+            "3_2089492299260813313",
+            "3_2089492299273355264"
+          ]
+        },
+        "author_id": "2081426564252848128",
+        "conversation_id": "2089492308240855059",
+        "created_at": "2026-08-17T23:19:21.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089492308240855059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0gOotGR6O",
+              "end": 128,
+              "expanded_url": "https://x.com/Shikiri5lkk/status/2089492308240855059/photo/1",
+              "media_key": "3_2089492299269242880",
+              "start": 105,
+              "url": "https://t.co/h0gOotGR6O"
+            },
+            {
+              "display_url": "pic.x.com/h0gOotGR6O",
+              "end": 128,
+              "expanded_url": "https://x.com/Shikiri5lkk/status/2089492308240855059/photo/1",
+              "media_key": "3_2089492299273424896",
+              "start": 105,
+              "url": "https://t.co/h0gOotGR6O"
+            },
+            {
+              "display_url": "pic.x.com/h0gOotGR6O",
+              "end": 128,
+              "expanded_url": "https://x.com/Shikiri5lkk/status/2089492308240855059/photo/1",
+              "media_key": "3_2089492299260813313",
+              "start": 105,
+              "url": "https://t.co/h0gOotGR6O"
+            },
+            {
+              "display_url": "pic.x.com/h0gOotGR6O",
+              "end": 128,
+              "expanded_url": "https://x.com/Shikiri5lkk/status/2089492308240855059/photo/1",
+              "media_key": "3_2089492299273355264",
+              "start": 105,
+              "url": "https://t.co/h0gOotGR6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089492308240855059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089492299269242880"
+          },
+          {
+            "media_key": "3_2089492299273424896"
+          },
+          {
+            "media_key": "3_2089492299260813313"
+          },
+          {
+            "media_key": "3_2089492299273355264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1886,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "想要到100fo🥺发一个抽奖🤲🏻\n求帮转！转发+关注+点赞即可参加\n\n1.一份奶茶（折20可口令）\n2.一份15米口令🧧\n3.两份5米口令🧧\n\n抽四个宝宝！8.20号开\n\n你们也可以资助我吃药药！谢谢米娜🤲🏻 https://t.co/h0gOotGR6O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089874802018222550",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997644719908884480/1775762468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 464,
+          "like_count": 34094,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2939
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T17:11:39.000Z",
+        "description": "总是在掉生命值\n查成分回fo｜💊🩸🚬｜身心女不约炮不线下\n最喜欢@lizdoll0111_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "lizdoll0111_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikiri5lkk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikiri5lkk",
+                "start": 0,
+                "url": "https://t.co/Oxul4Kow8r"
+              }
+            ]
+          }
+        },
+        "id": "2081426564252848128",
+        "is_identity_verified": false,
+        "location": "❤️‍🩹",
+        "most_recent_tweet_id": "2089856145108430970",
+        "name": "Shikiri",
+        "pinned_tweet_id": "2089113836955873571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081426564252848128/1785428640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082864451389435904/P10So_Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 125,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/Oxul4Kow8r",
+        "username": "Shikiri5lkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
